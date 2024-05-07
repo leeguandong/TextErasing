@@ -1,0 +1,1047 @@
+================ Training Loss (Fri Sep 16 15:32:33 2022) ================
+Sep-16-15:48:59 (epoch: 1, iters: 200, time: 986.045) G: 2.170 G_GAN: 0.055 G_L1_hole: 0.038 G_L1_valid: 0.166 G_prc: 0.016 G_style: 1.018 G_msr: 0.503 G_mask: 0.374 D_real: 1.247 D_fake: 0.219 D: 1.467 
+(epoch: 1 iter 199) psnr:  20.395; 20.072; 19.484; 19.235;
+Sep-16-16:06:37 (epoch: 1, iters: 400, time: 1058.094) G: 1.547 G_GAN: 0.034 G_L1_hole: 0.043 G_L1_valid: 0.122 G_prc: 0.012 G_style: 0.528 G_msr: 0.501 G_mask: 0.307 D_real: 1.115 D_fake: 0.660 D: 1.776 
+(epoch: 1 iter 399) psnr:  20.048; 19.726; 19.683; 19.352;
+Sep-16-16:24:54 (epoch: 1, iters: 600, time: 1096.201) G: 1.392 G_GAN: 0.088 G_L1_hole: 0.043 G_L1_valid: 0.120 G_prc: 0.012 G_style: 0.561 G_msr: 0.413 G_mask: 0.156 D_real: 1.903 D_fake: 0.112 D: 2.015 
+(epoch: 1 iter 599) psnr:  20.183; 19.882; 19.821; 19.472;
+Sep-16-16:44:29 (epoch: 1, iters: 800, time: 1175.158) G: 1.316 G_GAN: 0.040 G_L1_hole: 0.061 G_L1_valid: 0.100 G_prc: 0.012 G_style: 0.476 G_msr: 0.475 G_mask: 0.152 D_real: 1.436 D_fake: 0.693 D: 2.129 
+(epoch: 1 iter 799) psnr:  20.577; 20.229; 20.191; 19.817;
+Sep-16-17:03:56 (epoch: 1, iters: 1000, time: 1167.148) G: 1.581 G_GAN: -0.046 G_L1_hole: 0.048 G_L1_valid: 0.100 G_prc: 0.014 G_style: 0.682 G_msr: 0.331 G_mask: 0.452 D_real: 0.460 D_fake: 1.417 D: 1.877 
+(epoch: 1 iter 999) psnr:  20.317; 19.996; 20.021; 19.654;
+Sep-16-17:23:26 (epoch: 1, iters: 1200, time: 1170.524) G: 1.421 G_GAN: 0.057 G_L1_hole: 0.194 G_L1_valid: 0.094 G_prc: 0.011 G_style: 0.476 G_msr: 0.504 G_mask: 0.085 D_real: 1.178 D_fake: 0.389 D: 1.566 
+(epoch: 1 iter 1199) psnr:  20.874; 20.428; 20.467; 19.983;
+Sep-16-17:42:56 (epoch: 1, iters: 1400, time: 1169.924) G: 1.537 G_GAN: 0.085 G_L1_hole: 0.111 G_L1_valid: 0.130 G_prc: 0.013 G_style: 0.472 G_msr: 0.578 G_mask: 0.147 D_real: 0.000 D_fake: 1.657 D: 1.657 
+(epoch: 1 iter 1399) psnr:  20.678; 20.320; 20.303; 19.921;
+Sep-16-18:02:29 (epoch: 1, iters: 1600, time: 1173.068) G: 1.101 G_GAN: -0.038 G_L1_hole: 0.071 G_L1_valid: 0.109 G_prc: 0.010 G_style: 0.496 G_msr: 0.280 G_mask: 0.173 D_real: 0.562 D_fake: 1.692 D: 2.254 
+(epoch: 1 iter 1599) psnr:  20.719; 20.364; 20.368; 19.970;
+Sep-16-18:22:02 (epoch: 1, iters: 1800, time: 1172.682) G: 0.846 G_GAN: 0.008 G_L1_hole: 0.000 G_L1_valid: 0.097 G_prc: 0.007 G_style: 0.276 G_msr: 0.347 G_mask: 0.111 D_real: 0.876 D_fake: 0.879 D: 1.755 
+(epoch: 1 iter 1799) psnr:  20.878; 20.510; 20.517; 20.131;
+Sep-16-18:41:41 (epoch: 1, iters: 2000, time: 1178.583) G: 1.159 G_GAN: 0.057 G_L1_hole: 0.000 G_L1_valid: 0.097 G_prc: 0.009 G_style: 0.507 G_msr: 0.235 G_mask: 0.253 D_real: 1.439 D_fake: 0.411 D: 1.850 
+(epoch: 1 iter 1999) psnr:  21.457; 21.116; 20.903; 20.555;
+Sep-16-19:01:24 (epoch: 1, iters: 2200, time: 1183.500) G: 1.168 G_GAN: 0.028 G_L1_hole: 0.112 G_L1_valid: 0.070 G_prc: 0.010 G_style: 0.389 G_msr: 0.408 G_mask: 0.150 D_real: 0.719 D_fake: 1.028 D: 1.746 
+(epoch: 1 iter 2199) psnr:  22.527; 22.126; 21.879; 21.463;
+Sep-16-19:21:05 (epoch: 1, iters: 2400, time: 1180.605) G: 1.869 G_GAN: 0.022 G_L1_hole: 0.000 G_L1_valid: 0.125 G_prc: 0.014 G_style: 0.861 G_msr: 0.302 G_mask: 0.546 D_real: 0.000 D_fake: 1.500 D: 1.500 
+(epoch: 1 iter 2399) psnr:  21.016; 20.802; 20.708; 20.415;
+Sep-16-19:40:44 (epoch: 1, iters: 2600, time: 1179.653) G: 0.556 G_GAN: 0.007 G_L1_hole: 0.010 G_L1_valid: 0.067 G_prc: 0.006 G_style: 0.196 G_msr: 0.153 G_mask: 0.118 D_real: 1.019 D_fake: 0.911 D: 1.930 
+(epoch: 1 iter 2599) psnr:  23.165; 22.891; 22.395; 22.014;
+Sep-16-20:00:31 (epoch: 1, iters: 2800, time: 1186.824) G: 1.130 G_GAN: 0.095 G_L1_hole: 0.085 G_L1_valid: 0.041 G_prc: 0.009 G_style: 0.399 G_msr: 0.254 G_mask: 0.245 D_real: 1.815 D_fake: 0.051 D: 1.866 
+(epoch: 1 iter 2799) psnr:  23.240; 22.975; 22.398; 21.984;
+Sep-16-20:20:10 (epoch: 1, iters: 3000, time: 1178.776) G: 0.950 G_GAN: 0.029 G_L1_hole: 0.064 G_L1_valid: 0.057 G_prc: 0.010 G_style: 0.341 G_msr: 0.328 G_mask: 0.121 D_real: 1.314 D_fake: 0.653 D: 1.968 
+(epoch: 1 iter 2999) psnr:  23.203; 22.724; 22.347; 21.708;
+Sep-16-20:39:46 (epoch: 1, iters: 3200, time: 1175.540) G: 0.810 G_GAN: 0.014 G_L1_hole: 0.073 G_L1_valid: 0.059 G_prc: 0.008 G_style: 0.269 G_msr: 0.255 G_mask: 0.132 D_real: 0.941 D_fake: 0.947 D: 1.889 
+(epoch: 1 iter 3199) psnr:  22.738; 22.425; 21.944; 21.576;
+Sep-16-20:59:31 (epoch: 1, iters: 3400, time: 1185.445) G: 0.597 G_GAN: 0.030 G_L1_hole: 0.011 G_L1_valid: 0.059 G_prc: 0.007 G_style: 0.219 G_msr: 0.171 G_mask: 0.100 D_real: 1.277 D_fake: 0.717 D: 1.994 
+(epoch: 1 iter 3399) psnr:  23.318; 23.063; 22.293; 21.915;
+Sep-16-21:19:16 (epoch: 1, iters: 3600, time: 1185.070) G: 0.559 G_GAN: -0.063 G_L1_hole: 0.000 G_L1_valid: 0.056 G_prc: 0.007 G_style: 0.231 G_msr: 0.197 G_mask: 0.132 D_real: 0.381 D_fake: 1.512 D: 1.893 
+(epoch: 1 iter 3599) psnr:  21.926; 21.826; 21.525; 21.302;
+Sep-16-21:39:18 (epoch: 1, iters: 3800, time: 1201.850) G: 0.747 G_GAN: 0.032 G_L1_hole: 0.043 G_L1_valid: 0.047 G_prc: 0.007 G_style: 0.187 G_msr: 0.309 G_mask: 0.122 D_real: 1.465 D_fake: 0.557 D: 2.022 
+(epoch: 1 iter 3799) psnr:  23.745; 23.474; 22.768; 22.440;
+Sep-16-21:59:22 (epoch: 1, iters: 4000, time: 1204.152) G: 0.719 G_GAN: -0.034 G_L1_hole: 0.055 G_L1_valid: 0.058 G_prc: 0.008 G_style: 0.221 G_msr: 0.307 G_mask: 0.104 D_real: 0.851 D_fake: 0.911 D: 1.762 
+(epoch: 1 iter 3999) psnr:  24.376; 24.219; 22.788; 22.398;
+Sep-16-22:19:22 (epoch: 1, iters: 4200, time: 1199.750) G: 1.114 G_GAN: -0.010 G_L1_hole: 0.096 G_L1_valid: 0.068 G_prc: 0.013 G_style: 0.459 G_msr: 0.314 G_mask: 0.175 D_real: 0.731 D_fake: 1.286 D: 2.018 
+(epoch: 1 iter 4199) psnr:  23.445; 23.147; 22.584; 22.228;
+Sep-16-22:39:29 (epoch: 1, iters: 4400, time: 1207.125) G: 0.564 G_GAN: 0.025 G_L1_hole: 0.024 G_L1_valid: 0.048 G_prc: 0.005 G_style: 0.161 G_msr: 0.217 G_mask: 0.084 D_real: 1.150 D_fake: 0.684 D: 1.834 
+(epoch: 1 iter 4399) psnr:  23.881; 23.606; 22.513; 22.140;
+Sep-16-22:59:32 (epoch: 1, iters: 4600, time: 1202.733) G: 0.534 G_GAN: 0.067 G_L1_hole: 0.013 G_L1_valid: 0.034 G_prc: 0.006 G_style: 0.165 G_msr: 0.150 G_mask: 0.098 D_real: 1.585 D_fake: 0.403 D: 1.987 
+(epoch: 1 iter 4599) psnr:  24.504; 24.108; 23.447; 22.924;
+Sep-16-23:19:27 (epoch: 1, iters: 4800, time: 1194.951) G: 1.455 G_GAN: 0.005 G_L1_hole: 0.245 G_L1_valid: 0.058 G_prc: 0.013 G_style: 0.443 G_msr: 0.595 G_mask: 0.097 D_real: 1.131 D_fake: 0.700 D: 1.831 
+(epoch: 1 iter 4799) psnr:  24.343; 23.845; 23.335; 22.840;
+Sep-16-23:39:00 (epoch: 1, iters: 5000, time: 1173.645) G: 1.096 G_GAN: 0.039 G_L1_hole: 0.067 G_L1_valid: 0.059 G_prc: 0.008 G_style: 0.325 G_msr: 0.418 G_mask: 0.180 D_real: 1.325 D_fake: 0.504 D: 1.829 
+(epoch: 1 iter 4999) psnr:  24.500; 24.268; 22.930; 22.520;
+Sep-16-23:58:46 (epoch: 1, iters: 5200, time: 1186.024) G: 1.121 G_GAN: -0.014 G_L1_hole: 0.129 G_L1_valid: 0.063 G_prc: 0.010 G_style: 0.332 G_msr: 0.460 G_mask: 0.140 D_real: 0.257 D_fake: 1.152 D: 1.408 
+(epoch: 1 iter 5199) psnr:  24.605; 24.183; 23.345; 22.815;
+Sep-17-00:18:23 (epoch: 1, iters: 5400, time: 1176.674) G: 0.992 G_GAN: 0.080 G_L1_hole: 0.085 G_L1_valid: 0.061 G_prc: 0.008 G_style: 0.311 G_msr: 0.309 G_mask: 0.137 D_real: 1.279 D_fake: 0.258 D: 1.537 
+(epoch: 1 iter 5399) psnr:  24.052; 23.494; 22.828; 22.300;
+Sep-17-00:38:12 (epoch: 1, iters: 5600, time: 1189.369) G: 0.480 G_GAN: 0.035 G_L1_hole: 0.000 G_L1_valid: 0.045 G_prc: 0.005 G_style: 0.160 G_msr: 0.167 G_mask: 0.068 D_real: 1.359 D_fake: 0.674 D: 2.033 
+(epoch: 1 iter 5599) psnr:  22.870; 22.833; 21.889; 21.713;
+Sep-17-00:57:56 (epoch: 1, iters: 5800, time: 1183.778) G: 1.081 G_GAN: -0.036 G_L1_hole: 0.132 G_L1_valid: 0.047 G_prc: 0.009 G_style: 0.449 G_msr: 0.324 G_mask: 0.155 D_real: 0.516 D_fake: 1.398 D: 1.914 
+(epoch: 1 iter 5799) psnr:  24.411; 23.976; 23.149; 22.649;
+Sep-17-01:17:17 (epoch: 1, iters: 6000, time: 1161.098) G: 0.992 G_GAN: 0.059 G_L1_hole: 0.000 G_L1_valid: 0.046 G_prc: 0.006 G_style: 0.140 G_msr: 0.167 G_mask: 0.573 D_real: 1.578 D_fake: 0.416 D: 1.994 
+(epoch: 1 iter 5999) psnr:  24.439; 23.993; 23.343; 22.792;
+Sep-17-01:36:55 (epoch: 1, iters: 6200, time: 1177.797) G: 0.744 G_GAN: 0.068 G_L1_hole: 0.029 G_L1_valid: 0.049 G_prc: 0.007 G_style: 0.254 G_msr: 0.201 G_mask: 0.136 D_real: 1.637 D_fake: 0.301 D: 1.938 
+(epoch: 1 iter 6199) psnr:  25.144; 24.595; 23.739; 23.251;
+Sep-17-01:56:23 (epoch: 1, iters: 6400, time: 1167.743) G: 0.646 G_GAN: -0.024 G_L1_hole: 0.070 G_L1_valid: 0.038 G_prc: 0.007 G_style: 0.203 G_msr: 0.274 G_mask: 0.078 D_real: 0.335 D_fake: 0.882 D: 1.217 
+(epoch: 1 iter 6399) psnr:  22.129; 22.204; 21.668; 21.598;
+Sep-17-02:16:13 (epoch: 1, iters: 6600, time: 1190.286) G: 0.791 G_GAN: -0.007 G_L1_hole: 0.084 G_L1_valid: 0.057 G_prc: 0.006 G_style: 0.225 G_msr: 0.224 G_mask: 0.202 D_real: 0.962 D_fake: 1.314 D: 2.276 
+(epoch: 1 iter 6599) psnr:  24.956; 24.339; 23.412; 22.785;
+Sep-17-02:36:33 (epoch: 1, iters: 6800, time: 1220.375) G: 0.716 G_GAN: 0.004 G_L1_hole: 0.036 G_L1_valid: 0.048 G_prc: 0.008 G_style: 0.250 G_msr: 0.202 G_mask: 0.168 D_real: 1.275 D_fake: 0.869 D: 2.143 
+(epoch: 1 iter 6799) psnr:  24.513; 24.181; 23.423; 23.024;
+Sep-17-02:56:38 (epoch: 1, iters: 7000, time: 1204.568) G: 0.912 G_GAN: 0.001 G_L1_hole: 0.000 G_L1_valid: 0.069 G_prc: 0.006 G_style: 0.307 G_msr: 0.152 G_mask: 0.377 D_real: 1.572 D_fake: 0.311 D: 1.883 
+(epoch: 1 iter 6999) psnr:  23.990; 23.736; 23.171; 22.793;
+Sep-17-03:16:35 (epoch: 1, iters: 7200, time: 1196.597) G: 0.764 G_GAN: -0.017 G_L1_hole: 0.114 G_L1_valid: 0.032 G_prc: 0.008 G_style: 0.229 G_msr: 0.327 G_mask: 0.070 D_real: 1.084 D_fake: 0.833 D: 1.917 
+(epoch: 1 iter 7199) psnr:  24.547; 23.998; 23.617; 23.139;
+Sep-17-03:36:25 (epoch: 1, iters: 7400, time: 1189.920) G: 0.866 G_GAN: -0.016 G_L1_hole: 0.031 G_L1_valid: 0.073 G_prc: 0.009 G_style: 0.323 G_msr: 0.229 G_mask: 0.217 D_real: 0.680 D_fake: 1.082 D: 1.762 
+(epoch: 1 iter 7399) psnr:  24.864; 24.506; 23.631; 23.183;
+Sep-17-03:56:03 (epoch: 1, iters: 7600, time: 1178.226) G: 0.367 G_GAN: 0.036 G_L1_hole: 0.000 G_L1_valid: 0.028 G_prc: 0.003 G_style: 0.084 G_msr: 0.128 G_mask: 0.088 D_real: 1.120 D_fake: 0.981 D: 2.101 
+(epoch: 1 iter 7599) psnr:  23.965; 23.821; 23.323; 23.085;
+Sep-17-04:15:54 (epoch: 1, iters: 7800, time: 1191.509) G: 1.244 G_GAN: 0.012 G_L1_hole: 0.164 G_L1_valid: 0.074 G_prc: 0.011 G_style: 0.405 G_msr: 0.489 G_mask: 0.088 D_real: 0.491 D_fake: 1.082 D: 1.573 
+(epoch: 1 iter 7799) psnr:  23.680; 23.579; 22.677; 22.401;
+Sep-17-04:34:21 (epoch: 1, iters: 8000, time: 1106.485) G: 0.765 G_GAN: 0.075 G_L1_hole: 0.047 G_L1_valid: 0.052 G_prc: 0.006 G_style: 0.219 G_msr: 0.242 G_mask: 0.124 D_real: 1.276 D_fake: 0.504 D: 1.781 
+(epoch: 1 iter 7999) psnr:  24.658; 24.316; 23.776; 23.249;
+Sep-17-04:52:39 (epoch: 1, iters: 8200, time: 1097.858) G: 0.737 G_GAN: 0.027 G_L1_hole: 0.000 G_L1_valid: 0.075 G_prc: 0.006 G_style: 0.286 G_msr: 0.157 G_mask: 0.186 D_real: 1.290 D_fake: 0.625 D: 1.915 
+(epoch: 1 iter 8199) psnr:  23.652; 23.352; 22.957; 22.543;
+Sep-17-05:11:00 (epoch: 1, iters: 8400, time: 1101.522) G: 0.764 G_GAN: -0.024 G_L1_hole: 0.067 G_L1_valid: 0.036 G_prc: 0.007 G_style: 0.261 G_msr: 0.327 G_mask: 0.089 D_real: 0.473 D_fake: 1.185 D: 1.658 
+(epoch: 1 iter 8399) psnr:  23.789; 23.440; 23.122; 22.723;
+Sep-17-05:29:18 (epoch: 1, iters: 8600, time: 1098.289) G: 0.561 G_GAN: 0.057 G_L1_hole: 0.024 G_L1_valid: 0.037 G_prc: 0.005 G_style: 0.117 G_msr: 0.220 G_mask: 0.102 D_real: 1.365 D_fake: 0.509 D: 1.874 
+(epoch: 1 iter 8599) psnr:  24.626; 24.051; 23.334; 22.739;
+Sep-17-05:47:39 (epoch: 1, iters: 8800, time: 1100.535) G: 0.547 G_GAN: 0.086 G_L1_hole: 0.024 G_L1_valid: 0.037 G_prc: 0.006 G_style: 0.136 G_msr: 0.164 G_mask: 0.093 D_real: 1.815 D_fake: 0.213 D: 2.028 
+(epoch: 1 iter 8799) psnr:  23.945; 23.862; 22.973; 22.712;
+Sep-17-06:05:46 (epoch: 1, iters: 9000, time: 1086.612) G: 0.781 G_GAN: 0.105 G_L1_hole: 0.088 G_L1_valid: 0.040 G_prc: 0.008 G_style: 0.196 G_msr: 0.285 G_mask: 0.060 D_real: 0.000 D_fake: 2.101 D: 2.101 
+(epoch: 1 iter 8999) psnr:  24.649; 24.220; 23.616; 23.104;
+Sep-17-06:23:58 (epoch: 1, iters: 9200, time: 1092.890) G: 0.873 G_GAN: 0.068 G_L1_hole: 0.053 G_L1_valid: 0.054 G_prc: 0.010 G_style: 0.249 G_msr: 0.233 G_mask: 0.206 D_real: 1.643 D_fake: 0.383 D: 2.026 
+(epoch: 1 iter 9199) psnr:  24.663; 24.466; 23.265; 22.909;
+Sep-17-06:42:17 (epoch: 1, iters: 9400, time: 1098.033) G: 0.460 G_GAN: 0.023 G_L1_hole: 0.026 G_L1_valid: 0.031 G_prc: 0.005 G_style: 0.135 G_msr: 0.150 G_mask: 0.091 D_real: 0.410 D_fake: 1.073 D: 1.483 
+(epoch: 1 iter 9399) psnr:  24.655; 24.467; 23.514; 23.172;
+Sep-17-07:00:24 (epoch: 1, iters: 9600, time: 1087.841) G: 0.953 G_GAN: 0.058 G_L1_hole: 0.117 G_L1_valid: 0.036 G_prc: 0.009 G_style: 0.229 G_msr: 0.343 G_mask: 0.162 D_real: 1.537 D_fake: 0.472 D: 2.009 
+(epoch: 1 iter 9599) psnr:  22.887; 22.875; 22.184; 22.098;
+Sep-17-07:18:40 (epoch: 1, iters: 9800, time: 1095.198) G: 0.547 G_GAN: 0.058 G_L1_hole: 0.000 G_L1_valid: 0.041 G_prc: 0.005 G_style: 0.117 G_msr: 0.143 G_mask: 0.182 D_real: 1.602 D_fake: 0.500 D: 2.102 
+(epoch: 1 iter 9799) psnr:  22.432; 22.357; 21.899; 21.756;
+Sep-17-07:36:54 (epoch: 1, iters: 10000, time: 1094.611) G: 0.825 G_GAN: -0.016 G_L1_hole: 0.095 G_L1_valid: 0.042 G_prc: 0.009 G_style: 0.262 G_msr: 0.311 G_mask: 0.121 D_real: 0.000 D_fake: 2.312 D: 2.312 
+(epoch: 1 iter 9999) psnr:  23.223; 22.959; 22.671; 22.371;
+Sep-17-07:55:03 (epoch: 1, iters: 10200, time: 1089.296) G: 0.827 G_GAN: -0.019 G_L1_hole: 0.070 G_L1_valid: 0.078 G_prc: 0.006 G_style: 0.201 G_msr: 0.332 G_mask: 0.159 D_real: 0.711 D_fake: 1.063 D: 1.774 
+(epoch: 1 iter 10199) psnr:  23.294; 23.177; 22.553; 22.398;
+Sep-17-08:13:14 (epoch: 1, iters: 10400, time: 1090.211) G: 0.742 G_GAN: 0.008 G_L1_hole: 0.054 G_L1_valid: 0.043 G_prc: 0.005 G_style: 0.243 G_msr: 0.271 G_mask: 0.118 D_real: 0.775 D_fake: 0.895 D: 1.671 
+(epoch: 1 iter 10399) psnr:  24.271; 24.014; 23.269; 23.003;
+Sep-17-08:31:21 (epoch: 1, iters: 10600, time: 1087.554) G: 0.946 G_GAN: 0.002 G_L1_hole: 0.075 G_L1_valid: 0.048 G_prc: 0.007 G_style: 0.326 G_msr: 0.281 G_mask: 0.207 D_real: 0.932 D_fake: 1.087 D: 2.019 
+(epoch: 1 iter 10599) psnr:  25.201; 24.849; 23.883; 23.362;
+Sep-17-08:49:27 (epoch: 1, iters: 10800, time: 1085.584) G: 0.609 G_GAN: 0.025 G_L1_hole: 0.075 G_L1_valid: 0.049 G_prc: 0.005 G_style: 0.120 G_msr: 0.193 G_mask: 0.143 D_real: 1.756 D_fake: 0.885 D: 2.642 
+(epoch: 1 iter 10799) psnr:  23.532; 23.102; 22.452; 22.025;
+Sep-17-09:07:38 (epoch: 1, iters: 11000, time: 1090.870) G: 0.471 G_GAN: 0.050 G_L1_hole: 0.018 G_L1_valid: 0.043 G_prc: 0.005 G_style: 0.111 G_msr: 0.144 G_mask: 0.099 D_real: 1.344 D_fake: 0.572 D: 1.916 
+(epoch: 1 iter 10999) psnr:  23.031; 22.930; 22.422; 22.275;
+Sep-17-09:25:49 (epoch: 1, iters: 11200, time: 1091.495) G: 0.453 G_GAN: 0.006 G_L1_hole: 0.032 G_L1_valid: 0.035 G_prc: 0.005 G_style: 0.116 G_msr: 0.141 G_mask: 0.120 D_real: 0.844 D_fake: 1.050 D: 1.894 
+(epoch: 1 iter 11199) psnr:  24.682; 24.444; 23.620; 23.346;
+Sep-17-09:44:23 (epoch: 1, iters: 11400, time: 1114.055) G: 0.703 G_GAN: 0.059 G_L1_hole: 0.034 G_L1_valid: 0.046 G_prc: 0.006 G_style: 0.127 G_msr: 0.270 G_mask: 0.161 D_real: 1.580 D_fake: 0.418 D: 1.998 
+(epoch: 1 iter 11399) psnr:  22.447; 22.191; 21.958; 21.735;
+Sep-17-10:02:56 (epoch: 1, iters: 11600, time: 1112.993) G: 0.437 G_GAN: 0.040 G_L1_hole: 0.000 G_L1_valid: 0.041 G_prc: 0.004 G_style: 0.127 G_msr: 0.124 G_mask: 0.101 D_real: 0.982 D_fake: 0.893 D: 1.875 
+(epoch: 1 iter 11599) psnr:  23.159; 22.947; 22.418; 22.155;
+Sep-17-10:21:34 (epoch: 1, iters: 11800, time: 1117.587) G: 0.558 G_GAN: 0.056 G_L1_hole: 0.057 G_L1_valid: 0.058 G_prc: 0.005 G_style: 0.130 G_msr: 0.180 G_mask: 0.072 D_real: 1.676 D_fake: 0.430 D: 2.107 
+(epoch: 1 iter 11799) psnr:  23.228; 23.032; 22.586; 22.419;
+Sep-17-10:40:23 (epoch: 1, iters: 12000, time: 1129.065) G: 0.687 G_GAN: 0.072 G_L1_hole: 0.077 G_L1_valid: 0.032 G_prc: 0.006 G_style: 0.144 G_msr: 0.271 G_mask: 0.087 D_real: 1.600 D_fake: 0.288 D: 1.887 
+(epoch: 1 iter 11999) psnr:  24.108; 23.634; 23.194; 22.806;
+Sep-17-10:59:21 (epoch: 1, iters: 12200, time: 1137.971) G: 0.472 G_GAN: -0.005 G_L1_hole: 0.058 G_L1_valid: 0.020 G_prc: 0.005 G_style: 0.136 G_msr: 0.203 G_mask: 0.056 D_real: 0.618 D_fake: 1.403 D: 2.021 
+(epoch: 1 iter 12199) psnr:  22.524; 22.255; 22.078; 21.804;
+Sep-17-11:17:59 (epoch: 1, iters: 12400, time: 1117.892) G: 0.583 G_GAN: 0.075 G_L1_hole: 0.056 G_L1_valid: 0.041 G_prc: 0.004 G_style: 0.125 G_msr: 0.206 G_mask: 0.076 D_real: 1.864 D_fake: 0.000 D: 1.864 
+(epoch: 1 iter 12399) psnr:  25.173; 25.111; 24.190; 23.938;
+Sep-17-11:36:39 (epoch: 1, iters: 12600, time: 1120.333) G: 1.008 G_GAN: 0.132 G_L1_hole: 0.183 G_L1_valid: 0.025 G_prc: 0.005 G_style: 0.153 G_msr: 0.380 G_mask: 0.130 D_real: 2.024 D_fake: 0.025 D: 2.049 
+(epoch: 1 iter 12599) psnr:  22.561; 22.597; 21.651; 21.498;
+Sep-17-11:55:14 (epoch: 1, iters: 12800, time: 1114.514) G: 0.510 G_GAN: 0.069 G_L1_hole: 0.030 G_L1_valid: 0.057 G_prc: 0.005 G_style: 0.139 G_msr: 0.164 G_mask: 0.046 D_real: 2.013 D_fake: 0.000 D: 2.013 
+(epoch: 1 iter 12799) psnr:  22.777; 22.642; 22.299; 22.120;
+Sep-17-12:13:36 (epoch: 1, iters: 13000, time: 1102.562) G: 0.407 G_GAN: -0.050 G_L1_hole: 0.033 G_L1_valid: 0.055 G_prc: 0.004 G_style: 0.144 G_msr: 0.163 G_mask: 0.058 D_real: 1.142 D_fake: 0.737 D: 1.878 
+(epoch: 1 iter 12999) psnr:  22.511; 22.486; 21.905; 21.825;
+Sep-17-12:31:48 (epoch: 1, iters: 13200, time: 1091.474) G: 0.777 G_GAN: 0.062 G_L1_hole: 0.040 G_L1_valid: 0.039 G_prc: 0.007 G_style: 0.247 G_msr: 0.218 G_mask: 0.164 D_real: 1.506 D_fake: 0.396 D: 1.903 
+(epoch: 1 iter 13199) psnr:  20.587; 20.404; 20.359; 20.191;
+Sep-17-12:49:50 (epoch: 1, iters: 13400, time: 1082.093) G: 0.777 G_GAN: 0.015 G_L1_hole: 0.112 G_L1_valid: 0.025 G_prc: 0.006 G_style: 0.180 G_msr: 0.342 G_mask: 0.096 D_real: 0.897 D_fake: 0.607 D: 1.504 
+(epoch: 1 iter 13399) psnr:  24.579; 24.281; 23.268; 22.877;
+Sep-17-13:07:57 (epoch: 1, iters: 13600, time: 1087.631) G: 0.682 G_GAN: 0.051 G_L1_hole: 0.048 G_L1_valid: 0.055 G_prc: 0.005 G_style: 0.161 G_msr: 0.229 G_mask: 0.133 D_real: 2.027 D_fake: 0.000 D: 2.027 
+(epoch: 1 iter 13599) psnr:  24.269; 24.072; 23.333; 23.119;
+Sep-17-13:26:09 (epoch: 1, iters: 13800, time: 1091.477) G: 0.762 G_GAN: 0.051 G_L1_hole: 0.082 G_L1_valid: 0.031 G_prc: 0.006 G_style: 0.145 G_msr: 0.283 G_mask: 0.162 D_real: 1.612 D_fake: 0.527 D: 2.139 
+(epoch: 1 iter 13799) psnr:  23.463; 23.295; 22.618; 22.415;
+Sep-17-13:44:14 (epoch: 1, iters: 14000, time: 1085.277) G: 0.541 G_GAN: 0.026 G_L1_hole: 0.055 G_L1_valid: 0.042 G_prc: 0.005 G_style: 0.121 G_msr: 0.210 G_mask: 0.080 D_real: 1.057 D_fake: 0.705 D: 1.762 
+(epoch: 1 iter 13999) psnr:  22.149; 21.913; 21.763; 21.473;
+Sep-17-14:02:24 (epoch: 1, iters: 14200, time: 1090.122) G: 0.470 G_GAN: 0.036 G_L1_hole: 0.000 G_L1_valid: 0.052 G_prc: 0.005 G_style: 0.142 G_msr: 0.121 G_mask: 0.115 D_real: 1.372 D_fake: 0.593 D: 1.964 
+(epoch: 1 iter 14199) psnr:  22.697; 22.440; 22.185; 21.943;
+Sep-17-14:20:48 (epoch: 1, iters: 14400, time: 1103.554) G: 0.505 G_GAN: 0.027 G_L1_hole: 0.026 G_L1_valid: 0.037 G_prc: 0.005 G_style: 0.162 G_msr: 0.163 G_mask: 0.086 D_real: 1.329 D_fake: 0.742 D: 2.072 
+(epoch: 1 iter 14399) psnr:  21.097; 20.839; 20.770; 20.523;
+Sep-17-14:39:30 (epoch: 1, iters: 14600, time: 1122.182) G: 0.537 G_GAN: 0.050 G_L1_hole: 0.029 G_L1_valid: 0.047 G_prc: 0.003 G_style: 0.092 G_msr: 0.216 G_mask: 0.098 D_real: 1.357 D_fake: 0.674 D: 2.031 
+(epoch: 1 iter 14599) psnr:  23.053; 23.079; 22.385; 22.243;
+Sep-17-14:58:17 (epoch: 1, iters: 14800, time: 1126.819) G: 0.301 G_GAN: -0.118 G_L1_hole: 0.028 G_L1_valid: 0.037 G_prc: 0.004 G_style: 0.106 G_msr: 0.129 G_mask: 0.115 D_real: 0.235 D_fake: 1.464 D: 1.699 
+(epoch: 1 iter 14799) psnr:  23.118; 22.925; 22.543; 22.260;
+Sep-17-15:16:59 (epoch: 1, iters: 15000, time: 1122.181) G: 0.770 G_GAN: 0.050 G_L1_hole: 0.105 G_L1_valid: 0.059 G_prc: 0.007 G_style: 0.210 G_msr: 0.250 G_mask: 0.089 D_real: 1.724 D_fake: 0.313 D: 2.037 
+(epoch: 1 iter 14999) psnr:  22.713; 22.670; 22.114; 21.883;
+Sep-17-15:35:40 (epoch: 1, iters: 15200, time: 1121.167) G: 0.491 G_GAN: 0.042 G_L1_hole: 0.020 G_L1_valid: 0.031 G_prc: 0.005 G_style: 0.135 G_msr: 0.142 G_mask: 0.117 D_real: 1.375 D_fake: 0.553 D: 1.928 
+(epoch: 1 iter 15199) psnr:  22.588; 22.470; 22.107; 21.928;
+Sep-17-15:54:21 (epoch: 1, iters: 15400, time: 1120.976) G: 0.459 G_GAN: 0.061 G_L1_hole: 0.029 G_L1_valid: 0.029 G_prc: 0.004 G_style: 0.092 G_msr: 0.159 G_mask: 0.084 D_real: 1.469 D_fake: 0.403 D: 1.872 
+(epoch: 1 iter 15399) psnr:  21.067; 21.083; 20.810; 20.770;
+Sep-17-16:13:08 (epoch: 1, iters: 15600, time: 1127.193) G: 0.925 G_GAN: -0.075 G_L1_hole: 0.134 G_L1_valid: 0.044 G_prc: 0.008 G_style: 0.286 G_msr: 0.427 G_mask: 0.101 D_real: 0.215 D_fake: 1.453 D: 1.668 
+(epoch: 1 iter 15599) psnr:  23.462; 23.095; 22.421; 22.120;
+Sep-17-16:31:17 (epoch: 1, iters: 15800, time: 1088.584) G: 0.582 G_GAN: 0.008 G_L1_hole: 0.032 G_L1_valid: 0.039 G_prc: 0.006 G_style: 0.189 G_msr: 0.187 G_mask: 0.120 D_real: 1.201 D_fake: 0.892 D: 2.092 
+(epoch: 1 iter 15799) psnr:  22.277; 22.296; 21.927; 21.803;
+Sep-17-16:49:20 (epoch: 1, iters: 16000, time: 1082.659) G: 0.669 G_GAN: -0.005 G_L1_hole: 0.100 G_L1_valid: 0.021 G_prc: 0.006 G_style: 0.214 G_msr: 0.210 G_mask: 0.122 D_real: 1.130 D_fake: 1.036 D: 2.166 
+(epoch: 1 iter 15999) psnr:  22.360; 22.416; 21.999; 21.888;
+Sep-17-17:07:29 (epoch: 1, iters: 16200, time: 1089.699) G: 0.933 G_GAN: 0.044 G_L1_hole: 0.111 G_L1_valid: 0.039 G_prc: 0.007 G_style: 0.209 G_msr: 0.401 G_mask: 0.122 D_real: 0.089 D_fake: 1.381 D: 1.469 
+(epoch: 1 iter 16199) psnr:  21.755; 21.506; 21.486; 21.223;
+Sep-17-17:25:40 (epoch: 1, iters: 16400, time: 1090.418) G: 0.647 G_GAN: 0.043 G_L1_hole: 0.059 G_L1_valid: 0.025 G_prc: 0.005 G_style: 0.200 G_msr: 0.157 G_mask: 0.157 D_real: 1.557 D_fake: 0.610 D: 2.167 
+(epoch: 1 iter 16399) psnr:  22.529; 22.443; 21.921; 21.734;
+Sep-17-17:43:47 (epoch: 1, iters: 16600, time: 1087.466) G: 0.648 G_GAN: 0.062 G_L1_hole: 0.061 G_L1_valid: 0.050 G_prc: 0.006 G_style: 0.160 G_msr: 0.232 G_mask: 0.077 D_real: 1.178 D_fake: 0.361 D: 1.539 
+(epoch: 1 iter 16599) psnr:  22.254; 21.891; 21.776; 21.513;
+Sep-17-18:01:57 (epoch: 1, iters: 16800, time: 1089.802) G: 0.684 G_GAN: 0.059 G_L1_hole: 0.093 G_L1_valid: 0.022 G_prc: 0.006 G_style: 0.166 G_msr: 0.245 G_mask: 0.094 D_real: 1.156 D_fake: 0.363 D: 1.519 
+(epoch: 1 iter 16799) psnr:  25.023; 24.973; 23.883; 23.648;
+Sep-17-18:20:06 (epoch: 1, iters: 17000, time: 1088.775) G: 0.377 G_GAN: -0.009 G_L1_hole: 0.015 G_L1_valid: 0.022 G_prc: 0.004 G_style: 0.096 G_msr: 0.115 G_mask: 0.135 D_real: 0.964 D_fake: 1.042 D: 2.007 
+(epoch: 1 iter 16999) psnr:  22.343; 22.132; 21.823; 21.553;
+Sep-17-18:38:23 (epoch: 1, iters: 17200, time: 1097.043) G: 0.457 G_GAN: 0.043 G_L1_hole: 0.021 G_L1_valid: 0.048 G_prc: 0.005 G_style: 0.118 G_msr: 0.144 G_mask: 0.079 D_real: 1.408 D_fake: 0.595 D: 2.004 
+(epoch: 1 iter 17199) psnr:  22.176; 22.125; 21.775; 21.564;
+Sep-17-18:56:37 (epoch: 1, iters: 17400, time: 1094.464) G: 0.552 G_GAN: -0.002 G_L1_hole: 0.043 G_L1_valid: 0.026 G_prc: 0.004 G_style: 0.194 G_msr: 0.180 G_mask: 0.107 D_real: 1.135 D_fake: 1.101 D: 2.236 
+(epoch: 1 iter 17399) psnr:  22.861; 22.563; 22.238; 21.913;
+Sep-17-19:14:53 (epoch: 1, iters: 17600, time: 1095.753) G: 0.891 G_GAN: -0.011 G_L1_hole: 0.099 G_L1_valid: 0.046 G_prc: 0.009 G_style: 0.326 G_msr: 0.317 G_mask: 0.103 D_real: 1.420 D_fake: 0.000 D: 1.420 
+(epoch: 1 iter 17599) psnr:  22.606; 22.181; 22.052; 21.586;
+Sep-17-19:33:13 (epoch: 1, iters: 17800, time: 1099.998) G: 0.417 G_GAN: 0.032 G_L1_hole: 0.004 G_L1_valid: 0.042 G_prc: 0.003 G_style: 0.099 G_msr: 0.114 G_mask: 0.122 D_real: 1.328 D_fake: 0.702 D: 2.029 
+(epoch: 1 iter 17799) psnr:  21.002; 21.029; 20.728; 20.686;
+Sep-17-19:51:18 (epoch: 1, iters: 18000, time: 1084.994) G: 0.675 G_GAN: 0.050 G_L1_hole: 0.128 G_L1_valid: 0.031 G_prc: 0.006 G_style: 0.130 G_msr: 0.272 G_mask: 0.059 D_real: 1.705 D_fake: 0.253 D: 1.958 
+(epoch: 1 iter 17999) psnr:  22.834; 22.580; 22.232; 21.885;
+Sep-17-20:09:53 (epoch: 1, iters: 18200, time: 1115.006) G: 0.523 G_GAN: 0.081 G_L1_hole: 0.056 G_L1_valid: 0.031 G_prc: 0.005 G_style: 0.105 G_msr: 0.164 G_mask: 0.081 D_real: 1.880 D_fake: 0.177 D: 2.057 
+(epoch: 1 iter 18199) psnr:  22.624; 22.635; 21.984; 21.893;
+Sep-17-20:28:37 (epoch: 1, iters: 18400, time: 1123.732) G: 0.524 G_GAN: 0.077 G_L1_hole: 0.021 G_L1_valid: 0.031 G_prc: 0.004 G_style: 0.106 G_msr: 0.132 G_mask: 0.154 D_real: 1.715 D_fake: 0.199 D: 1.913 
+(epoch: 1 iter 18399) psnr:  21.352; 21.136; 21.060; 20.822;
+Sep-17-20:47:22 (epoch: 1, iters: 18600, time: 1125.240) G: 0.791 G_GAN: 0.026 G_L1_hole: 0.086 G_L1_valid: 0.052 G_prc: 0.008 G_style: 0.270 G_msr: 0.261 G_mask: 0.089 D_real: 1.058 D_fake: 0.470 D: 1.528 
+(epoch: 1 iter 18599) psnr:  21.626; 21.515; 21.308; 21.192;
+Sep-17-21:06:06 (epoch: 1, iters: 18800, time: 1124.263) G: 0.379 G_GAN: 0.060 G_L1_hole: 0.000 G_L1_valid: 0.042 G_prc: 0.002 G_style: 0.042 G_msr: 0.147 G_mask: 0.085 D_real: 1.463 D_fake: 0.404 D: 1.867 
+(epoch: 1 iter 18799) psnr:  21.108; 21.317; 20.833; 20.841;
+Sep-17-21:24:47 (epoch: 1, iters: 19000, time: 1120.861) G: 0.703 G_GAN: 0.081 G_L1_hole: 0.081 G_L1_valid: 0.041 G_prc: 0.006 G_style: 0.143 G_msr: 0.269 G_mask: 0.083 D_real: 1.681 D_fake: 0.424 D: 2.106 
+(epoch: 1 iter 18999) psnr:  22.725; 22.464; 22.036; 21.783;
+Sep-17-21:43:39 (epoch: 1, iters: 19200, time: 1131.663) G: 0.409 G_GAN: 0.082 G_L1_hole: 0.014 G_L1_valid: 0.034 G_prc: 0.003 G_style: 0.059 G_msr: 0.126 G_mask: 0.091 D_real: 1.838 D_fake: 0.175 D: 2.013 
+(epoch: 1 iter 19199) psnr:  22.335; 22.162; 21.889; 21.713;
+Sep-17-22:02:21 (epoch: 1, iters: 19400, time: 1122.352) G: 0.744 G_GAN: 0.037 G_L1_hole: 0.114 G_L1_valid: 0.026 G_prc: 0.007 G_style: 0.167 G_msr: 0.339 G_mask: 0.054 D_real: 2.661 D_fake: 0.000 D: 2.661 
+(epoch: 1 iter 19399) psnr:  22.314; 22.017; 21.855; 21.511;
+Sep-17-22:20:59 (epoch: 1, iters: 19600, time: 1117.515) G: 1.146 G_GAN: 0.025 G_L1_hole: 0.105 G_L1_valid: 0.035 G_prc: 0.007 G_style: 0.193 G_msr: 0.256 G_mask: 0.525 D_real: 1.380 D_fake: 0.536 D: 1.916 
+(epoch: 1 iter 19599) psnr:  22.333; 22.206; 21.923; 21.622;
+Sep-17-22:39:43 (epoch: 1, iters: 19800, time: 1123.940) G: 0.355 G_GAN: 0.014 G_L1_hole: 0.019 G_L1_valid: 0.043 G_prc: 0.003 G_style: 0.074 G_msr: 0.127 G_mask: 0.075 D_real: 1.051 D_fake: 0.885 D: 1.937 
+(epoch: 1 iter 19799) psnr:  23.048; 22.657; 22.327; 21.995;
+Sep-17-22:58:18 (epoch: 1, iters: 20000, time: 1115.055) G: 0.633 G_GAN: 0.077 G_L1_hole: 0.042 G_L1_valid: 0.034 G_prc: 0.004 G_style: 0.145 G_msr: 0.173 G_mask: 0.157 D_real: 1.752 D_fake: 0.238 D: 1.990 
+(epoch: 1 iter 19999) psnr:  22.794; 22.219; 22.151; 21.686;
+Sep-17-23:16:28 (epoch: 1, iters: 20200, time: 1090.861) G: 0.780 G_GAN: 0.035 G_L1_hole: 0.123 G_L1_valid: 0.039 G_prc: 0.007 G_style: 0.192 G_msr: 0.308 G_mask: 0.075 D_real: 1.380 D_fake: 0.380 D: 1.760 
+(epoch: 1 iter 20199) psnr:  22.066; 21.907; 21.580; 21.386;
+Sep-17-23:34:47 (epoch: 1, iters: 20400, time: 1098.752) G: 0.415 G_GAN: 0.018 G_L1_hole: 0.043 G_L1_valid: 0.025 G_prc: 0.003 G_style: 0.124 G_msr: 0.155 G_mask: 0.049 D_real: 1.257 D_fake: 0.712 D: 1.969 
+(epoch: 1 iter 20399) psnr:  22.799; 22.612; 22.295; 22.062;
+Sep-17-23:53:06 (epoch: 1, iters: 20600, time: 1098.755) G: 0.300 G_GAN: 0.090 G_L1_hole: 0.000 G_L1_valid: 0.021 G_prc: 0.002 G_style: 0.045 G_msr: 0.059 G_mask: 0.084 D_real: 1.814 D_fake: 0.164 D: 1.978 
+(epoch: 1 iter 20599) psnr:  21.297; 21.273; 20.983; 20.858;
+Sep-18-00:11:19 (epoch: 1, iters: 20800, time: 1093.246) G: 0.586 G_GAN: -0.059 G_L1_hole: 0.048 G_L1_valid: 0.033 G_prc: 0.008 G_style: 0.234 G_msr: 0.198 G_mask: 0.124 D_real: 0.778 D_fake: 1.062 D: 1.840 
+(epoch: 1 iter 20799) psnr:  22.170; 21.583; 21.511; 21.064;
+Sep-18-00:29:25 (epoch: 1, iters: 21000, time: 1085.683) G: 0.641 G_GAN: 0.060 G_L1_hole: 0.049 G_L1_valid: 0.030 G_prc: 0.005 G_style: 0.135 G_msr: 0.246 G_mask: 0.116 D_real: 0.000 D_fake: 1.736 D: 1.736 
+(epoch: 1 iter 20999) psnr:  21.300; 20.923; 20.929; 20.582;
+Sep-18-00:47:43 (epoch: 1, iters: 21200, time: 1098.140) G: 0.433 G_GAN: 0.053 G_L1_hole: 0.000 G_L1_valid: 0.027 G_prc: 0.003 G_style: 0.103 G_msr: 0.126 G_mask: 0.122 D_real: 1.519 D_fake: 0.478 D: 1.997 
+(epoch: 1 iter 21199) psnr:  21.318; 21.089; 21.068; 20.781;
+Sep-18-01:05:57 (epoch: 1, iters: 21400, time: 1093.782) G: 0.430 G_GAN: 0.035 G_L1_hole: 0.025 G_L1_valid: 0.037 G_prc: 0.003 G_style: 0.108 G_msr: 0.127 G_mask: 0.094 D_real: 1.075 D_fake: 0.635 D: 1.709 
+(epoch: 1 iter 21399) psnr:  23.839; 23.613; 23.027; 22.585;
+Sep-18-01:24:12 (epoch: 1, iters: 21600, time: 1095.623) G: 0.818 G_GAN: -0.011 G_L1_hole: 0.166 G_L1_valid: 0.030 G_prc: 0.009 G_style: 0.193 G_msr: 0.363 G_mask: 0.068 D_real: 0.910 D_fake: 1.237 D: 2.146 
+(epoch: 1 iter 21599) psnr:  21.851; 21.602; 21.478; 21.165;
+Sep-18-01:42:27 (epoch: 1, iters: 21800, time: 1094.166) G: 0.361 G_GAN: 0.032 G_L1_hole: 0.016 G_L1_valid: 0.022 G_prc: 0.003 G_style: 0.068 G_msr: 0.120 G_mask: 0.099 D_real: 1.302 D_fake: 0.698 D: 2.000 
+(epoch: 1 iter 21799) psnr:  22.370; 22.145; 21.820; 21.576;
+Sep-18-02:00:44 (epoch: 1, iters: 22000, time: 1097.259) G: 0.634 G_GAN: 0.132 G_L1_hole: 0.075 G_L1_valid: 0.030 G_prc: 0.004 G_style: 0.110 G_msr: 0.220 G_mask: 0.063 D_real: 0.877 D_fake: 0.084 D: 0.961 
+(epoch: 1 iter 21999) psnr:  21.740; 21.669; 21.272; 21.159;
+Sep-18-02:19:10 (epoch: 1, iters: 22200, time: 1105.867) G: 0.945 G_GAN: -0.093 G_L1_hole: 0.065 G_L1_valid: 0.030 G_prc: 0.005 G_style: 0.164 G_msr: 0.238 G_mask: 0.537 D_real: 0.109 D_fake: 1.637 D: 1.746 
+(epoch: 1 iter 22199) psnr:  21.969; 22.004; 21.509; 21.318;
+Sep-18-02:38:02 (epoch: 1, iters: 22400, time: 1132.380) G: 0.482 G_GAN: 0.056 G_L1_hole: 0.000 G_L1_valid: 0.031 G_prc: 0.002 G_style: 0.076 G_msr: 0.077 G_mask: 0.240 D_real: 1.555 D_fake: 0.461 D: 2.016 
+(epoch: 1 iter 22399) psnr:  21.456; 21.296; 21.080; 20.854;
+Sep-18-02:56:47 (epoch: 1, iters: 22600, time: 1124.835) G: 0.294 G_GAN: 0.035 G_L1_hole: 0.000 G_L1_valid: 0.035 G_prc: 0.002 G_style: 0.051 G_msr: 0.094 G_mask: 0.075 D_real: 1.174 D_fake: 0.659 D: 1.833 
+(epoch: 1 iter 22599) psnr:  22.546; 22.221; 21.780; 21.440;
+Sep-18-03:15:26 (epoch: 1, iters: 22800, time: 1118.838) G: 0.566 G_GAN: -0.023 G_L1_hole: 0.061 G_L1_valid: 0.025 G_prc: 0.006 G_style: 0.144 G_msr: 0.243 G_mask: 0.110 D_real: 0.755 D_fake: 1.225 D: 1.979 
+(epoch: 1 iter 22799) psnr:  22.919; 23.217; 22.201; 22.209;
+Sep-18-03:34:11 (epoch: 1, iters: 23000, time: 1125.143) G: 0.481 G_GAN: 0.005 G_L1_hole: 0.033 G_L1_valid: 0.041 G_prc: 0.004 G_style: 0.134 G_msr: 0.169 G_mask: 0.095 D_real: 0.860 D_fake: 0.980 D: 1.840 
+(epoch: 1 iter 22999) psnr:  22.492; 22.454; 21.892; 21.704;
+Sep-18-03:52:55 (epoch: 1, iters: 23200, time: 1123.731) G: 0.453 G_GAN: 0.087 G_L1_hole: 0.000 G_L1_valid: 0.045 G_prc: 0.002 G_style: 0.081 G_msr: 0.113 G_mask: 0.124 D_real: 1.889 D_fake: 0.154 D: 2.043 
+(epoch: 1 iter 23199) psnr:  22.818; 22.607; 22.272; 21.969;
+Sep-18-04:11:41 (epoch: 1, iters: 23400, time: 1126.056) G: 0.676 G_GAN: -0.015 G_L1_hole: 0.074 G_L1_valid: 0.025 G_prc: 0.006 G_style: 0.231 G_msr: 0.241 G_mask: 0.114 D_real: 0.000 D_fake: 2.030 D: 2.030 
+(epoch: 1 iter 23399) psnr:  21.359; 21.382; 21.091; 20.958;
+Sep-18-04:29:59 (epoch: 1, iters: 23600, time: 1097.885) G: 0.436 G_GAN: 0.074 G_L1_hole: 0.026 G_L1_valid: 0.062 G_prc: 0.004 G_style: 0.080 G_msr: 0.136 G_mask: 0.055 D_real: 1.607 D_fake: 0.199 D: 1.806 
+(epoch: 1 iter 23599) psnr:  21.291; 21.109; 21.002; 20.767;
+Sep-18-04:48:15 (epoch: 1, iters: 23800, time: 1095.994) G: 0.607 G_GAN: 0.003 G_L1_hole: 0.079 G_L1_valid: 0.029 G_prc: 0.006 G_style: 0.145 G_msr: 0.254 G_mask: 0.090 D_real: 1.208 D_fake: 0.955 D: 2.163 
+(epoch: 1 iter 23799) psnr:  21.803; 21.835; 21.407; 21.323;
+Sep-18-05:06:31 (epoch: 1, iters: 24000, time: 1096.907) G: 0.667 G_GAN: 0.053 G_L1_hole: 0.104 G_L1_valid: 0.019 G_prc: 0.007 G_style: 0.161 G_msr: 0.275 G_mask: 0.048 D_real: 1.784 D_fake: 0.000 D: 1.784 
+(epoch: 1 iter 23999) psnr:  22.692; 22.740; 22.001; 21.936;
+Sep-18-05:24:43 (epoch: 1, iters: 24200, time: 1091.542) G: 0.316 G_GAN: -0.003 G_L1_hole: 0.028 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.076 G_msr: 0.135 G_mask: 0.057 D_real: 0.873 D_fake: 1.084 D: 1.957 
+(epoch: 1 iter 24199) psnr:  21.372; 21.430; 21.064; 21.084;
+Sep-18-05:42:55 (epoch: 1, iters: 24400, time: 1091.995) G: 0.567 G_GAN: 0.049 G_L1_hole: 0.013 G_L1_valid: 0.036 G_prc: 0.004 G_style: 0.101 G_msr: 0.188 G_mask: 0.176 D_real: 1.422 D_fake: 0.509 D: 1.931 
+(epoch: 1 iter 24399) psnr:  22.158; 22.110; 21.554; 21.403;
+Sep-18-06:01:07 (epoch: 1, iters: 24600, time: 1091.932) G: 0.275 G_GAN: 0.046 G_L1_hole: 0.000 G_L1_valid: 0.018 G_prc: 0.001 G_style: 0.052 G_msr: 0.086 G_mask: 0.073 D_real: 1.425 D_fake: 0.559 D: 1.984 
+(epoch: 1 iter 24599) psnr:  23.113; 23.072; 22.480; 22.331;
+Sep-18-06:19:16 (epoch: 1, iters: 24800, time: 1089.154) G: 0.438 G_GAN: 0.101 G_L1_hole: 0.013 G_L1_valid: 0.025 G_prc: 0.003 G_style: 0.061 G_msr: 0.127 G_mask: 0.108 D_real: 1.989 D_fake: 0.013 D: 2.002 
+(epoch: 1 iter 24799) psnr:  22.007; 22.071; 21.613; 21.699;
+Sep-18-06:37:40 (epoch: 1, iters: 25000, time: 1103.816) G: 0.685 G_GAN: 0.026 G_L1_hole: 0.082 G_L1_valid: 0.023 G_prc: 0.006 G_style: 0.216 G_msr: 0.275 G_mask: 0.056 D_real: 1.566 D_fake: 0.287 D: 1.853 
+(epoch: 1 iter 24999) psnr:  22.613; 22.739; 22.022; 22.005;
+Sep-18-06:56:00 (epoch: 1, iters: 25200, time: 1100.129) G: 0.503 G_GAN: 0.099 G_L1_hole: 0.026 G_L1_valid: 0.040 G_prc: 0.004 G_style: 0.137 G_msr: 0.125 G_mask: 0.073 D_real: 0.373 D_fake: 0.939 D: 1.312 
+(epoch: 1 iter 25199) psnr:  22.362; 22.506; 21.786; 21.701;
+Sep-18-07:14:13 (epoch: 1, iters: 25400, time: 1093.147) G: 0.379 G_GAN: 0.041 G_L1_hole: 0.031 G_L1_valid: 0.031 G_prc: 0.004 G_style: 0.077 G_msr: 0.127 G_mask: 0.069 D_real: 1.542 D_fake: 1.122 D: 2.664 
+(epoch: 1 iter 25399) psnr:  25.227; 25.390; 23.837; 23.704;
+Sep-18-07:32:20 (epoch: 1, iters: 25600, time: 1087.217) G: 0.482 G_GAN: -0.007 G_L1_hole: 0.018 G_L1_valid: 0.026 G_prc: 0.005 G_style: 0.123 G_msr: 0.151 G_mask: 0.165 D_real: 0.911 D_fake: 1.080 D: 1.991 
+(epoch: 1 iter 25599) psnr:  23.924; 23.858; 23.111; 22.845;
+Sep-18-07:50:29 (epoch: 1, iters: 25800, time: 1088.677) G: 0.407 G_GAN: 0.033 G_L1_hole: 0.026 G_L1_valid: 0.038 G_prc: 0.003 G_style: 0.096 G_msr: 0.130 G_mask: 0.080 D_real: 1.082 D_fake: 1.391 D: 2.473 
+(epoch: 1 iter 25799) psnr:  21.396; 21.425; 20.904; 20.772;
+Sep-18-08:08:43 (epoch: 1, iters: 26000, time: 1093.879) G: 0.722 G_GAN: 0.064 G_L1_hole: 0.077 G_L1_valid: 0.032 G_prc: 0.006 G_style: 0.220 G_msr: 0.232 G_mask: 0.092 D_real: 1.346 D_fake: 0.422 D: 1.768 
+(epoch: 1 iter 25999) psnr:  21.861; 21.997; 21.361; 21.467;
+Sep-18-08:26:49 (epoch: 1, iters: 26200, time: 1086.174) G: 0.409 G_GAN: 0.058 G_L1_hole: 0.036 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.063 G_msr: 0.147 G_mask: 0.080 D_real: 1.579 D_fake: 0.054 D: 1.633 
+(epoch: 1 iter 26199) psnr:  21.494; 21.658; 21.211; 21.065;
+Sep-18-08:45:01 (epoch: 1, iters: 26400, time: 1092.367) G: 0.630 G_GAN: 0.078 G_L1_hole: 0.000 G_L1_valid: 0.034 G_prc: 0.004 G_style: 0.194 G_msr: 0.142 G_mask: 0.177 D_real: 1.728 D_fake: 0.511 D: 2.239 
+(epoch: 1 iter 26399) psnr:  22.593; 22.329; 21.989; 21.637;
+Sep-18-09:03:08 (epoch: 1, iters: 26600, time: 1086.333) G: 0.380 G_GAN: -0.052 G_L1_hole: 0.032 G_L1_valid: 0.039 G_prc: 0.004 G_style: 0.116 G_msr: 0.161 G_mask: 0.082 D_real: 0.474 D_fake: 1.585 D: 2.058 
+(epoch: 1 iter 26599) psnr:  22.367; 22.481; 21.888; 21.819;
+Sep-18-09:21:13 (epoch: 1, iters: 26800, time: 1085.665) G: 0.196 G_GAN: -0.070 G_L1_hole: 0.000 G_L1_valid: 0.045 G_prc: 0.002 G_style: 0.043 G_msr: 0.067 G_mask: 0.109 D_real: 0.333 D_fake: 2.621 D: 2.954 
+(epoch: 1 iter 26799) psnr:  22.206; 22.185; 21.646; 21.515;
+Sep-18-09:39:49 (epoch: 1, iters: 27000, time: 1115.132) G: 0.319 G_GAN: 0.031 G_L1_hole: 0.027 G_L1_valid: 0.030 G_prc: 0.003 G_style: 0.054 G_msr: 0.115 G_mask: 0.060 D_real: 1.305 D_fake: 0.701 D: 2.006 
+(epoch: 1 iter 26999) psnr:  22.296; 22.004; 21.629; 21.327;
+Sep-18-09:58:31 (epoch: 1, iters: 27200, time: 1122.834) G: 0.418 G_GAN: 0.029 G_L1_hole: 0.028 G_L1_valid: 0.040 G_prc: 0.003 G_style: 0.084 G_msr: 0.129 G_mask: 0.105 D_real: 0.652 D_fake: 0.595 D: 1.247 
+(epoch: 1 iter 27199) psnr:  22.856; 22.460; 22.041; 21.778;
+Sep-18-10:17:09 (epoch: 1, iters: 27400, time: 1117.143) G: 0.590 G_GAN: 0.028 G_L1_hole: 0.061 G_L1_valid: 0.025 G_prc: 0.006 G_style: 0.164 G_msr: 0.194 G_mask: 0.113 D_real: 0.629 D_fake: 0.891 D: 1.520 
+(epoch: 1 iter 27399) psnr:  21.309; 21.148; 20.927; 20.773;
+Sep-18-10:35:40 (epoch: 1, iters: 27600, time: 1111.489) G: 0.471 G_GAN: 0.060 G_L1_hole: 0.044 G_L1_valid: 0.023 G_prc: 0.004 G_style: 0.093 G_msr: 0.149 G_mask: 0.099 D_real: 1.549 D_fake: 0.309 D: 1.859 
+(epoch: 1 iter 27599) psnr:  20.126; 20.252; 19.956; 20.020;
+Sep-18-10:54:21 (epoch: 1, iters: 27800, time: 1120.581) G: 0.504 G_GAN: -0.061 G_L1_hole: 0.073 G_L1_valid: 0.027 G_prc: 0.007 G_style: 0.174 G_msr: 0.237 G_mask: 0.047 D_real: 2.354 D_fake: 0.000 D: 2.354 
+(epoch: 1 iter 27799) psnr:  21.747; 21.646; 21.382; 21.143;
+Sep-18-11:12:28 (epoch: 1, iters: 28000, time: 1087.638) G: 0.236 G_GAN: 0.014 G_L1_hole: 0.000 G_L1_valid: 0.022 G_prc: 0.002 G_style: 0.055 G_msr: 0.088 G_mask: 0.055 D_real: 1.131 D_fake: 0.875 D: 2.006 
+(epoch: 1 iter 27999) psnr:  22.334; 22.392; 21.934; 21.943;
+Sep-18-11:30:38 (epoch: 1, iters: 28200, time: 1089.872) G: 0.488 G_GAN: 0.067 G_L1_hole: 0.050 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.122 G_msr: 0.167 G_mask: 0.059 D_real: 1.532 D_fake: 0.356 D: 1.888 
+(epoch: 1 iter 28199) psnr:  21.569; 21.060; 21.028; 20.719;
+Sep-18-11:48:47 (epoch: 1, iters: 28400, time: 1088.386) G: 1.083 G_GAN: -0.037 G_L1_hole: 0.054 G_L1_valid: 0.049 G_prc: 0.008 G_style: 0.297 G_msr: 0.253 G_mask: 0.459 D_real: 0.655 D_fake: 1.159 D: 1.813 
+(epoch: 1 iter 28399) psnr:  21.541; 21.261; 20.990; 20.824;
+Sep-18-12:06:56 (epoch: 1, iters: 28600, time: 1089.824) G: 0.790 G_GAN: 0.085 G_L1_hole: 0.051 G_L1_valid: 0.039 G_prc: 0.006 G_style: 0.166 G_msr: 0.182 G_mask: 0.260 D_real: 1.679 D_fake: 0.135 D: 1.814 
+(epoch: 1 iter 28599) psnr:  20.718; 20.840; 20.494; 20.549;
+Sep-18-12:25:05 (epoch: 1, iters: 28800, time: 1088.280) G: 0.491 G_GAN: -0.084 G_L1_hole: 0.086 G_L1_valid: 0.019 G_prc: 0.005 G_style: 0.179 G_msr: 0.227 G_mask: 0.059 D_real: 0.222 D_fake: 1.612 D: 1.834 
+(epoch: 1 iter 28799) psnr:  21.562; 21.720; 21.194; 21.146;
+Sep-18-12:43:11 (epoch: 1, iters: 29000, time: 1086.567) G: 0.381 G_GAN: 0.017 G_L1_hole: 0.005 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.064 G_msr: 0.097 G_mask: 0.175 D_real: 0.000 D_fake: 2.426 D: 2.426 
+(epoch: 1 iter 28999) psnr:  21.986; 21.809; 21.480; 21.281;
+(epoch: 1) psnr:  23.359; 23.110; 22.390; 22.211;
+Sep-18-13:01:45 (epoch: 2, iters: 29200, time: 781.518) G: 0.323 G_GAN: 0.018 G_L1_hole: 0.000 G_L1_valid: 0.020 G_prc: 0.003 G_style: 0.076 G_msr: 0.075 G_mask: 0.131 D_real: 1.160 D_fake: 0.826 D: 1.986 
+(epoch: 2 iter 199) psnr:  23.448; 23.569; 22.628; 22.602;
+Sep-18-13:19:53 (epoch: 2, iters: 29400, time: 1087.658) G: 0.456 G_GAN: 0.021 G_L1_hole: 0.065 G_L1_valid: 0.019 G_prc: 0.005 G_style: 0.111 G_msr: 0.184 G_mask: 0.050 D_real: 0.901 D_fake: 0.780 D: 1.681 
+(epoch: 2 iter 399) psnr:  20.934; 21.022; 20.714; 20.705;
+Sep-18-13:38:05 (epoch: 2, iters: 29600, time: 1091.996) G: 0.530 G_GAN: -0.017 G_L1_hole: 0.078 G_L1_valid: 0.021 G_prc: 0.006 G_style: 0.163 G_msr: 0.198 G_mask: 0.082 D_real: 0.964 D_fake: 1.366 D: 2.330 
+(epoch: 2 iter 599) psnr:  23.553; 23.432; 22.631; 22.516;
+Sep-18-13:56:11 (epoch: 2, iters: 29800, time: 1086.814) G: 0.537 G_GAN: 0.052 G_L1_hole: 0.042 G_L1_valid: 0.027 G_prc: 0.004 G_style: 0.166 G_msr: 0.189 G_mask: 0.058 D_real: 1.423 D_fake: 0.506 D: 1.929 
+(epoch: 2 iter 799) psnr:  21.442; 21.293; 21.072; 20.924;
+Sep-18-14:14:17 (epoch: 2, iters: 30000, time: 1085.290) G: 0.493 G_GAN: -0.068 G_L1_hole: 0.055 G_L1_valid: 0.032 G_prc: 0.005 G_style: 0.159 G_msr: 0.174 G_mask: 0.135 D_real: 0.729 D_fake: 1.356 D: 2.085 
+(epoch: 2 iter 999) psnr:  21.462; 21.335; 21.085; 20.855;
+Sep-18-14:32:58 (epoch: 2, iters: 30200, time: 1121.685) G: 0.557 G_GAN: -0.027 G_L1_hole: 0.022 G_L1_valid: 0.033 G_prc: 0.005 G_style: 0.122 G_msr: 0.156 G_mask: 0.245 D_real: 0.754 D_fake: 1.291 D: 2.045 
+(epoch: 2 iter 1199) psnr:  21.668; 21.497; 21.304; 21.124;
+Sep-18-14:51:43 (epoch: 2, iters: 30400, time: 1124.541) G: 0.475 G_GAN: 0.056 G_L1_hole: 0.031 G_L1_valid: 0.048 G_prc: 0.004 G_style: 0.126 G_msr: 0.136 G_mask: 0.074 D_real: 0.000 D_fake: 1.624 D: 1.624 
+(epoch: 2 iter 1399) psnr:  21.249; 21.356; 20.895; 20.740;
+Sep-18-15:10:27 (epoch: 2, iters: 30600, time: 1124.105) G: 0.559 G_GAN: 0.021 G_L1_hole: 0.044 G_L1_valid: 0.060 G_prc: 0.005 G_style: 0.152 G_msr: 0.191 G_mask: 0.086 D_real: 1.366 D_fake: 0.786 D: 2.152 
+(epoch: 2 iter 1599) psnr:  21.176; 20.905; 20.802; 20.542;
+Sep-18-15:29:07 (epoch: 2, iters: 30800, time: 1119.737) G: 0.494 G_GAN: 0.055 G_L1_hole: 0.039 G_L1_valid: 0.041 G_prc: 0.003 G_style: 0.074 G_msr: 0.203 G_mask: 0.079 D_real: 1.019 D_fake: 0.449 D: 1.469 
+(epoch: 2 iter 1799) psnr:  23.153; 23.238; 22.300; 22.266;
+Sep-18-15:47:47 (epoch: 2, iters: 31000, time: 1120.056) G: 0.510 G_GAN: 0.030 G_L1_hole: 0.061 G_L1_valid: 0.024 G_prc: 0.005 G_style: 0.117 G_msr: 0.177 G_mask: 0.096 D_real: 1.361 D_fake: 0.689 D: 2.050 
+(epoch: 2 iter 1999) psnr:  22.809; 22.640; 22.077; 21.789;
+Sep-18-16:06:32 (epoch: 2, iters: 31200, time: 1125.286) G: 0.511 G_GAN: 0.029 G_L1_hole: 0.056 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.128 G_msr: 0.176 G_mask: 0.099 D_real: 1.187 D_fake: 0.717 D: 1.903 
+(epoch: 2 iter 2199) psnr:  23.040; 22.915; 22.337; 22.255;
+Sep-18-16:24:59 (epoch: 2, iters: 31400, time: 1106.406) G: 0.908 G_GAN: 0.118 G_L1_hole: 0.127 G_L1_valid: 0.020 G_prc: 0.007 G_style: 0.242 G_msr: 0.326 G_mask: 0.068 D_real: 0.000 D_fake: 1.784 D: 1.784 
+(epoch: 2 iter 2399) psnr:  21.191; 21.050; 20.945; 20.756;
+Sep-18-16:43:09 (epoch: 2, iters: 31600, time: 1090.209) G: 0.228 G_GAN: 0.002 G_L1_hole: 0.000 G_L1_valid: 0.021 G_prc: 0.002 G_style: 0.046 G_msr: 0.063 G_mask: 0.093 D_real: 1.023 D_fake: 0.978 D: 2.001 
+(epoch: 2 iter 2599) psnr:  21.592; 21.522; 21.245; 21.123;
+Sep-18-17:01:19 (epoch: 2, iters: 31800, time: 1090.470) G: 0.263 G_GAN: 0.037 G_L1_hole: 0.000 G_L1_valid: 0.017 G_prc: 0.002 G_style: 0.068 G_msr: 0.079 G_mask: 0.059 D_real: 1.429 D_fake: 0.599 D: 2.028 
+(epoch: 2 iter 2799) psnr:  21.196; 20.857; 20.814; 20.424;
+Sep-18-17:19:21 (epoch: 2, iters: 32000, time: 1081.339) G: 0.373 G_GAN: 0.064 G_L1_hole: 0.036 G_L1_valid: 0.015 G_prc: 0.003 G_style: 0.067 G_msr: 0.124 G_mask: 0.063 D_real: 1.353 D_fake: 0.675 D: 2.029 
+(epoch: 2 iter 2999) psnr:  22.081; 21.881; 21.602; 21.359;
+Sep-18-17:37:34 (epoch: 2, iters: 32200, time: 1093.247) G: 0.522 G_GAN: 0.036 G_L1_hole: 0.039 G_L1_valid: 0.044 G_prc: 0.004 G_style: 0.152 G_msr: 0.170 G_mask: 0.077 D_real: 1.146 D_fake: 0.710 D: 1.856 
+(epoch: 2 iter 3199) psnr:  20.946; 20.677; 20.661; 20.382;
+Sep-18-17:55:40 (epoch: 2, iters: 32400, time: 1086.119) G: 0.501 G_GAN: -0.006 G_L1_hole: 0.066 G_L1_valid: 0.042 G_prc: 0.005 G_style: 0.109 G_msr: 0.214 G_mask: 0.071 D_real: 0.048 D_fake: 1.452 D: 1.500 
+(epoch: 2 iter 3399) psnr:  21.512; 21.225; 21.032; 20.791;
+Sep-18-18:13:51 (epoch: 2, iters: 32600, time: 1091.000) G: 0.492 G_GAN: -0.008 G_L1_hole: 0.065 G_L1_valid: 0.023 G_prc: 0.005 G_style: 0.110 G_msr: 0.220 G_mask: 0.078 D_real: 0.807 D_fake: 0.991 D: 1.798 
+(epoch: 2 iter 3599) psnr:  21.774; 21.553; 21.367; 21.081;
+Sep-18-18:31:59 (epoch: 2, iters: 32800, time: 1088.233) G: 0.204 G_GAN: -0.019 G_L1_hole: 0.000 G_L1_valid: 0.035 G_prc: 0.002 G_style: 0.045 G_msr: 0.087 G_mask: 0.055 D_real: 0.884 D_fake: 1.144 D: 2.028 
+(epoch: 2 iter 3799) psnr:  21.746; 21.645; 21.310; 21.137;
+Sep-18-18:50:08 (epoch: 2, iters: 33000, time: 1088.614) G: 0.617 G_GAN: 0.088 G_L1_hole: 0.055 G_L1_valid: 0.035 G_prc: 0.006 G_style: 0.181 G_msr: 0.198 G_mask: 0.055 D_real: 1.107 D_fake: 0.000 D: 1.107 
+(epoch: 2 iter 3999) psnr:  21.998; 22.062; 21.728; 21.606;
+Sep-18-19:08:22 (epoch: 2, iters: 33200, time: 1094.519) G: 0.470 G_GAN: 0.035 G_L1_hole: 0.000 G_L1_valid: 0.030 G_prc: 0.002 G_style: 0.132 G_msr: 0.091 G_mask: 0.181 D_real: 1.395 D_fake: 0.613 D: 2.008 
+(epoch: 2 iter 4199) psnr:  20.530; 20.562; 20.382; 20.397;
+Sep-18-19:26:36 (epoch: 2, iters: 33400, time: 1093.689) G: 0.593 G_GAN: 0.029 G_L1_hole: 0.081 G_L1_valid: 0.029 G_prc: 0.006 G_style: 0.140 G_msr: 0.241 G_mask: 0.068 D_real: 1.438 D_fake: 0.572 D: 2.010 
+(epoch: 2 iter 4399) psnr:  22.922; 22.723; 22.175; 22.039;
+Sep-18-19:44:45 (epoch: 2, iters: 33600, time: 1089.266) G: 0.714 G_GAN: -0.018 G_L1_hole: 0.000 G_L1_valid: 0.023 G_prc: 0.002 G_style: 0.050 G_msr: 0.074 G_mask: 0.584 D_real: 0.820 D_fake: 1.212 D: 2.033 
+(epoch: 2 iter 4599) psnr:  21.663; 21.613; 21.205; 21.001;
+Sep-18-20:02:56 (epoch: 2, iters: 33800, time: 1090.935) G: 0.348 G_GAN: 0.022 G_L1_hole: 0.000 G_L1_valid: 0.028 G_prc: 0.003 G_style: 0.080 G_msr: 0.080 G_mask: 0.135 D_real: 1.184 D_fake: 0.806 D: 1.990 
+(epoch: 2 iter 4799) psnr:  20.276; 20.047; 20.091; 19.884;
+Sep-18-20:21:13 (epoch: 2, iters: 34000, time: 1097.276) G: 0.595 G_GAN: -0.009 G_L1_hole: 0.079 G_L1_valid: 0.018 G_prc: 0.005 G_style: 0.247 G_msr: 0.203 G_mask: 0.053 D_real: 1.215 D_fake: 1.036 D: 2.251 
+(epoch: 2 iter 4999) psnr:  21.188; 21.025; 20.865; 20.691;
+Sep-18-20:39:24 (epoch: 2, iters: 34200, time: 1090.579) G: 0.474 G_GAN: 0.073 G_L1_hole: 0.025 G_L1_valid: 0.023 G_prc: 0.004 G_style: 0.129 G_msr: 0.119 G_mask: 0.102 D_real: 1.950 D_fake: 0.391 D: 2.341 
+(epoch: 2 iter 5199) psnr:  20.924; 20.733; 20.605; 20.457;
+Sep-18-20:57:36 (epoch: 2, iters: 34400, time: 1091.937) G: 0.630 G_GAN: 0.061 G_L1_hole: 0.043 G_L1_valid: 0.034 G_prc: 0.006 G_style: 0.169 G_msr: 0.164 G_mask: 0.152 D_real: 0.000 D_fake: 1.169 D: 1.169 
+(epoch: 2 iter 5399) psnr:  22.390; 22.417; 21.725; 21.517;
+Sep-18-21:15:46 (epoch: 2, iters: 34600, time: 1089.907) G: 0.619 G_GAN: 0.055 G_L1_hole: 0.070 G_L1_valid: 0.032 G_prc: 0.005 G_style: 0.132 G_msr: 0.259 G_mask: 0.067 D_real: 0.769 D_fake: 0.578 D: 1.347 
+(epoch: 2 iter 5599) psnr:  21.300; 21.065; 20.890; 20.512;
+Sep-18-21:34:16 (epoch: 2, iters: 34800, time: 1110.339) G: 0.727 G_GAN: 0.009 G_L1_hole: 0.112 G_L1_valid: 0.045 G_prc: 0.006 G_style: 0.183 G_msr: 0.297 G_mask: 0.074 D_real: 1.015 D_fake: 0.947 D: 1.963 
+(epoch: 2 iter 5799) psnr:  20.437; 20.095; 20.249; 19.889;
+Sep-18-21:53:01 (epoch: 2, iters: 35000, time: 1124.323) G: 0.465 G_GAN: 0.077 G_L1_hole: 0.000 G_L1_valid: 0.026 G_prc: 0.002 G_style: 0.043 G_msr: 0.082 G_mask: 0.235 D_real: 1.777 D_fake: 0.212 D: 1.989 
+(epoch: 2 iter 5999) psnr:  20.983; 20.575; 20.794; 20.375;
+Sep-18-22:11:39 (epoch: 2, iters: 35200, time: 1118.183) G: 0.450 G_GAN: -0.018 G_L1_hole: 0.048 G_L1_valid: 0.018 G_prc: 0.003 G_style: 0.100 G_msr: 0.206 G_mask: 0.093 D_real: 0.738 D_fake: 1.231 D: 1.968 
+(epoch: 2 iter 6199) psnr:  21.533; 21.452; 21.210; 20.985;
+Sep-18-22:30:15 (epoch: 2, iters: 35400, time: 1116.262) G: 0.396 G_GAN: 0.031 G_L1_hole: 0.036 G_L1_valid: 0.040 G_prc: 0.003 G_style: 0.081 G_msr: 0.145 G_mask: 0.060 D_real: 1.330 D_fake: 0.662 D: 1.992 
+(epoch: 2 iter 6399) psnr:  21.571; 21.259; 21.160; 20.864;
+Sep-18-22:48:56 (epoch: 2, iters: 35600, time: 1121.419) G: 0.378 G_GAN: 0.025 G_L1_hole: 0.011 G_L1_valid: 0.016 G_prc: 0.002 G_style: 0.100 G_msr: 0.082 G_mask: 0.142 D_real: 1.261 D_fake: 0.763 D: 2.024 
+(epoch: 2 iter 6599) psnr:  20.678; 20.323; 20.412; 20.101;
+Sep-18-23:07:21 (epoch: 2, iters: 35800, time: 1104.835) G: 0.402 G_GAN: 0.085 G_L1_hole: 0.000 G_L1_valid: 0.054 G_prc: 0.002 G_style: 0.067 G_msr: 0.094 G_mask: 0.100 D_real: 1.028 D_fake: 0.223 D: 1.251 
+(epoch: 2 iter 6799) psnr:  21.423; 21.048; 21.111; 20.670;
+Sep-18-23:25:33 (epoch: 2, iters: 36000, time: 1091.674) G: 0.230 G_GAN: -0.067 G_L1_hole: 0.008 G_L1_valid: 0.020 G_prc: 0.002 G_style: 0.081 G_msr: 0.098 G_mask: 0.088 D_real: 0.000 D_fake: 3.168 D: 3.168 
+(epoch: 2 iter 6999) psnr:  22.133; 21.809; 21.669; 21.355;
+Sep-18-23:43:43 (epoch: 2, iters: 36200, time: 1090.270) G: 0.947 G_GAN: 0.040 G_L1_hole: 0.131 G_L1_valid: 0.037 G_prc: 0.010 G_style: 0.307 G_msr: 0.308 G_mask: 0.114 D_real: 0.000 D_fake: 1.300 D: 1.300 
+(epoch: 2 iter 7199) psnr:  22.253; 22.206; 21.778; 21.631;
+Sep-19-00:02:00 (epoch: 2, iters: 36400, time: 1096.813) G: 0.454 G_GAN: 0.058 G_L1_hole: 0.041 G_L1_valid: 0.024 G_prc: 0.004 G_style: 0.110 G_msr: 0.161 G_mask: 0.056 D_real: 1.507 D_fake: 0.460 D: 1.967 
+(epoch: 2 iter 7399) psnr:  22.609; 22.585; 21.978; 21.817;
+Sep-19-00:20:11 (epoch: 2, iters: 36600, time: 1090.660) G: 0.233 G_GAN: -0.018 G_L1_hole: 0.016 G_L1_valid: 0.014 G_prc: 0.002 G_style: 0.058 G_msr: 0.080 G_mask: 0.081 D_real: 0.779 D_fake: 1.143 D: 1.922 
+(epoch: 2 iter 7599) psnr:  21.913; 21.687; 21.184; 21.052;
+Sep-19-00:38:32 (epoch: 2, iters: 36800, time: 1101.523) G: 0.556 G_GAN: 0.038 G_L1_hole: 0.073 G_L1_valid: 0.029 G_prc: 0.005 G_style: 0.127 G_msr: 0.221 G_mask: 0.064 D_real: 1.117 D_fake: 0.826 D: 1.942 
+(epoch: 2 iter 7799) psnr:  20.171; 20.007; 20.048; 19.871;
+Sep-19-00:56:51 (epoch: 2, iters: 37000, time: 1099.250) G: 0.926 G_GAN: 0.093 G_L1_hole: 0.130 G_L1_valid: 0.023 G_prc: 0.007 G_style: 0.282 G_msr: 0.297 G_mask: 0.095 D_real: 1.211 D_fake: 0.649 D: 1.860 
+(epoch: 2 iter 7999) psnr:  22.157; 21.914; 21.569; 21.335;
+Sep-19-01:15:15 (epoch: 2, iters: 37200, time: 1104.008) G: 0.410 G_GAN: 0.088 G_L1_hole: 0.034 G_L1_valid: 0.023 G_prc: 0.003 G_style: 0.070 G_msr: 0.140 G_mask: 0.053 D_real: 1.816 D_fake: 0.102 D: 1.918 
+(epoch: 2 iter 8199) psnr:  22.242; 22.038; 21.736; 21.502;
+Sep-19-01:33:29 (epoch: 2, iters: 37400, time: 1093.705) G: 0.464 G_GAN: -0.023 G_L1_hole: 0.041 G_L1_valid: 0.018 G_prc: 0.004 G_style: 0.105 G_msr: 0.198 G_mask: 0.122 D_real: 0.454 D_fake: 1.436 D: 1.890 
+(epoch: 2 iter 8399) psnr:  21.055; 20.791; 20.826; 20.541;
+Sep-19-01:51:42 (epoch: 2, iters: 37600, time: 1092.330) G: 0.393 G_GAN: -0.052 G_L1_hole: 0.031 G_L1_valid: 0.038 G_prc: 0.004 G_style: 0.100 G_msr: 0.125 G_mask: 0.148 D_real: 0.463 D_fake: 1.327 D: 1.790 
+(epoch: 2 iter 8599) psnr:  22.033; 21.768; 21.496; 21.123;
+Sep-19-02:09:56 (epoch: 2, iters: 37800, time: 1094.928) G: 0.707 G_GAN: -0.050 G_L1_hole: 0.071 G_L1_valid: 0.031 G_prc: 0.006 G_style: 0.156 G_msr: 0.236 G_mask: 0.256 D_real: 0.400 D_fake: 1.415 D: 1.814 
+(epoch: 2 iter 8799) psnr:  21.846; 21.702; 21.324; 21.176;
+Sep-19-02:28:46 (epoch: 2, iters: 38000, time: 1129.433) G: 0.351 G_GAN: -0.005 G_L1_hole: 0.038 G_L1_valid: 0.019 G_prc: 0.003 G_style: 0.084 G_msr: 0.147 G_mask: 0.065 D_real: 0.947 D_fake: 0.995 D: 1.943 
+(epoch: 2 iter 8999) psnr:  20.407; 20.517; 20.137; 20.206;
+Sep-19-02:47:21 (epoch: 2, iters: 38200, time: 1115.576) G: 0.795 G_GAN: 0.051 G_L1_hole: 0.105 G_L1_valid: 0.020 G_prc: 0.008 G_style: 0.180 G_msr: 0.257 G_mask: 0.175 D_real: 1.679 D_fake: 0.271 D: 1.950 
+(epoch: 2 iter 9199) psnr:  21.569; 21.426; 21.145; 20.908;
+Sep-19-03:06:04 (epoch: 2, iters: 38400, time: 1123.012) G: 0.608 G_GAN: 0.064 G_L1_hole: 0.093 G_L1_valid: 0.017 G_prc: 0.005 G_style: 0.134 G_msr: 0.221 G_mask: 0.074 D_real: 2.266 D_fake: 0.000 D: 2.266 
+(epoch: 2 iter 9399) psnr:  21.481; 21.304; 21.018; 20.906;
+Sep-19-03:24:47 (epoch: 2, iters: 38600, time: 1122.329) G: 0.452 G_GAN: 0.134 G_L1_hole: 0.000 G_L1_valid: 0.050 G_prc: 0.002 G_style: 0.071 G_msr: 0.083 G_mask: 0.111 D_real: 0.720 D_fake: 0.000 D: 0.720 
+(epoch: 2 iter 9599) psnr:  21.377; 21.067; 20.970; 20.760;
+Sep-19-03:43:33 (epoch: 2, iters: 38800, time: 1125.872) G: 0.672 G_GAN: 0.066 G_L1_hole: 0.044 G_L1_valid: 0.042 G_prc: 0.005 G_style: 0.213 G_msr: 0.221 G_mask: 0.081 D_real: 1.516 D_fake: 0.348 D: 1.865 
+(epoch: 2 iter 9799) psnr:  21.551; 21.174; 21.036; 20.736;
+Sep-19-04:02:22 (epoch: 2, iters: 39000, time: 1128.897) G: 0.795 G_GAN: -0.016 G_L1_hole: 0.000 G_L1_valid: 0.037 G_prc: 0.002 G_style: 0.082 G_msr: 0.102 G_mask: 0.587 D_real: 0.835 D_fake: 1.167 D: 2.002 
+(epoch: 2 iter 9999) psnr:  21.566; 21.415; 21.131; 20.955;
+Sep-19-04:20:59 (epoch: 2, iters: 39200, time: 1117.865) G: 0.531 G_GAN: 0.079 G_L1_hole: 0.006 G_L1_valid: 0.042 G_prc: 0.003 G_style: 0.089 G_msr: 0.098 G_mask: 0.214 D_real: 1.937 D_fake: 0.000 D: 1.937 
+(epoch: 2 iter 10199) psnr:  20.789; 20.953; 20.559; 20.555;
+Sep-19-04:39:11 (epoch: 2, iters: 39400, time: 1091.797) G: 0.281 G_GAN: 0.053 G_L1_hole: 0.000 G_L1_valid: 0.020 G_prc: 0.002 G_style: 0.059 G_msr: 0.057 G_mask: 0.090 D_real: 1.260 D_fake: 0.489 D: 1.749 
+(epoch: 2 iter 10399) psnr:  22.258; 22.016; 21.760; 21.546;
+Sep-19-04:57:28 (epoch: 2, iters: 39600, time: 1097.076) G: 0.489 G_GAN: 0.068 G_L1_hole: 0.040 G_L1_valid: 0.021 G_prc: 0.004 G_style: 0.109 G_msr: 0.148 G_mask: 0.100 D_real: 1.901 D_fake: 0.290 D: 2.191 
+(epoch: 2 iter 10599) psnr:  20.793; 20.932; 20.555; 20.686;
+Sep-19-05:15:45 (epoch: 2, iters: 39800, time: 1097.166) G: 0.751 G_GAN: -0.009 G_L1_hole: 0.081 G_L1_valid: 0.027 G_prc: 0.006 G_style: 0.206 G_msr: 0.300 G_mask: 0.140 D_real: 0.716 D_fake: 1.100 D: 1.815 
+(epoch: 2 iter 10799) psnr:  20.483; 20.394; 20.224; 20.086;
+Sep-19-05:33:59 (epoch: 2, iters: 40000, time: 1093.791) G: 0.298 G_GAN: 0.072 G_L1_hole: 0.000 G_L1_valid: 0.028 G_prc: 0.002 G_style: 0.048 G_msr: 0.082 G_mask: 0.066 D_real: 1.930 D_fake: 0.000 D: 1.930 
+(epoch: 2 iter 10999) psnr:  20.654; 20.558; 20.376; 20.317;
+Sep-19-05:52:17 (epoch: 2, iters: 40200, time: 1097.688) G: 0.882 G_GAN: 0.099 G_L1_hole: 0.024 G_L1_valid: 0.022 G_prc: 0.002 G_style: 0.050 G_msr: 0.170 G_mask: 0.515 D_real: 2.116 D_fake: 0.000 D: 2.116 
+(epoch: 2 iter 11199) psnr:  22.542; 21.951; 21.797; 21.378;
+Sep-19-06:10:32 (epoch: 2, iters: 40400, time: 1095.043) G: 0.673 G_GAN: 0.022 G_L1_hole: 0.000 G_L1_valid: 0.035 G_prc: 0.003 G_style: 0.095 G_msr: 0.102 G_mask: 0.417 D_real: 1.151 D_fake: 0.796 D: 1.947 
+(epoch: 2 iter 11399) psnr:  21.003; 20.813; 20.685; 20.581;
+Sep-19-06:28:46 (epoch: 2, iters: 40600, time: 1093.806) G: 0.474 G_GAN: 0.049 G_L1_hole: 0.037 G_L1_valid: 0.025 G_prc: 0.004 G_style: 0.099 G_msr: 0.146 G_mask: 0.115 D_real: 0.376 D_fake: 0.332 D: 0.707 
+(epoch: 2 iter 11599) psnr:  20.988; 20.734; 20.645; 20.376;
+Sep-19-06:46:59 (epoch: 2, iters: 40800, time: 1093.016) G: 0.342 G_GAN: -0.002 G_L1_hole: 0.014 G_L1_valid: 0.032 G_prc: 0.003 G_style: 0.079 G_msr: 0.141 G_mask: 0.073 D_real: 1.024 D_fake: 1.104 D: 2.129 
+(epoch: 2 iter 11799) psnr:  21.846; 21.819; 21.421; 21.356;
+Sep-19-07:05:18 (epoch: 2, iters: 41000, time: 1099.176) G: 0.380 G_GAN: 0.035 G_L1_hole: 0.025 G_L1_valid: 0.022 G_prc: 0.004 G_style: 0.098 G_msr: 0.115 G_mask: 0.082 D_real: 1.295 D_fake: 0.655 D: 1.950 
+(epoch: 2 iter 11999) psnr:  21.403; 21.256; 21.018; 20.840;
+Sep-19-07:23:32 (epoch: 2, iters: 41200, time: 1093.948) G: 0.425 G_GAN: 0.000 G_L1_hole: 0.050 G_L1_valid: 0.033 G_prc: 0.004 G_style: 0.107 G_msr: 0.168 G_mask: 0.065 D_real: 0.764 D_fake: 0.983 D: 1.747 
+(epoch: 2 iter 12199) psnr:  22.670; 22.470; 22.026; 21.809;
+Sep-19-07:41:42 (epoch: 2, iters: 41400, time: 1090.235) G: 0.479 G_GAN: 0.018 G_L1_hole: 0.047 G_L1_valid: 0.029 G_prc: 0.004 G_style: 0.092 G_msr: 0.200 G_mask: 0.088 D_real: 0.150 D_fake: 0.826 D: 0.976 
+(epoch: 2 iter 12399) psnr:  21.958; 21.527; 21.549; 21.118;
+Sep-19-07:59:52 (epoch: 2, iters: 41600, time: 1089.972) G: 0.471 G_GAN: 0.072 G_L1_hole: 0.033 G_L1_valid: 0.018 G_prc: 0.004 G_style: 0.085 G_msr: 0.167 G_mask: 0.093 D_real: 2.126 D_fake: 0.000 D: 2.126 
+(epoch: 2 iter 12599) psnr:  22.400; 21.918; 21.813; 21.477;
+Sep-19-08:18:07 (epoch: 2, iters: 41800, time: 1094.455) G: 0.240 G_GAN: 0.008 G_L1_hole: 0.000 G_L1_valid: 0.034 G_prc: 0.001 G_style: 0.043 G_msr: 0.070 G_mask: 0.083 D_real: 1.780 D_fake: 1.804 D: 3.584 
+(epoch: 2 iter 12799) psnr:  20.760; 20.534; 20.460; 20.169;
+Sep-19-08:36:13 (epoch: 2, iters: 42000, time: 1086.199) G: 0.528 G_GAN: -0.006 G_L1_hole: 0.036 G_L1_valid: 0.020 G_prc: 0.004 G_style: 0.102 G_msr: 0.166 G_mask: 0.206 D_real: 0.884 D_fake: 1.872 D: 2.756 
+(epoch: 2 iter 12999) psnr:  21.441; 21.222; 21.041; 20.755;
+Sep-19-08:54:23 (epoch: 2, iters: 42200, time: 1090.439) G: 0.281 G_GAN: -0.007 G_L1_hole: 0.000 G_L1_valid: 0.018 G_prc: 0.001 G_style: 0.036 G_msr: 0.065 G_mask: 0.167 D_real: 1.353 D_fake: 0.000 D: 1.353 
+(epoch: 2 iter 13199) psnr:  21.919; 21.603; 21.500; 21.302;
+Sep-19-09:12:35 (epoch: 2, iters: 42400, time: 1091.621) G: 0.205 G_GAN: 0.021 G_L1_hole: 0.000 G_L1_valid: 0.022 G_prc: 0.002 G_style: 0.039 G_msr: 0.057 G_mask: 0.063 D_real: 1.250 D_fake: 0.787 D: 2.037 
+(epoch: 2 iter 13399) psnr:  20.908; 20.643; 20.619; 20.396;
+Sep-19-09:30:59 (epoch: 2, iters: 42600, time: 1103.698) G: 0.251 G_GAN: 0.076 G_L1_hole: 0.000 G_L1_valid: 0.016 G_prc: 0.001 G_style: 0.029 G_msr: 0.064 G_mask: 0.064 D_real: 1.766 D_fake: 0.236 D: 2.002 
+(epoch: 2 iter 13599) psnr:  21.337; 21.299; 20.997; 20.849;
+Sep-19-09:49:36 (epoch: 2, iters: 42800, time: 1116.968) G: 0.525 G_GAN: 0.103 G_L1_hole: 0.057 G_L1_valid: 0.030 G_prc: 0.003 G_style: 0.082 G_msr: 0.177 G_mask: 0.072 D_real: 2.941 D_fake: 0.000 D: 2.941 
+(epoch: 2 iter 13799) psnr:  20.185; 20.028; 19.988; 19.866;
+Sep-19-10:08:08 (epoch: 2, iters: 43000, time: 1112.261) G: 0.405 G_GAN: 0.052 G_L1_hole: 0.000 G_L1_valid: 0.049 G_prc: 0.003 G_style: 0.103 G_msr: 0.112 G_mask: 0.086 D_real: 1.555 D_fake: 0.920 D: 2.475 
+(epoch: 2 iter 13999) psnr:  21.796; 21.435; 21.470; 21.143;
+Sep-19-10:26:46 (epoch: 2, iters: 43200, time: 1118.713) G: 0.410 G_GAN: 0.105 G_L1_hole: 0.011 G_L1_valid: 0.039 G_prc: 0.002 G_style: 0.063 G_msr: 0.076 G_mask: 0.113 D_real: 0.000 D_fake: 3.276 D: 3.276 
+(epoch: 2 iter 14199) psnr:  21.171; 21.015; 20.867; 20.709;
+Sep-19-10:45:26 (epoch: 2, iters: 43400, time: 1119.511) G: 0.492 G_GAN: -0.004 G_L1_hole: 0.048 G_L1_valid: 0.021 G_prc: 0.004 G_style: 0.139 G_msr: 0.214 G_mask: 0.069 D_real: 0.579 D_fake: 1.071 D: 1.650 
+(epoch: 2 iter 14399) psnr:  22.288; 22.033; 21.697; 21.529;
+Sep-19-11:03:56 (epoch: 2, iters: 43600, time: 1109.877) G: 0.645 G_GAN: 0.017 G_L1_hole: 0.063 G_L1_valid: 0.022 G_prc: 0.005 G_style: 0.191 G_msr: 0.203 G_mask: 0.144 D_real: 1.070 D_fake: 0.905 D: 1.975 
+(epoch: 2 iter 14599) psnr:  21.630; 21.436; 21.180; 20.968;
+Sep-19-11:22:04 (epoch: 2, iters: 43800, time: 1088.312) G: 0.393 G_GAN: 0.092 G_L1_hole: 0.025 G_L1_valid: 0.023 G_prc: 0.003 G_style: 0.071 G_msr: 0.111 G_mask: 0.068 D_real: 1.776 D_fake: 0.209 D: 1.985 
+(epoch: 2 iter 14799) psnr:  22.891; 22.996; 22.241; 22.238;
+Sep-19-11:40:18 (epoch: 2, iters: 44000, time: 1094.237) G: 0.293 G_GAN: -0.008 G_L1_hole: 0.000 G_L1_valid: 0.033 G_prc: 0.002 G_style: 0.055 G_msr: 0.118 G_mask: 0.093 D_real: 0.906 D_fake: 1.099 D: 2.005 
+(epoch: 2 iter 14999) psnr:  22.486; 22.155; 21.747; 21.455;
+Sep-19-11:58:31 (epoch: 2, iters: 44200, time: 1093.013) G: 0.490 G_GAN: 0.069 G_L1_hole: 0.058 G_L1_valid: 0.015 G_prc: 0.005 G_style: 0.106 G_msr: 0.178 G_mask: 0.059 D_real: 1.607 D_fake: 0.207 D: 1.814 
+(epoch: 2 iter 15199) psnr:  20.875; 20.398; 20.551; 20.152;
+Sep-19-12:16:43 (epoch: 2, iters: 44400, time: 1091.757) G: 0.469 G_GAN: -0.043 G_L1_hole: 0.064 G_L1_valid: 0.024 G_prc: 0.005 G_style: 0.157 G_msr: 0.173 G_mask: 0.089 D_real: 0.315 D_fake: 1.060 D: 1.375 
+(epoch: 2 iter 15399) psnr:  20.946; 20.664; 20.517; 20.315;
+Sep-19-12:34:57 (epoch: 2, iters: 44600, time: 1093.948) G: 0.373 G_GAN: 0.012 G_L1_hole: 0.033 G_L1_valid: 0.022 G_prc: 0.003 G_style: 0.088 G_msr: 0.119 G_mask: 0.096 D_real: 0.726 D_fake: 0.953 D: 1.680 
+(epoch: 2 iter 15599) psnr:  22.006; 21.850; 21.367; 21.277;
+Sep-19-12:53:14 (epoch: 2, iters: 44800, time: 1096.830) G: 0.610 G_GAN: 0.081 G_L1_hole: 0.073 G_L1_valid: 0.023 G_prc: 0.006 G_style: 0.145 G_msr: 0.205 G_mask: 0.078 D_real: 1.678 D_fake: 0.236 D: 1.914 
+(epoch: 2 iter 15799) psnr:  20.691; 20.462; 20.455; 20.270;
+Sep-19-13:11:32 (epoch: 2, iters: 45000, time: 1098.041) G: 0.840 G_GAN: -0.003 G_L1_hole: 0.047 G_L1_valid: 0.021 G_prc: 0.004 G_style: 0.093 G_msr: 0.151 G_mask: 0.527 D_real: 1.036 D_fake: 1.010 D: 2.046 
+(epoch: 2 iter 15999) psnr:  21.324; 21.288; 21.046; 20.915;
+Sep-19-13:29:44 (epoch: 2, iters: 45200, time: 1091.688) G: 0.472 G_GAN: 0.002 G_L1_hole: 0.040 G_L1_valid: 0.021 G_prc: 0.005 G_style: 0.176 G_msr: 0.158 G_mask: 0.070 D_real: 0.838 D_fake: 0.992 D: 1.830 
+(epoch: 2 iter 16199) psnr:  22.830; 22.576; 22.187; 21.913;
+Sep-19-13:47:49 (epoch: 2, iters: 45400, time: 1085.162) G: 0.824 G_GAN: 0.048 G_L1_hole: 0.126 G_L1_valid: 0.026 G_prc: 0.008 G_style: 0.227 G_msr: 0.292 G_mask: 0.097 D_real: 1.459 D_fake: 0.392 D: 1.851 
+(epoch: 2 iter 16399) psnr:  20.864; 20.708; 20.608; 20.464;
+Sep-19-14:06:02 (epoch: 2, iters: 45600, time: 1092.765) G: 0.346 G_GAN: -0.060 G_L1_hole: 0.016 G_L1_valid: 0.024 G_prc: 0.003 G_style: 0.116 G_msr: 0.119 G_mask: 0.128 D_real: 0.358 D_fake: 1.602 D: 1.960 
+(epoch: 2 iter 16599) psnr:  20.859; 20.688; 20.548; 20.344;
+Sep-19-14:24:40 (epoch: 2, iters: 45800, time: 1118.055) G: 0.579 G_GAN: 0.163 G_L1_hole: 0.048 G_L1_valid: 0.027 G_prc: 0.004 G_style: 0.112 G_msr: 0.163 G_mask: 0.062 D_real: 1.741 D_fake: 0.000 D: 1.741 
+(epoch: 2 iter 16799) psnr:  21.583; 21.328; 21.256; 21.041;
+Sep-19-14:43:24 (epoch: 2, iters: 46000, time: 1123.977) G: 0.694 G_GAN: -0.011 G_L1_hole: 0.049 G_L1_valid: 0.026 G_prc: 0.005 G_style: 0.149 G_msr: 0.193 G_mask: 0.283 D_real: 0.852 D_fake: 1.119 D: 1.971 
+(epoch: 2 iter 16999) psnr:  21.212; 21.184; 20.853; 20.793;
+Sep-19-15:02:00 (epoch: 2, iters: 46200, time: 1116.480) G: 0.225 G_GAN: 0.005 G_L1_hole: 0.000 G_L1_valid: 0.026 G_prc: 0.002 G_style: 0.030 G_msr: 0.083 G_mask: 0.080 D_real: 1.062 D_fake: 0.968 D: 2.030 
+(epoch: 2 iter 17199) psnr:  22.284; 22.268; 21.824; 21.647;
+Sep-19-15:20:38 (epoch: 2, iters: 46400, time: 1118.267) G: 0.425 G_GAN: 0.038 G_L1_hole: 0.058 G_L1_valid: 0.016 G_prc: 0.003 G_style: 0.085 G_msr: 0.158 G_mask: 0.068 D_real: 1.152 D_fake: 0.648 D: 1.800 
+(epoch: 2 iter 17399) psnr:  20.748; 20.569; 20.505; 20.318;
+Sep-19-15:39:22 (epoch: 2, iters: 46600, time: 1123.250) G: 0.322 G_GAN: 0.056 G_L1_hole: 0.000 G_L1_valid: 0.017 G_prc: 0.001 G_style: 0.037 G_msr: 0.062 G_mask: 0.150 D_real: 1.222 D_fake: 0.408 D: 1.629 
+(epoch: 2 iter 17599) psnr:  22.699; 22.508; 21.959; 21.673;
+Sep-19-15:57:56 (epoch: 2, iters: 46800, time: 1113.958) G: 0.625 G_GAN: -0.004 G_L1_hole: 0.064 G_L1_valid: 0.057 G_prc: 0.006 G_style: 0.220 G_msr: 0.216 G_mask: 0.066 D_real: 0.693 D_fake: 1.245 D: 1.938 
+(epoch: 2 iter 17799) psnr:  21.725; 21.569; 21.260; 21.066;
+Sep-19-16:16:30 (epoch: 2, iters: 47000, time: 1114.515) G: 0.986 G_GAN: 0.079 G_L1_hole: 0.170 G_L1_valid: 0.020 G_prc: 0.008 G_style: 0.240 G_msr: 0.417 G_mask: 0.051 D_real: 1.617 D_fake: 0.267 D: 1.884 
+(epoch: 2 iter 17999) psnr:  22.676; 22.543; 22.032; 21.811;
+Sep-19-16:34:38 (epoch: 2, iters: 47200, time: 1087.793) G: 0.302 G_GAN: -0.031 G_L1_hole: 0.041 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.077 G_msr: 0.137 G_mask: 0.054 D_real: 0.747 D_fake: 1.660 D: 2.407 
+(epoch: 2 iter 18199) psnr:  22.030; 21.913; 21.555; 21.447;
+Sep-19-16:52:54 (epoch: 2, iters: 47400, time: 1095.750) G: 0.490 G_GAN: 0.055 G_L1_hole: 0.040 G_L1_valid: 0.025 G_prc: 0.005 G_style: 0.127 G_msr: 0.166 G_mask: 0.073 D_real: 1.362 D_fake: 0.496 D: 1.857 
+(epoch: 2 iter 18399) psnr:  23.131; 22.831; 22.361; 22.069;
+Sep-19-17:11:07 (epoch: 2, iters: 47600, time: 1093.459) G: 0.617 G_GAN: 0.004 G_L1_hole: 0.082 G_L1_valid: 0.017 G_prc: 0.005 G_style: 0.173 G_msr: 0.246 G_mask: 0.090 D_real: 0.759 D_fake: 0.812 D: 1.571 
+(epoch: 2 iter 18599) psnr:  20.904; 20.962; 20.634; 20.633;
+Sep-19-17:29:23 (epoch: 2, iters: 47800, time: 1095.586) G: 0.276 G_GAN: 0.047 G_L1_hole: 0.000 G_L1_valid: 0.040 G_prc: 0.002 G_style: 0.045 G_msr: 0.063 G_mask: 0.080 D_real: 1.477 D_fake: 0.537 D: 2.013 
+(epoch: 2 iter 18799) psnr:  20.676; 20.642; 20.443; 20.407;
+Sep-19-17:47:32 (epoch: 2, iters: 48000, time: 1089.211) G: 0.369 G_GAN: 0.052 G_L1_hole: 0.027 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.079 G_msr: 0.128 G_mask: 0.060 D_real: 1.497 D_fake: 0.446 D: 1.943 
+(epoch: 2 iter 18999) psnr:  20.833; 20.851; 20.588; 20.565;
+Sep-19-18:05:47 (epoch: 2, iters: 48200, time: 1095.426) G: 0.352 G_GAN: 0.033 G_L1_hole: 0.000 G_L1_valid: 0.033 G_prc: 0.002 G_style: 0.039 G_msr: 0.065 G_mask: 0.181 D_real: 0.617 D_fake: 0.681 D: 1.298 
+(epoch: 2 iter 19199) psnr:  21.867; 21.751; 21.316; 21.166;
+Sep-19-18:24:03 (epoch: 2, iters: 48400, time: 1095.943) G: 0.453 G_GAN: 0.005 G_L1_hole: 0.054 G_L1_valid: 0.019 G_prc: 0.005 G_style: 0.119 G_msr: 0.182 G_mask: 0.069 D_real: 1.510 D_fake: 0.799 D: 2.309 
+(epoch: 2 iter 19399) psnr:  20.820; 20.783; 20.514; 20.480;
+Sep-19-18:42:22 (epoch: 2, iters: 48600, time: 1098.626) G: 0.644 G_GAN: -0.087 G_L1_hole: 0.074 G_L1_valid: 0.043 G_prc: 0.007 G_style: 0.289 G_msr: 0.197 G_mask: 0.121 D_real: 0.425 D_fake: 1.948 D: 2.373 
+(epoch: 2 iter 19599) psnr:  21.481; 21.370; 21.058; 20.913;
+Sep-19-19:00:32 (epoch: 2, iters: 48800, time: 1090.432) G: 0.529 G_GAN: 0.057 G_L1_hole: 0.030 G_L1_valid: 0.032 G_prc: 0.004 G_style: 0.077 G_msr: 0.146 G_mask: 0.184 D_real: 2.031 D_fake: 0.000 D: 2.031 
+(epoch: 2 iter 19799) psnr:  21.062; 20.932; 20.657; 20.542;
+Sep-19-19:18:41 (epoch: 2, iters: 49000, time: 1088.334) G: 0.574 G_GAN: -0.028 G_L1_hole: 0.056 G_L1_valid: 0.038 G_prc: 0.006 G_style: 0.179 G_msr: 0.208 G_mask: 0.116 D_real: 0.566 D_fake: 1.297 D: 1.863 
+(epoch: 2 iter 19999) psnr:  20.390; 20.248; 20.213; 20.047;
+Sep-19-19:36:54 (epoch: 2, iters: 49200, time: 1092.882) G: 0.766 G_GAN: 0.069 G_L1_hole: 0.071 G_L1_valid: 0.048 G_prc: 0.005 G_style: 0.190 G_msr: 0.202 G_mask: 0.181 D_real: 1.663 D_fake: 0.276 D: 1.939 
+(epoch: 2 iter 20199) psnr:  23.116; 22.967; 22.350; 22.201;
+Sep-19-19:55:10 (epoch: 2, iters: 49400, time: 1096.865) G: 0.972 G_GAN: 0.115 G_L1_hole: 0.164 G_L1_valid: 0.025 G_prc: 0.005 G_style: 0.155 G_msr: 0.409 G_mask: 0.098 D_real: 1.797 D_fake: 0.000 D: 1.797 
+(epoch: 2 iter 20399) psnr:  20.674; 20.526; 20.389; 20.271;
+Sep-19-20:13:21 (epoch: 2, iters: 49600, time: 1090.179) G: 0.606 G_GAN: -0.014 G_L1_hole: 0.106 G_L1_valid: 0.020 G_prc: 0.006 G_style: 0.173 G_msr: 0.272 G_mask: 0.042 D_real: 0.913 D_fake: 0.933 D: 1.846 
+(epoch: 2 iter 20599) psnr:  21.422; 21.481; 21.037; 21.064;
+Sep-19-20:31:34 (epoch: 2, iters: 49800, time: 1093.076) G: 0.449 G_GAN: 0.011 G_L1_hole: 0.057 G_L1_valid: 0.021 G_prc: 0.004 G_style: 0.117 G_msr: 0.167 G_mask: 0.072 D_real: 0.000 D_fake: 2.043 D: 2.043 
+(epoch: 2 iter 20799) psnr:  22.049; 21.827; 21.383; 21.291;
+Sep-19-20:49:47 (epoch: 2, iters: 50000, time: 1093.671) G: 0.500 G_GAN: 0.081 G_L1_hole: 0.017 G_L1_valid: 0.072 G_prc: 0.004 G_style: 0.112 G_msr: 0.119 G_mask: 0.095 D_real: 1.452 D_fake: 0.000 D: 1.452 
+(epoch: 2 iter 20999) psnr:  21.877; 21.677; 21.409; 21.191;
+Sep-19-21:07:58 (epoch: 2, iters: 50200, time: 1090.443) G: 0.480 G_GAN: 0.123 G_L1_hole: 0.055 G_L1_valid: 0.018 G_prc: 0.004 G_style: 0.088 G_msr: 0.145 G_mask: 0.047 D_real: 1.685 D_fake: 0.557 D: 2.242 
+(epoch: 2 iter 21199) psnr:  20.606; 20.481; 20.361; 20.306;
+Sep-19-21:26:11 (epoch: 2, iters: 50400, time: 1093.455) G: 0.457 G_GAN: 0.035 G_L1_hole: 0.011 G_L1_valid: 0.040 G_prc: 0.004 G_style: 0.140 G_msr: 0.103 G_mask: 0.123 D_real: 0.345 D_fake: 0.601 D: 0.945 
+(epoch: 2 iter 21399) psnr:  21.303; 21.253; 20.995; 20.917;
+Sep-19-21:44:51 (epoch: 2, iters: 50600, time: 1119.872) G: 0.606 G_GAN: 0.064 G_L1_hole: 0.092 G_L1_valid: 0.010 G_prc: 0.004 G_style: 0.135 G_msr: 0.209 G_mask: 0.091 D_real: 1.673 D_fake: 0.297 D: 1.969 
+(epoch: 2 iter 21599) psnr:  20.311; 20.070; 20.079; 19.895;
+Sep-19-22:03:27 (epoch: 2, iters: 50800, time: 1116.330) G: 0.568 G_GAN: 0.054 G_L1_hole: 0.019 G_L1_valid: 0.026 G_prc: 0.003 G_style: 0.076 G_msr: 0.100 G_mask: 0.290 D_real: 1.149 D_fake: 0.458 D: 1.607 
+(epoch: 2 iter 21799) psnr:  20.736; 20.579; 20.421; 20.279;
+Sep-19-22:21:57 (epoch: 2, iters: 51000, time: 1109.954) G: 0.522 G_GAN: 0.181 G_L1_hole: 0.047 G_L1_valid: 0.025 G_prc: 0.003 G_style: 0.067 G_msr: 0.148 G_mask: 0.051 D_real: 0.000 D_fake: 0.000 D: 0.000 
+(epoch: 2 iter 21999) psnr:  21.066; 20.710; 20.782; 20.461;
+Sep-19-22:40:34 (epoch: 2, iters: 51200, time: 1116.852) G: 0.206 G_GAN: -0.005 G_L1_hole: 0.000 G_L1_valid: 0.032 G_prc: 0.002 G_style: 0.045 G_msr: 0.065 G_mask: 0.067 D_real: 0.971 D_fake: 1.088 D: 2.059 
+(epoch: 2 iter 22199) psnr:  20.637; 20.538; 20.444; 20.231;
+Sep-19-22:59:10 (epoch: 2, iters: 51400, time: 1115.715) G: 0.605 G_GAN: 0.037 G_L1_hole: 0.087 G_L1_valid: 0.014 G_prc: 0.006 G_style: 0.129 G_msr: 0.247 G_mask: 0.087 D_real: 1.155 D_fake: 0.539 D: 1.694 
+(epoch: 2 iter 22399) psnr:  20.875; 21.057; 20.632; 20.689;
+Sep-19-23:17:22 (epoch: 2, iters: 51600, time: 1092.273) G: 0.339 G_GAN: -0.003 G_L1_hole: 0.041 G_L1_valid: 0.020 G_prc: 0.003 G_style: 0.086 G_msr: 0.131 G_mask: 0.061 D_real: 1.133 D_fake: 0.934 D: 2.066 
+(epoch: 2 iter 22599) psnr:  20.976; 20.951; 20.618; 20.492;
+Sep-19-23:35:34 (epoch: 2, iters: 51800, time: 1091.852) G: 0.301 G_GAN: 0.015 G_L1_hole: 0.028 G_L1_valid: 0.017 G_prc: 0.003 G_style: 0.072 G_msr: 0.106 G_mask: 0.061 D_real: 1.024 D_fake: 0.868 D: 1.892 
+(epoch: 2 iter 22799) psnr:  19.997; 19.849; 19.824; 19.674;
+Sep-19-23:53:40 (epoch: 2, iters: 52000, time: 1086.366) G: 0.687 G_GAN: 0.037 G_L1_hole: 0.105 G_L1_valid: 0.018 G_prc: 0.007 G_style: 0.194 G_msr: 0.279 G_mask: 0.047 D_real: 0.754 D_fake: 0.807 D: 1.561 
+(epoch: 2 iter 22999) psnr:  21.196; 21.247; 20.872; 20.760;
+Sep-20-00:11:57 (epoch: 2, iters: 52200, time: 1096.854) G: 0.467 G_GAN: 0.022 G_L1_hole: 0.037 G_L1_valid: 0.027 G_prc: 0.004 G_style: 0.112 G_msr: 0.176 G_mask: 0.088 D_real: 0.000 D_fake: 1.994 D: 1.994 
+(epoch: 2 iter 23199) psnr:  22.467; 22.202; 21.887; 21.649;
+Sep-20-00:30:05 (epoch: 2, iters: 52400, time: 1087.468) G: 0.427 G_GAN: -0.008 G_L1_hole: 0.045 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.090 G_msr: 0.167 G_mask: 0.109 D_real: 0.868 D_fake: 1.094 D: 1.962 
+(epoch: 2 iter 23399) psnr:  21.348; 21.390; 20.944; 20.987;
+Sep-20-00:48:18 (epoch: 2, iters: 52600, time: 1093.471) G: 0.378 G_GAN: 0.045 G_L1_hole: 0.037 G_L1_valid: 0.014 G_prc: 0.003 G_style: 0.088 G_msr: 0.121 G_mask: 0.069 D_real: 0.827 D_fake: 0.827 D: 1.654 
+(epoch: 2 iter 23599) psnr:  21.606; 21.536; 21.270; 21.171;
+Sep-20-01:06:27 (epoch: 2, iters: 52800, time: 1088.935) G: 0.339 G_GAN: -0.045 G_L1_hole: 0.045 G_L1_valid: 0.013 G_prc: 0.004 G_style: 0.119 G_msr: 0.155 G_mask: 0.047 D_real: 0.419 D_fake: 1.512 D: 1.931 
+(epoch: 2 iter 23799) psnr:  20.527; 20.363; 20.264; 20.115;
+Sep-20-01:24:34 (epoch: 2, iters: 53000, time: 1086.744) G: 0.310 G_GAN: -0.038 G_L1_hole: 0.045 G_L1_valid: 0.016 G_prc: 0.003 G_style: 0.083 G_msr: 0.154 G_mask: 0.047 D_real: 0.495 D_fake: 1.666 D: 2.161 
+(epoch: 2 iter 23999) psnr:  20.760; 20.498; 20.462; 20.256;
+Sep-20-01:42:43 (epoch: 2, iters: 53200, time: 1088.560) G: 0.446 G_GAN: 0.017 G_L1_hole: 0.041 G_L1_valid: 0.015 G_prc: 0.004 G_style: 0.098 G_msr: 0.145 G_mask: 0.125 D_real: 1.041 D_fake: 0.826 D: 1.868 
+(epoch: 2 iter 24199) psnr:  20.184; 20.005; 20.015; 19.856;
+Sep-20-02:00:52 (epoch: 2, iters: 53400, time: 1089.094) G: 0.652 G_GAN: 0.126 G_L1_hole: 0.081 G_L1_valid: 0.018 G_prc: 0.005 G_style: 0.130 G_msr: 0.255 G_mask: 0.037 D_real: 1.820 D_fake: 0.103 D: 1.924 
+(epoch: 2 iter 24399) psnr:  20.498; 20.544; 20.269; 20.293;
+Sep-20-02:19:09 (epoch: 2, iters: 53600, time: 1097.034) G: 0.181 G_GAN: -0.007 G_L1_hole: 0.000 G_L1_valid: 0.016 G_prc: 0.001 G_style: 0.032 G_msr: 0.071 G_mask: 0.068 D_real: 0.979 D_fake: 1.070 D: 2.049 
+(epoch: 2 iter 24599) psnr:  21.088; 20.968; 20.797; 20.616;
+Sep-20-02:37:56 (epoch: 2, iters: 53800, time: 1127.597) G: 0.419 G_GAN: 0.060 G_L1_hole: 0.030 G_L1_valid: 0.028 G_prc: 0.003 G_style: 0.081 G_msr: 0.165 G_mask: 0.052 D_real: 1.731 D_fake: 0.404 D: 2.135 
+(epoch: 2 iter 24799) psnr:  19.739; 19.584; 19.644; 19.499;
+Sep-20-02:56:37 (epoch: 2, iters: 54000, time: 1120.374) G: 0.295 G_GAN: 0.029 G_L1_hole: 0.000 G_L1_valid: 0.029 G_prc: 0.002 G_style: 0.060 G_msr: 0.070 G_mask: 0.105 D_real: 1.321 D_fake: 0.696 D: 2.017 
+(epoch: 2 iter 24999) psnr:  20.970; 20.789; 20.710; 20.521;
+Sep-20-03:15:17 (epoch: 2, iters: 54200, time: 1120.748) G: 0.349 G_GAN: 0.042 G_L1_hole: 0.032 G_L1_valid: 0.017 G_prc: 0.003 G_style: 0.064 G_msr: 0.102 G_mask: 0.089 D_real: 1.279 D_fake: 0.696 D: 1.975 
+(epoch: 2 iter 25199) psnr:  21.469; 21.223; 21.072; 20.837;
+Sep-20-03:34:02 (epoch: 2, iters: 54400, time: 1124.286) G: 0.420 G_GAN: 0.008 G_L1_hole: 0.044 G_L1_valid: 0.039 G_prc: 0.004 G_style: 0.114 G_msr: 0.152 G_mask: 0.060 D_real: 1.047 D_fake: 0.865 D: 1.912 
+(epoch: 2 iter 25399) psnr:  22.929; 22.727; 22.219; 21.989;
+Sep-20-03:52:35 (epoch: 2, iters: 54600, time: 1113.589) G: 0.360 G_GAN: 0.054 G_L1_hole: 0.030 G_L1_valid: 0.016 G_prc: 0.004 G_style: 0.088 G_msr: 0.118 G_mask: 0.051 D_real: 1.537 D_fake: 0.483 D: 2.020 
+(epoch: 2 iter 25599) psnr:  20.556; 20.276; 20.390; 20.064;
+Sep-20-04:11:12 (epoch: 2, iters: 54800, time: 1116.875) G: 1.093 G_GAN: -0.066 G_L1_hole: 0.197 G_L1_valid: 0.024 G_prc: 0.012 G_style: 0.394 G_msr: 0.406 G_mask: 0.126 D_real: 0.300 D_fake: 1.813 D: 2.113 
+(epoch: 2 iter 25799) psnr:  21.075; 21.199; 20.819; 20.792;
+Sep-20-04:29:34 (epoch: 2, iters: 55000, time: 1102.070) G: 0.286 G_GAN: 0.030 G_L1_hole: 0.021 G_L1_valid: 0.014 G_prc: 0.002 G_style: 0.056 G_msr: 0.072 G_mask: 0.091 D_real: 1.226 D_fake: 0.744 D: 1.970 
+(epoch: 2 iter 25999) psnr:  20.784; 20.734; 20.535; 20.404;
+Sep-20-04:47:46 (epoch: 2, iters: 55200, time: 1091.413) G: 0.223 G_GAN: 0.026 G_L1_hole: 0.000 G_L1_valid: 0.038 G_prc: 0.001 G_style: 0.033 G_msr: 0.069 G_mask: 0.056 D_real: 1.252 D_fake: 0.751 D: 2.003 
+(epoch: 2 iter 26199) psnr:  20.896; 20.864; 20.523; 20.490;
+Sep-20-05:05:59 (epoch: 2, iters: 55400, time: 1093.199) G: 0.608 G_GAN: 0.049 G_L1_hole: 0.022 G_L1_valid: 0.026 G_prc: 0.004 G_style: 0.092 G_msr: 0.126 G_mask: 0.288 D_real: 1.500 D_fake: 0.493 D: 1.993 
+(epoch: 2 iter 26399) psnr:  20.300; 20.248; 20.127; 20.098;
+Sep-20-05:24:17 (epoch: 2, iters: 55600, time: 1097.760) G: 0.405 G_GAN: 0.046 G_L1_hole: 0.022 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.057 G_msr: 0.123 G_mask: 0.135 D_real: 1.423 D_fake: 0.555 D: 1.978 
+(epoch: 2 iter 26599) psnr:  21.814; 21.980; 21.342; 21.396;
+Sep-20-05:42:28 (epoch: 2, iters: 55800, time: 1091.083) G: 0.665 G_GAN: 0.077 G_L1_hole: 0.099 G_L1_valid: 0.025 G_prc: 0.005 G_style: 0.140 G_msr: 0.240 G_mask: 0.078 D_real: 1.522 D_fake: 0.343 D: 1.865 
+(epoch: 2 iter 26799) psnr:  23.249; 22.873; 22.443; 22.169;
+Sep-20-06:00:35 (epoch: 2, iters: 56000, time: 1087.585) G: 0.376 G_GAN: 0.032 G_L1_hole: 0.038 G_L1_valid: 0.024 G_prc: 0.003 G_style: 0.059 G_msr: 0.143 G_mask: 0.077 D_real: 1.184 D_fake: 0.705 D: 1.890 
+(epoch: 2 iter 26999) psnr:  21.410; 21.199; 20.961; 20.770;
+Sep-20-06:18:46 (epoch: 2, iters: 56200, time: 1090.500) G: 0.485 G_GAN: 0.047 G_L1_hole: 0.070 G_L1_valid: 0.032 G_prc: 0.005 G_style: 0.116 G_msr: 0.184 G_mask: 0.030 D_real: 1.081 D_fake: 0.558 D: 1.639 
+(epoch: 2 iter 27199) psnr:  21.577; 21.818; 21.202; 21.303;
+Sep-20-06:36:58 (epoch: 2, iters: 56400, time: 1091.899) G: 0.879 G_GAN: -0.047 G_L1_hole: 0.112 G_L1_valid: 0.025 G_prc: 0.009 G_style: 0.327 G_msr: 0.320 G_mask: 0.133 D_real: 0.588 D_fake: 1.293 D: 1.881 
+(epoch: 2 iter 27399) psnr:  21.108; 21.038; 20.844; 20.798;
+Sep-20-06:55:05 (epoch: 2, iters: 56600, time: 1087.613) G: 0.425 G_GAN: 0.065 G_L1_hole: 0.019 G_L1_valid: 0.045 G_prc: 0.002 G_style: 0.043 G_msr: 0.091 G_mask: 0.162 D_real: 1.612 D_fake: 0.352 D: 1.964 
+(epoch: 2 iter 27599) psnr:  20.632; 20.754; 20.372; 20.393;
+Sep-20-07:13:26 (epoch: 2, iters: 56800, time: 1100.619) G: 0.449 G_GAN: -0.020 G_L1_hole: 0.030 G_L1_valid: 0.042 G_prc: 0.004 G_style: 0.126 G_msr: 0.138 G_mask: 0.129 D_real: 0.107 D_fake: 1.211 D: 1.318 
+(epoch: 2 iter 27799) psnr:  21.670; 21.536; 21.201; 21.007;
+Sep-20-07:31:42 (epoch: 2, iters: 57000, time: 1095.798) G: 0.402 G_GAN: 0.093 G_L1_hole: 0.025 G_L1_valid: 0.017 G_prc: 0.002 G_style: 0.065 G_msr: 0.104 G_mask: 0.094 D_real: 0.000 D_fake: 2.127 D: 2.127 
+(epoch: 2 iter 27999) psnr:  21.353; 21.451; 20.913; 20.869;
+Sep-20-07:49:51 (epoch: 2, iters: 57200, time: 1089.128) G: 0.401 G_GAN: 0.015 G_L1_hole: 0.037 G_L1_valid: 0.032 G_prc: 0.003 G_style: 0.072 G_msr: 0.170 G_mask: 0.070 D_real: 1.123 D_fake: 0.915 D: 2.039 
+(epoch: 2 iter 28199) psnr:  21.005; 20.730; 20.723; 20.507;
+Sep-20-08:07:55 (epoch: 2, iters: 57400, time: 1084.644) G: 0.972 G_GAN: -0.037 G_L1_hole: 0.169 G_L1_valid: 0.037 G_prc: 0.009 G_style: 0.303 G_msr: 0.404 G_mask: 0.087 D_real: 0.782 D_fake: 1.247 D: 2.029 
+(epoch: 2 iter 28399) psnr:  21.723; 21.311; 21.242; 20.967;
+Sep-20-08:26:04 (epoch: 2, iters: 57600, time: 1088.336) G: 0.292 G_GAN: -0.008 G_L1_hole: 0.015 G_L1_valid: 0.024 G_prc: 0.003 G_style: 0.085 G_msr: 0.101 G_mask: 0.073 D_real: 0.928 D_fake: 1.162 D: 2.089 
+(epoch: 2 iter 28599) psnr:  20.937; 20.845; 20.646; 20.534;
+Sep-20-08:44:21 (epoch: 2, iters: 57800, time: 1096.893) G: 0.152 G_GAN: 0.015 G_L1_hole: 0.000 G_L1_valid: 0.008 G_prc: 0.001 G_style: 0.016 G_msr: 0.046 G_mask: 0.065 D_real: 1.156 D_fake: 0.848 D: 2.004 
+(epoch: 2 iter 28799) psnr:  21.029; 21.132; 20.751; 20.853;
+Sep-20-09:02:30 (epoch: 2, iters: 58000, time: 1089.090) G: 0.259 G_GAN: 0.021 G_L1_hole: 0.015 G_L1_valid: 0.025 G_prc: 0.002 G_style: 0.046 G_msr: 0.100 G_mask: 0.050 D_real: 0.234 D_fake: 1.562 D: 1.796 
+(epoch: 2 iter 28999) psnr:  21.894; 21.987; 21.361; 21.348;
+(epoch: 2) psnr:  21.080; 21.096; 20.706; 20.598;
+Sep-20-09:21:03 (epoch: 3, iters: 58200, time: 461.169) G: 0.776 G_GAN: 0.041 G_L1_hole: 0.086 G_L1_valid: 0.033 G_prc: 0.007 G_style: 0.202 G_msr: 0.291 G_mask: 0.117 D_real: 1.211 D_fake: 0.602 D: 1.813 
+(epoch: 3 iter 199) psnr:  21.919; 21.921; 21.320; 21.223;
+Sep-20-09:39:35 (epoch: 3, iters: 58400, time: 1112.679) G: 0.312 G_GAN: -0.011 G_L1_hole: 0.019 G_L1_valid: 0.028 G_prc: 0.003 G_style: 0.085 G_msr: 0.117 G_mask: 0.070 D_real: 0.854 D_fake: 1.188 D: 2.042 
+(epoch: 3 iter 399) psnr:  20.914; 20.781; 20.573; 20.345;
+Sep-20-09:58:10 (epoch: 3, iters: 58600, time: 1114.540) G: 0.560 G_GAN: 0.044 G_L1_hole: 0.053 G_L1_valid: 0.038 G_prc: 0.005 G_style: 0.137 G_msr: 0.202 G_mask: 0.081 D_real: 1.131 D_fake: 0.762 D: 1.893 
+(epoch: 3 iter 599) psnr:  20.416; 20.226; 20.224; 20.067;
+Sep-20-10:16:47 (epoch: 3, iters: 58800, time: 1117.517) G: 0.402 G_GAN: 0.014 G_L1_hole: 0.048 G_L1_valid: 0.022 G_prc: 0.003 G_style: 0.102 G_msr: 0.147 G_mask: 0.066 D_real: 1.964 D_fake: 0.000 D: 1.964 
+(epoch: 3 iter 799) psnr:  21.434; 20.994; 21.031; 20.681;
+Sep-20-10:35:28 (epoch: 3, iters: 59000, time: 1120.505) G: 0.492 G_GAN: 0.042 G_L1_hole: 0.059 G_L1_valid: 0.023 G_prc: 0.004 G_style: 0.085 G_msr: 0.188 G_mask: 0.090 D_real: 1.495 D_fake: 0.396 D: 1.891 
+(epoch: 3 iter 999) psnr:  21.418; 21.005; 21.022; 20.608;
+Sep-20-10:54:04 (epoch: 3, iters: 59200, time: 1116.042) G: 0.191 G_GAN: 0.018 G_L1_hole: 0.000 G_L1_valid: 0.018 G_prc: 0.002 G_style: 0.040 G_msr: 0.053 G_mask: 0.059 D_real: 1.195 D_fake: 0.827 D: 2.022 
+(epoch: 3 iter 1199) psnr:  22.266; 22.240; 21.758; 21.754;
+Sep-20-11:12:16 (epoch: 3, iters: 59400, time: 1092.482) G: 0.284 G_GAN: 0.014 G_L1_hole: 0.009 G_L1_valid: 0.020 G_prc: 0.003 G_style: 0.072 G_msr: 0.084 G_mask: 0.083 D_real: 1.141 D_fake: 0.857 D: 1.998 
+(epoch: 3 iter 1399) psnr:  20.419; 20.197; 20.155; 19.986;
+Sep-20-11:30:30 (epoch: 3, iters: 59600, time: 1093.839) G: 0.435 G_GAN: -0.014 G_L1_hole: 0.045 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.099 G_msr: 0.164 G_mask: 0.117 D_real: 0.000 D_fake: 1.986 D: 1.986 
+(epoch: 3 iter 1599) psnr:  21.115; 20.827; 20.826; 20.553;
+Sep-20-11:48:44 (epoch: 3, iters: 59800, time: 1093.447) G: 0.500 G_GAN: 0.058 G_L1_hole: 0.065 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.105 G_msr: 0.181 G_mask: 0.067 D_real: 1.543 D_fake: 0.421 D: 1.964 
+(epoch: 3 iter 1799) psnr:  20.589; 20.466; 20.300; 20.109;
+Sep-20-12:06:55 (epoch: 3, iters: 60000, time: 1091.654) G: 0.451 G_GAN: 0.130 G_L1_hole: 0.015 G_L1_valid: 0.050 G_prc: 0.003 G_style: 0.070 G_msr: 0.108 G_mask: 0.076 D_real: 0.000 D_fake: 0.337 D: 0.337 
+(epoch: 3 iter 1999) psnr:  20.577; 20.280; 20.269; 19.968;
+Sep-20-12:25:13 (epoch: 3, iters: 60200, time: 1097.555) G: 0.386 G_GAN: -0.024 G_L1_hole: 0.015 G_L1_valid: 0.024 G_prc: 0.003 G_style: 0.115 G_msr: 0.110 G_mask: 0.144 D_real: 0.594 D_fake: 1.379 D: 1.973 
+(epoch: 3 iter 2199) psnr:  20.694; 20.544; 20.350; 20.229;
+Sep-20-12:43:29 (epoch: 3, iters: 60400, time: 1096.533) G: 0.396 G_GAN: 0.008 G_L1_hole: 0.027 G_L1_valid: 0.035 G_prc: 0.004 G_style: 0.099 G_msr: 0.138 G_mask: 0.085 D_real: 1.005 D_fake: 0.940 D: 1.945 
+(epoch: 3 iter 2399) psnr:  20.602; 20.517; 20.336; 20.298;
+Sep-20-13:01:46 (epoch: 3, iters: 60600, time: 1096.234) G: 0.367 G_GAN: 0.015 G_L1_hole: 0.021 G_L1_valid: 0.017 G_prc: 0.003 G_style: 0.067 G_msr: 0.090 G_mask: 0.155 D_real: 1.059 D_fake: 0.857 D: 1.916 
+(epoch: 3 iter 2599) psnr:  21.295; 21.231; 21.006; 20.915;
+Sep-20-13:19:57 (epoch: 3, iters: 60800, time: 1091.868) G: 0.482 G_GAN: 0.029 G_L1_hole: 0.063 G_L1_valid: 0.024 G_prc: 0.005 G_style: 0.110 G_msr: 0.176 G_mask: 0.076 D_real: 1.503 D_fake: 0.852 D: 2.355 
+(epoch: 3 iter 2799) psnr:  20.458; 20.413; 20.267; 20.149;
+Sep-20-13:38:11 (epoch: 3, iters: 61000, time: 1093.936) G: 0.362 G_GAN: -0.073 G_L1_hole: 0.043 G_L1_valid: 0.028 G_prc: 0.004 G_style: 0.114 G_msr: 0.188 G_mask: 0.059 D_real: 0.108 D_fake: 1.740 D: 1.849 
+(epoch: 3 iter 2999) psnr:  21.490; 21.266; 21.086; 20.774;
+Sep-20-13:56:25 (epoch: 3, iters: 61200, time: 1093.179) G: 0.829 G_GAN: 0.021 G_L1_hole: 0.068 G_L1_valid: 0.046 G_prc: 0.008 G_style: 0.311 G_msr: 0.263 G_mask: 0.112 D_real: 1.227 D_fake: 0.779 D: 2.006 
+(epoch: 3 iter 3199) psnr:  21.628; 21.394; 21.167; 20.943;
+Sep-20-14:14:37 (epoch: 3, iters: 61400, time: 1092.212) G: 0.204 G_GAN: -0.012 G_L1_hole: 0.009 G_L1_valid: 0.014 G_prc: 0.002 G_style: 0.058 G_msr: 0.064 G_mask: 0.070 D_real: 0.907 D_fake: 1.129 D: 2.036 
+(epoch: 3 iter 3399) psnr:  20.166; 20.017; 20.026; 19.838;
+Sep-20-14:33:18 (epoch: 3, iters: 61600, time: 1121.691) G: 0.319 G_GAN: 0.017 G_L1_hole: 0.000 G_L1_valid: 0.025 G_prc: 0.002 G_style: 0.070 G_msr: 0.086 G_mask: 0.118 D_real: 0.877 D_fake: 0.769 D: 1.647 
+(epoch: 3 iter 3599) psnr:  20.815; 20.556; 20.586; 20.369;
+Sep-20-14:52:03 (epoch: 3, iters: 61800, time: 1124.839) G: 0.412 G_GAN: 0.107 G_L1_hole: 0.000 G_L1_valid: 0.032 G_prc: 0.001 G_style: 0.043 G_msr: 0.069 G_mask: 0.159 D_real: 0.000 D_fake: 0.000 D: 0.000 
+(epoch: 3 iter 3799) psnr:  20.887; 20.498; 20.594; 20.285;
+Sep-20-15:10:49 (epoch: 3, iters: 62000, time: 1125.222) G: 0.760 G_GAN: 0.051 G_L1_hole: 0.008 G_L1_valid: 0.015 G_prc: 0.003 G_style: 0.078 G_msr: 0.065 G_mask: 0.542 D_real: 1.409 D_fake: 0.521 D: 1.930 
+(epoch: 3 iter 3999) psnr:  20.741; 20.448; 20.454; 20.209;
+Sep-20-15:30:17 (epoch: 3, iters: 62200, time: 1168.092) G: 0.332 G_GAN: 0.022 G_L1_hole: 0.000 G_L1_valid: 0.022 G_prc: 0.002 G_style: 0.056 G_msr: 0.062 G_mask: 0.168 D_real: 1.175 D_fake: 0.862 D: 2.037 
+(epoch: 3 iter 4199) psnr:  21.460; 21.460; 21.095; 21.068;
+Sep-20-15:50:25 (epoch: 3, iters: 62400, time: 1208.161) G: 0.566 G_GAN: 0.003 G_L1_hole: 0.032 G_L1_valid: 0.024 G_prc: 0.003 G_style: 0.060 G_msr: 0.121 G_mask: 0.323 D_real: 1.850 D_fake: 0.000 D: 1.850 
+(epoch: 3 iter 4399) psnr:  21.349; 21.257; 20.932; 20.775;
+Sep-20-16:10:34 (epoch: 3, iters: 62600, time: 1209.055) G: 0.460 G_GAN: 0.102 G_L1_hole: 0.039 G_L1_valid: 0.024 G_prc: 0.004 G_style: 0.094 G_msr: 0.121 G_mask: 0.077 D_real: 0.000 D_fake: 0.000 D: 0.000 
+(epoch: 3 iter 4599) psnr:  21.203; 20.907; 20.883; 20.561;
+Sep-20-16:30:29 (epoch: 3, iters: 62800, time: 1194.672) G: 0.667 G_GAN: 0.016 G_L1_hole: 0.102 G_L1_valid: 0.028 G_prc: 0.008 G_style: 0.169 G_msr: 0.249 G_mask: 0.096 D_real: 0.982 D_fake: 1.061 D: 2.043 
+(epoch: 3 iter 4799) psnr:  22.325; 22.050; 21.599; 21.365;
+Sep-20-16:50:20 (epoch: 3, iters: 63000, time: 1191.028) G: 0.911 G_GAN: 0.114 G_L1_hole: 0.034 G_L1_valid: 0.012 G_prc: 0.003 G_style: 0.082 G_msr: 0.131 G_mask: 0.536 D_real: 0.000 D_fake: 0.973 D: 0.973 
+(epoch: 3 iter 4999) psnr:  22.150; 21.845; 21.637; 21.358;
+Sep-20-17:09:41 (epoch: 3, iters: 63200, time: 1161.683) G: 0.350 G_GAN: -0.041 G_L1_hole: 0.039 G_L1_valid: 0.044 G_prc: 0.004 G_style: 0.100 G_msr: 0.148 G_mask: 0.056 D_real: 0.587 D_fake: 1.324 D: 1.911 
+(epoch: 3 iter 5199) psnr:  22.887; 22.694; 22.275; 22.144;
+Sep-20-17:29:20 (epoch: 3, iters: 63400, time: 1179.026) G: 1.006 G_GAN: 0.073 G_L1_hole: 0.132 G_L1_valid: 0.048 G_prc: 0.010 G_style: 0.251 G_msr: 0.345 G_mask: 0.146 D_real: 0.000 D_fake: 1.096 D: 1.096 
+(epoch: 3 iter 5399) psnr:  21.153; 20.967; 20.893; 20.756;
+Sep-20-17:48:48 (epoch: 3, iters: 63600, time: 1168.113) G: 0.509 G_GAN: -0.006 G_L1_hole: 0.050 G_L1_valid: 0.031 G_prc: 0.005 G_style: 0.129 G_msr: 0.193 G_mask: 0.108 D_real: 0.000 D_fake: 2.404 D: 2.404 
+(epoch: 3 iter 5599) psnr:  21.220; 21.127; 20.856; 20.740;
+Sep-20-18:08:18 (epoch: 3, iters: 63800, time: 1169.874) G: 1.052 G_GAN: 0.185 G_L1_hole: 0.083 G_L1_valid: 0.032 G_prc: 0.007 G_style: 0.424 G_msr: 0.250 G_mask: 0.071 D_real: 0.000 D_fake: 0.000 D: 0.000 
+(epoch: 3 iter 5799) psnr:  20.863; 20.562; 20.584; 20.355;
+Sep-20-18:27:53 (epoch: 3, iters: 64000, time: 1174.802) G: 0.609 G_GAN: 0.074 G_L1_hole: 0.079 G_L1_valid: 0.024 G_prc: 0.006 G_style: 0.159 G_msr: 0.209 G_mask: 0.057 D_real: 0.363 D_fake: 0.235 D: 0.599 
+(epoch: 3 iter 5999) psnr:  23.906; 23.763; 22.734; 22.560;
+Sep-20-18:47:37 (epoch: 3, iters: 64200, time: 1184.403) G: 0.745 G_GAN: 0.025 G_L1_hole: 0.066 G_L1_valid: 0.032 G_prc: 0.006 G_style: 0.266 G_msr: 0.210 G_mask: 0.141 D_real: 0.000 D_fake: 1.392 D: 1.392 
+(epoch: 3 iter 6199) psnr:  20.685; 20.593; 20.427; 20.305;
+Sep-20-19:07:19 (epoch: 3, iters: 64400, time: 1181.603) G: 0.329 G_GAN: 0.028 G_L1_hole: 0.031 G_L1_valid: 0.018 G_prc: 0.003 G_style: 0.045 G_msr: 0.144 G_mask: 0.059 D_real: 1.294 D_fake: 0.743 D: 2.037 
+(epoch: 3 iter 6399) psnr:  20.500; 20.406; 20.281; 20.140;
+Sep-20-19:26:54 (epoch: 3, iters: 64600, time: 1175.057) G: 0.211 G_GAN: 0.036 G_L1_hole: 0.000 G_L1_valid: 0.031 G_prc: 0.001 G_style: 0.031 G_msr: 0.055 G_mask: 0.056 D_real: 1.386 D_fake: 0.617 D: 2.003 
+(epoch: 3 iter 6599) psnr:  21.507; 21.248; 21.129; 20.931;
+Sep-20-19:46:35 (epoch: 3, iters: 64800, time: 1180.445) G: 0.409 G_GAN: 0.071 G_L1_hole: 0.025 G_L1_valid: 0.014 G_prc: 0.003 G_style: 0.107 G_msr: 0.131 G_mask: 0.059 D_real: 1.714 D_fake: 0.288 D: 2.002 
+(epoch: 3 iter 6799) psnr:  20.413; 20.284; 20.244; 20.084;
+Sep-20-20:06:00 (epoch: 3, iters: 65000, time: 1165.389) G: 0.474 G_GAN: -0.046 G_L1_hole: 0.054 G_L1_valid: 0.015 G_prc: 0.005 G_style: 0.138 G_msr: 0.176 G_mask: 0.132 D_real: 0.450 D_fake: 1.408 D: 1.857 
+(epoch: 3 iter 6999) psnr:  20.823; 20.573; 20.592; 20.421;
+Sep-20-20:25:27 (epoch: 3, iters: 65200, time: 1166.846) G: 0.361 G_GAN: 0.027 G_L1_hole: 0.043 G_L1_valid: 0.021 G_prc: 0.004 G_style: 0.082 G_msr: 0.123 G_mask: 0.062 D_real: 1.096 D_fake: 0.880 D: 1.977 
+(epoch: 3 iter 7199) psnr:  21.430; 20.964; 21.052; 20.644;
+Sep-20-20:44:59 (epoch: 3, iters: 65400, time: 1172.213) G: 0.361 G_GAN: 0.019 G_L1_hole: 0.033 G_L1_valid: 0.022 G_prc: 0.003 G_style: 0.076 G_msr: 0.135 G_mask: 0.072 D_real: 1.061 D_fake: 0.867 D: 1.929 
+(epoch: 3 iter 7399) psnr:  21.399; 21.246; 21.108; 20.878;
+Sep-20-21:04:43 (epoch: 3, iters: 65600, time: 1183.831) G: 0.856 G_GAN: 0.014 G_L1_hole: 0.038 G_L1_valid: 0.018 G_prc: 0.004 G_style: 0.118 G_msr: 0.133 G_mask: 0.532 D_real: 1.193 D_fake: 0.830 D: 2.023 
+(epoch: 3 iter 7599) psnr:  20.323; 20.114; 20.123; 19.872;
+Sep-20-21:24:16 (epoch: 3, iters: 65800, time: 1172.903) G: 0.485 G_GAN: -0.014 G_L1_hole: 0.070 G_L1_valid: 0.020 G_prc: 0.004 G_style: 0.098 G_msr: 0.233 G_mask: 0.074 D_real: 0.762 D_fake: 1.072 D: 1.834 
+(epoch: 3 iter 7799) psnr:  21.386; 21.055; 21.017; 20.728;
+Sep-20-21:44:13 (epoch: 3, iters: 66000, time: 1197.280) G: 0.749 G_GAN: -0.029 G_L1_hole: 0.108 G_L1_valid: 0.039 G_prc: 0.006 G_style: 0.220 G_msr: 0.286 G_mask: 0.119 D_real: 0.662 D_fake: 1.605 D: 2.267 
+(epoch: 3 iter 7999) psnr:  21.214; 20.987; 20.847; 20.541;
+Sep-20-22:04:01 (epoch: 3, iters: 66200, time: 1187.933) G: 0.389 G_GAN: 0.007 G_L1_hole: 0.029 G_L1_valid: 0.018 G_prc: 0.003 G_style: 0.122 G_msr: 0.130 G_mask: 0.079 D_real: 1.004 D_fake: 0.948 D: 1.952 
+(epoch: 3 iter 8199) psnr:  20.679; 20.265; 20.469; 20.108;
+Sep-20-22:23:54 (epoch: 3, iters: 66400, time: 1193.493) G: 0.334 G_GAN: -0.022 G_L1_hole: 0.000 G_L1_valid: 0.023 G_prc: 0.002 G_style: 0.090 G_msr: 0.106 G_mask: 0.136 D_real: 0.839 D_fake: 1.248 D: 2.087 
+(epoch: 3 iter 8399) psnr:  21.804; 21.681; 21.321; 21.179;
+Sep-20-22:43:30 (epoch: 3, iters: 66600, time: 1175.833) G: 0.527 G_GAN: -0.039 G_L1_hole: 0.068 G_L1_valid: 0.022 G_prc: 0.005 G_style: 0.125 G_msr: 0.255 G_mask: 0.093 D_real: 0.541 D_fake: 1.269 D: 1.810 
+(epoch: 3 iter 8599) psnr:  21.195; 20.697; 20.805; 20.490;
+Sep-20-23:03:19 (epoch: 3, iters: 66800, time: 1188.931) G: 0.384 G_GAN: -0.002 G_L1_hole: 0.038 G_L1_valid: 0.020 G_prc: 0.005 G_style: 0.098 G_msr: 0.153 G_mask: 0.073 D_real: 1.054 D_fake: 0.976 D: 2.030 
+(epoch: 3 iter 8799) psnr:  21.128; 20.573; 20.774; 20.305;
+Sep-20-23:22:50 (epoch: 3, iters: 67000, time: 1170.603) G: 0.216 G_GAN: -0.024 G_L1_hole: 0.019 G_L1_valid: 0.014 G_prc: 0.002 G_style: 0.049 G_msr: 0.079 G_mask: 0.077 D_real: 0.665 D_fake: 1.305 D: 1.970 
+(epoch: 3 iter 8999) psnr:  20.847; 20.597; 20.651; 20.369;
+Sep-20-23:42:31 (epoch: 3, iters: 67200, time: 1181.110) G: 0.264 G_GAN: 0.020 G_L1_hole: 0.000 G_L1_valid: 0.017 G_prc: 0.002 G_style: 0.033 G_msr: 0.063 G_mask: 0.129 D_real: 1.340 D_fake: 0.836 D: 2.177 
+(epoch: 3 iter 9199) psnr:  20.560; 20.375; 20.332; 20.126;
+Sep-21-00:02:10 (epoch: 3, iters: 67400, time: 1179.218) G: 0.388 G_GAN: -0.041 G_L1_hole: 0.048 G_L1_valid: 0.022 G_prc: 0.004 G_style: 0.118 G_msr: 0.175 G_mask: 0.060 D_real: 0.332 D_fake: 1.280 D: 1.612 
+(epoch: 3 iter 9399) psnr:  20.289; 20.189; 20.142; 19.970;
+Sep-21-00:21:37 (epoch: 3, iters: 67600, time: 1167.084) G: 0.383 G_GAN: 0.025 G_L1_hole: 0.000 G_L1_valid: 0.025 G_prc: 0.002 G_style: 0.060 G_msr: 0.075 G_mask: 0.196 D_real: 1.238 D_fake: 0.693 D: 1.931 
+(epoch: 3 iter 9599) psnr:  21.626; 21.469; 21.107; 20.965;
+Sep-21-00:41:07 (epoch: 3, iters: 67800, time: 1169.644) G: 0.219 G_GAN: -0.004 G_L1_hole: 0.000 G_L1_valid: 0.030 G_prc: 0.001 G_style: 0.039 G_msr: 0.084 G_mask: 0.068 D_real: 0.986 D_fake: 1.027 D: 2.014 
+(epoch: 3 iter 9799) psnr:  21.708; 21.520; 21.199; 21.136;
+Sep-21-01:00:41 (epoch: 3, iters: 68000, time: 1174.136) G: 0.535 G_GAN: 0.005 G_L1_hole: 0.046 G_L1_valid: 0.036 G_prc: 0.006 G_style: 0.143 G_msr: 0.162 G_mask: 0.138 D_real: 1.029 D_fake: 0.952 D: 1.982 
+(epoch: 3 iter 9999) psnr:  20.754; 20.380; 20.407; 20.169;
+Sep-21-01:20:11 (epoch: 3, iters: 68200, time: 1170.276) G: 0.663 G_GAN: 0.078 G_L1_hole: 0.104 G_L1_valid: 0.016 G_prc: 0.005 G_style: 0.147 G_msr: 0.253 G_mask: 0.060 D_real: 1.830 D_fake: 0.036 D: 1.866 
+(epoch: 3 iter 10199) psnr:  20.853; 20.560; 20.588; 20.356;
+Sep-21-01:39:42 (epoch: 3, iters: 68400, time: 1170.481) G: 0.622 G_GAN: 0.077 G_L1_hole: 0.047 G_L1_valid: 0.028 G_prc: 0.004 G_style: 0.175 G_msr: 0.158 G_mask: 0.132 D_real: 2.079 D_fake: 0.000 D: 2.079 
+(epoch: 3 iter 10399) psnr:  20.863; 20.521; 20.621; 20.366;
+Sep-21-01:59:07 (epoch: 3, iters: 68600, time: 1165.650) G: 0.564 G_GAN: 0.029 G_L1_hole: 0.055 G_L1_valid: 0.033 G_prc: 0.005 G_style: 0.130 G_msr: 0.216 G_mask: 0.097 D_real: 1.206 D_fake: 0.743 D: 1.948 
+(epoch: 3 iter 10599) psnr:  20.620; 20.388; 20.441; 20.184;
+Sep-21-02:18:34 (epoch: 3, iters: 68800, time: 1166.417) G: 0.692 G_GAN: 0.081 G_L1_hole: 0.082 G_L1_valid: 0.026 G_prc: 0.007 G_style: 0.224 G_msr: 0.218 G_mask: 0.054 D_real: 0.921 D_fake: 1.444 D: 2.365 
+(epoch: 3 iter 10799) psnr:  20.924; 20.854; 20.634; 20.525;
+Sep-21-02:38:40 (epoch: 3, iters: 69000, time: 1205.862) G: 0.637 G_GAN: 0.055 G_L1_hole: 0.084 G_L1_valid: 0.025 G_prc: 0.007 G_style: 0.193 G_msr: 0.215 G_mask: 0.057 D_real: 0.857 D_fake: 0.723 D: 1.579 
+(epoch: 3 iter 10999) psnr:  20.858; 20.654; 20.618; 20.426;
+Sep-21-02:58:35 (epoch: 3, iters: 69200, time: 1195.041) G: 0.407 G_GAN: 0.069 G_L1_hole: 0.039 G_L1_valid: 0.014 G_prc: 0.003 G_style: 0.053 G_msr: 0.157 G_mask: 0.073 D_real: 1.315 D_fake: 0.611 D: 1.926 
+(epoch: 3 iter 11199) psnr:  19.927; 19.906; 19.807; 19.730;
+Sep-21-03:18:13 (epoch: 3, iters: 69400, time: 1178.246) G: 0.670 G_GAN: 0.097 G_L1_hole: 0.080 G_L1_valid: 0.029 G_prc: 0.007 G_style: 0.164 G_msr: 0.228 G_mask: 0.065 D_real: 0.000 D_fake: 1.898 D: 1.898 
+(epoch: 3 iter 11399) psnr:  20.355; 20.135; 20.161; 19.984;
+Sep-21-03:38:02 (epoch: 3, iters: 69600, time: 1188.800) G: 0.381 G_GAN: 0.044 G_L1_hole: 0.018 G_L1_valid: 0.032 G_prc: 0.003 G_style: 0.091 G_msr: 0.119 G_mask: 0.074 D_real: 1.354 D_fake: 0.605 D: 1.959 
+(epoch: 3 iter 11599) psnr:  21.070; 20.989; 20.774; 20.622;
+Sep-21-03:57:55 (epoch: 3, iters: 69800, time: 1193.348) G: 0.279 G_GAN: 0.020 G_L1_hole: 0.000 G_L1_valid: 0.029 G_prc: 0.002 G_style: 0.057 G_msr: 0.116 G_mask: 0.055 D_real: 1.160 D_fake: 0.798 D: 1.959 
+(epoch: 3 iter 11799) psnr:  20.467; 20.325; 20.269; 20.134;
+Sep-21-04:17:00 (epoch: 3, iters: 70000, time: 1144.470) G: 0.262 G_GAN: 0.041 G_L1_hole: 0.017 G_L1_valid: 0.016 G_prc: 0.003 G_style: 0.049 G_msr: 0.099 G_mask: 0.037 D_real: 1.288 D_fake: 0.651 D: 1.939 
+(epoch: 3 iter 11999) psnr:  20.626; 20.293; 20.379; 20.079;
+Sep-21-04:35:18 (epoch: 3, iters: 70200, time: 1098.545) G: 0.622 G_GAN: 0.070 G_L1_hole: 0.074 G_L1_valid: 0.029 G_prc: 0.006 G_style: 0.161 G_msr: 0.190 G_mask: 0.093 D_real: 1.330 D_fake: 0.618 D: 1.948 
+(epoch: 3 iter 12199) psnr:  20.413; 19.970; 20.191; 19.824;
+Sep-21-04:53:36 (epoch: 3, iters: 70400, time: 1097.858) G: 0.530 G_GAN: 0.054 G_L1_hole: 0.073 G_L1_valid: 0.018 G_prc: 0.005 G_style: 0.124 G_msr: 0.197 G_mask: 0.059 D_real: 1.668 D_fake: 0.865 D: 2.533 
+(epoch: 3 iter 12399) psnr:  21.569; 21.205; 21.168; 20.861;
+Sep-21-05:11:51 (epoch: 3, iters: 70600, time: 1095.121) G: 0.257 G_GAN: -0.007 G_L1_hole: 0.032 G_L1_valid: 0.012 G_prc: 0.003 G_style: 0.050 G_msr: 0.126 G_mask: 0.041 D_real: 0.854 D_fake: 1.078 D: 1.932 
+(epoch: 3 iter 12599) psnr:  20.809; 20.518; 20.576; 20.305;
+Sep-21-05:30:20 (epoch: 3, iters: 70800, time: 1108.573) G: 0.351 G_GAN: 0.067 G_L1_hole: 0.020 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.064 G_msr: 0.087 G_mask: 0.089 D_real: 1.690 D_fake: 0.335 D: 2.025 
+(epoch: 3 iter 12799) psnr:  20.902; 20.613; 20.567; 20.323;
+Sep-21-05:48:35 (epoch: 3, iters: 71000, time: 1094.900) G: 0.680 G_GAN: 0.073 G_L1_hole: 0.097 G_L1_valid: 0.030 G_prc: 0.007 G_style: 0.178 G_msr: 0.249 G_mask: 0.045 D_real: 1.772 D_fake: 0.130 D: 1.901 
+(epoch: 3 iter 12999) psnr:  21.489; 21.207; 21.012; 20.862;
+Sep-21-06:06:54 (epoch: 3, iters: 71200, time: 1099.715) G: 0.411 G_GAN: 0.042 G_L1_hole: 0.043 G_L1_valid: 0.010 G_prc: 0.003 G_style: 0.068 G_msr: 0.190 G_mask: 0.055 D_real: 1.376 D_fake: 0.602 D: 1.978 
+(epoch: 3 iter 13199) psnr:  21.619; 21.621; 21.263; 21.189;
+Sep-21-06:25:14 (epoch: 3, iters: 71400, time: 1099.855) G: 0.392 G_GAN: 0.063 G_L1_hole: 0.039 G_L1_valid: 0.016 G_prc: 0.003 G_style: 0.073 G_msr: 0.155 G_mask: 0.043 D_real: 1.584 D_fake: 0.370 D: 1.954 
+(epoch: 3 iter 13399) psnr:  20.355; 20.315; 20.201; 20.175;
+Sep-21-06:43:34 (epoch: 3, iters: 71600, time: 1099.525) G: 0.604 G_GAN: -0.042 G_L1_hole: 0.088 G_L1_valid: 0.025 G_prc: 0.006 G_style: 0.146 G_msr: 0.248 G_mask: 0.133 D_real: 0.628 D_fake: 1.411 D: 2.039 
+(epoch: 3 iter 13599) psnr:  21.370; 21.003; 20.894; 20.603;
+Sep-21-07:01:45 (epoch: 3, iters: 71800, time: 1091.338) G: 0.412 G_GAN: 0.056 G_L1_hole: 0.052 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.087 G_msr: 0.155 G_mask: 0.039 D_real: 1.172 D_fake: 0.831 D: 2.003 
+(epoch: 3 iter 13799) psnr:  21.439; 21.017; 21.079; 20.687;
+Sep-21-07:19:57 (epoch: 3, iters: 72000, time: 1092.448) G: 0.548 G_GAN: 0.044 G_L1_hole: 0.092 G_L1_valid: 0.023 G_prc: 0.006 G_style: 0.138 G_msr: 0.208 G_mask: 0.037 D_real: 2.302 D_fake: 0.000 D: 2.302 
+(epoch: 3 iter 13999) psnr:  20.057; 19.921; 19.959; 19.808;
+Sep-21-07:38:10 (epoch: 3, iters: 72200, time: 1092.822) G: 0.261 G_GAN: 0.035 G_L1_hole: 0.021 G_L1_valid: 0.017 G_prc: 0.002 G_style: 0.050 G_msr: 0.092 G_mask: 0.044 D_real: 1.281 D_fake: 0.602 D: 1.884 
+(epoch: 3 iter 14199) psnr:  20.830; 20.593; 20.564; 20.360;
+Sep-21-07:56:21 (epoch: 3, iters: 72400, time: 1091.066) G: 0.282 G_GAN: 0.065 G_L1_hole: 0.000 G_L1_valid: 0.025 G_prc: 0.001 G_style: 0.043 G_msr: 0.073 G_mask: 0.074 D_real: 0.000 D_fake: 0.845 D: 0.845 
+(epoch: 3 iter 14399) psnr:  20.285; 20.042; 20.094; 19.836;
+Sep-21-08:14:38 (epoch: 3, iters: 72600, time: 1096.685) G: 0.406 G_GAN: 0.021 G_L1_hole: 0.049 G_L1_valid: 0.023 G_prc: 0.003 G_style: 0.069 G_msr: 0.174 G_mask: 0.066 D_real: 2.447 D_fake: 0.000 D: 2.447 
+(epoch: 3 iter 14599) psnr:  22.164; 22.410; 21.620; 21.686;
+Sep-21-08:32:42 (epoch: 3, iters: 72800, time: 1084.129) G: 0.362 G_GAN: 0.044 G_L1_hole: 0.009 G_L1_valid: 0.019 G_prc: 0.002 G_style: 0.041 G_msr: 0.097 G_mask: 0.150 D_real: 0.999 D_fake: 0.564 D: 1.563 
+(epoch: 3 iter 14799) psnr:  20.780; 20.605; 20.521; 20.401;
+Sep-21-08:50:51 (epoch: 3, iters: 73000, time: 1088.826) G: 0.827 G_GAN: 0.064 G_L1_hole: 0.049 G_L1_valid: 0.050 G_prc: 0.005 G_style: 0.144 G_msr: 0.217 G_mask: 0.298 D_real: 0.000 D_fake: 1.164 D: 1.164 
+(epoch: 3 iter 14999) psnr:  20.995; 20.716; 20.657; 20.415;
+Sep-21-09:09:01 (epoch: 3, iters: 73200, time: 1089.718) G: 0.171 G_GAN: -0.008 G_L1_hole: 0.000 G_L1_valid: 0.023 G_prc: 0.001 G_style: 0.024 G_msr: 0.069 G_mask: 0.062 D_real: 0.641 D_fake: 1.089 D: 1.730 
+(epoch: 3 iter 15199) psnr:  20.183; 20.203; 20.014; 19.997;
+Sep-21-09:27:19 (epoch: 3, iters: 73400, time: 1098.637) G: 0.758 G_GAN: 0.078 G_L1_hole: 0.101 G_L1_valid: 0.021 G_prc: 0.007 G_style: 0.185 G_msr: 0.260 G_mask: 0.107 D_real: 2.412 D_fake: 0.000 D: 2.412 
+(epoch: 3 iter 15399) psnr:  21.129; 21.051; 20.838; 20.812;
+Sep-21-09:45:36 (epoch: 3, iters: 73600, time: 1096.803) G: 0.567 G_GAN: 0.092 G_L1_hole: 0.060 G_L1_valid: 0.041 G_prc: 0.004 G_style: 0.115 G_msr: 0.199 G_mask: 0.055 D_real: 1.645 D_fake: 0.142 D: 1.787 
+(epoch: 3 iter 15599) psnr:  21.416; 21.218; 21.032; 20.856;
+Sep-21-10:03:43 (epoch: 3, iters: 73800, time: 1086.367) G: 0.491 G_GAN: -0.004 G_L1_hole: 0.071 G_L1_valid: 0.033 G_prc: 0.004 G_style: 0.100 G_msr: 0.227 G_mask: 0.062 D_real: 1.072 D_fake: 0.743 D: 1.816 
+(epoch: 3 iter 15799) psnr:  20.624; 20.470; 20.428; 20.300;
+Sep-21-10:22:14 (epoch: 3, iters: 74000, time: 1111.399) G: 0.397 G_GAN: 0.077 G_L1_hole: 0.042 G_L1_valid: 0.012 G_prc: 0.003 G_style: 0.072 G_msr: 0.129 G_mask: 0.063 D_real: 1.740 D_fake: 0.233 D: 1.973 
+(epoch: 3 iter 15999) psnr:  21.294; 21.780; 20.905; 21.207;
+Sep-21-10:40:32 (epoch: 3, iters: 74200, time: 1097.622) G: 0.343 G_GAN: -0.070 G_L1_hole: 0.037 G_L1_valid: 0.020 G_prc: 0.004 G_style: 0.138 G_msr: 0.147 G_mask: 0.067 D_real: 0.313 D_fake: 1.626 D: 1.939 
+(epoch: 3 iter 16199) psnr:  21.481; 21.280; 20.998; 20.972;
+Sep-21-10:58:44 (epoch: 3, iters: 74400, time: 1092.199) G: 0.714 G_GAN: 0.060 G_L1_hole: 0.000 G_L1_valid: 0.030 G_prc: 0.001 G_style: 0.029 G_msr: 0.063 G_mask: 0.530 D_real: 1.276 D_fake: 2.115 D: 3.391 
+(epoch: 3 iter 16399) psnr:  20.365; 20.379; 20.160; 20.117;
+Sep-21-11:16:59 (epoch: 3, iters: 74600, time: 1094.871) G: 0.281 G_GAN: -0.160 G_L1_hole: 0.063 G_L1_valid: 0.023 G_prc: 0.004 G_style: 0.114 G_msr: 0.190 G_mask: 0.045 D_real: 2.603 D_fake: 0.000 D: 2.603 
+(epoch: 3 iter 16599) psnr:  20.254; 20.221; 20.075; 20.026;
+Sep-21-11:35:25 (epoch: 3, iters: 74800, time: 1106.289) G: 0.715 G_GAN: 0.085 G_L1_hole: 0.090 G_L1_valid: 0.023 G_prc: 0.006 G_style: 0.218 G_msr: 0.243 G_mask: 0.050 D_real: 0.422 D_fake: 1.250 D: 1.672 
+(epoch: 3 iter 16799) psnr:  21.273; 21.151; 20.862; 20.736;
+Sep-21-11:53:34 (epoch: 3, iters: 75000, time: 1088.968) G: 0.344 G_GAN: 0.098 G_L1_hole: 0.000 G_L1_valid: 0.026 G_prc: 0.001 G_style: 0.042 G_msr: 0.074 G_mask: 0.103 D_real: 1.806 D_fake: 0.057 D: 1.863 
+(epoch: 3 iter 16999) psnr:  20.973; 20.736; 20.766; 20.529;
+Sep-21-12:11:40 (epoch: 3, iters: 75200, time: 1086.544) G: 0.263 G_GAN: 0.042 G_L1_hole: 0.000 G_L1_valid: 0.018 G_prc: 0.002 G_style: 0.065 G_msr: 0.062 G_mask: 0.074 D_real: 1.569 D_fake: 0.391 D: 1.960 
+(epoch: 3 iter 17199) psnr:  20.730; 20.492; 20.422; 20.163;
+Sep-21-12:29:45 (epoch: 3, iters: 75400, time: 1084.722) G: 0.400 G_GAN: 0.051 G_L1_hole: 0.018 G_L1_valid: 0.026 G_prc: 0.003 G_style: 0.062 G_msr: 0.098 G_mask: 0.143 D_real: 1.536 D_fake: 0.463 D: 1.999 
+(epoch: 3 iter 17399) psnr:  20.357; 20.283; 20.169; 20.073;
+Sep-21-12:47:53 (epoch: 3, iters: 75600, time: 1087.493) G: 0.212 G_GAN: 0.042 G_L1_hole: 0.000 G_L1_valid: 0.016 G_prc: 0.001 G_style: 0.029 G_msr: 0.067 G_mask: 0.057 D_real: 1.416 D_fake: 0.586 D: 2.002 
+(epoch: 3 iter 17599) psnr:  20.797; 20.633; 20.508; 20.366;
+Sep-21-13:05:58 (epoch: 3, iters: 75800, time: 1085.637) G: 0.672 G_GAN: -0.033 G_L1_hole: 0.000 G_L1_valid: 0.021 G_prc: 0.002 G_style: 0.053 G_msr: 0.082 G_mask: 0.547 D_real: 0.569 D_fake: 1.417 D: 1.987 
+(epoch: 3 iter 17799) psnr:  20.774; 20.465; 20.542; 20.246;
+Sep-21-13:24:08 (epoch: 3, iters: 76000, time: 1089.335) G: 0.216 G_GAN: 0.037 G_L1_hole: 0.000 G_L1_valid: 0.016 G_prc: 0.001 G_style: 0.030 G_msr: 0.053 G_mask: 0.079 D_real: 1.378 D_fake: 0.648 D: 2.025 
+(epoch: 3 iter 17999) psnr:  21.532; 21.413; 21.180; 20.998;
+Sep-21-13:42:17 (epoch: 3, iters: 76200, time: 1089.456) G: 0.360 G_GAN: 0.074 G_L1_hole: 0.024 G_L1_valid: 0.011 G_prc: 0.003 G_style: 0.070 G_msr: 0.120 G_mask: 0.058 D_real: 1.699 D_fake: 0.255 D: 1.954 
+(epoch: 3 iter 18199) psnr:  20.686; 20.331; 20.516; 20.165;
+Sep-21-14:00:26 (epoch: 3, iters: 76400, time: 1088.737) G: 0.357 G_GAN: 0.012 G_L1_hole: 0.043 G_L1_valid: 0.023 G_prc: 0.004 G_style: 0.083 G_msr: 0.141 G_mask: 0.050 D_real: 1.168 D_fake: 0.845 D: 2.014 
+(epoch: 3 iter 18399) psnr:  20.809; 20.626; 20.559; 20.370;
+Sep-21-14:18:44 (epoch: 3, iters: 76600, time: 1097.774) G: 0.368 G_GAN: 0.061 G_L1_hole: 0.025 G_L1_valid: 0.017 G_prc: 0.003 G_style: 0.096 G_msr: 0.098 G_mask: 0.068 D_real: 1.501 D_fake: 0.422 D: 1.923 
+(epoch: 3 iter 18599) psnr:  20.767; 20.547; 20.565; 20.352;
+Sep-21-14:37:42 (epoch: 3, iters: 76800, time: 1138.407) G: 0.385 G_GAN: 0.058 G_L1_hole: 0.000 G_L1_valid: 0.029 G_prc: 0.001 G_style: 0.035 G_msr: 0.067 G_mask: 0.194 D_real: 1.629 D_fake: 0.417 D: 2.046 
+(epoch: 3 iter 18799) psnr:  20.528; 20.384; 20.222; 20.088;
+Sep-21-14:57:05 (epoch: 3, iters: 77000, time: 1162.937) G: 0.518 G_GAN: 0.034 G_L1_hole: 0.016 G_L1_valid: 0.023 G_prc: 0.003 G_style: 0.158 G_msr: 0.119 G_mask: 0.164 D_real: 1.245 D_fake: 0.678 D: 1.923 
+(epoch: 3 iter 18999) psnr:  20.202; 20.017; 20.018; 19.893;
+Sep-21-15:16:06 (epoch: 3, iters: 77200, time: 1140.873) G: 0.239 G_GAN: 0.065 G_L1_hole: 0.000 G_L1_valid: 0.015 G_prc: 0.001 G_style: 0.024 G_msr: 0.052 G_mask: 0.082 D_real: 1.676 D_fake: 0.324 D: 2.000 
+(epoch: 3 iter 19199) psnr:  20.719; 20.628; 20.431; 20.321;
+Sep-21-15:35:08 (epoch: 3, iters: 77400, time: 1142.309) G: 0.703 G_GAN: 0.008 G_L1_hole: 0.088 G_L1_valid: 0.021 G_prc: 0.006 G_style: 0.209 G_msr: 0.299 G_mask: 0.071 D_real: 0.000 D_fake: 3.054 D: 3.054 
+(epoch: 3 iter 19399) psnr:  20.163; 19.877; 19.965; 19.718;
+Sep-21-15:54:26 (epoch: 3, iters: 77600, time: 1157.757) G: 0.233 G_GAN: 0.055 G_L1_hole: 0.000 G_L1_valid: 0.023 G_prc: 0.001 G_style: 0.025 G_msr: 0.047 G_mask: 0.081 D_real: 1.572 D_fake: 0.440 D: 2.012 
+(epoch: 3 iter 19599) psnr:  21.625; 21.453; 21.234; 21.030;
+Sep-21-16:13:50 (epoch: 3, iters: 77800, time: 1163.754) G: 0.426 G_GAN: 0.005 G_L1_hole: 0.052 G_L1_valid: 0.024 G_prc: 0.005 G_style: 0.115 G_msr: 0.161 G_mask: 0.065 D_real: 0.515 D_fake: 1.299 D: 1.813 
+(epoch: 3 iter 19799) psnr:  21.278; 21.236; 20.940; 20.868;
+Sep-21-16:32:00 (epoch: 3, iters: 78000, time: 1090.336) G: 0.939 G_GAN: 0.049 G_L1_hole: 0.025 G_L1_valid: 0.031 G_prc: 0.004 G_style: 0.141 G_msr: 0.115 G_mask: 0.574 D_real: 1.479 D_fake: 0.561 D: 2.040 
+(epoch: 3 iter 19999) psnr:  19.866; 19.813; 19.768; 19.669;
+Sep-21-16:50:14 (epoch: 3, iters: 78200, time: 1093.811) G: 0.174 G_GAN: -0.016 G_L1_hole: 0.000 G_L1_valid: 0.021 G_prc: 0.001 G_style: 0.033 G_msr: 0.065 G_mask: 0.070 D_real: 0.898 D_fake: 1.171 D: 2.069 
+(epoch: 3 iter 20199) psnr:  20.034; 19.994; 19.942; 19.841;
+Sep-21-17:08:27 (epoch: 3, iters: 78400, time: 1092.946) G: 0.309 G_GAN: 0.064 G_L1_hole: 0.000 G_L1_valid: 0.040 G_prc: 0.002 G_style: 0.039 G_msr: 0.066 G_mask: 0.098 D_real: 1.710 D_fake: 0.322 D: 2.032 
+(epoch: 3 iter 20399) psnr:  21.148; 21.436; 20.903; 21.007;
+Sep-21-17:26:34 (epoch: 3, iters: 78600, time: 1087.042) G: 0.301 G_GAN: -0.054 G_L1_hole: 0.045 G_L1_valid: 0.017 G_prc: 0.004 G_style: 0.092 G_msr: 0.142 G_mask: 0.055 D_real: 0.297 D_fake: 1.554 D: 1.851 
+(epoch: 3 iter 20599) psnr:  20.579; 20.871; 20.392; 20.549;
+Sep-21-17:45:21 (epoch: 3, iters: 78800, time: 1127.480) G: 0.205 G_GAN: 0.042 G_L1_hole: 0.000 G_L1_valid: 0.015 G_prc: 0.001 G_style: 0.020 G_msr: 0.052 G_mask: 0.074 D_real: 1.508 D_fake: 0.497 D: 2.006 
+(epoch: 3 iter 20799) psnr:  20.361; 20.478; 20.160; 20.154;
+Sep-21-18:04:09 (epoch: 3, iters: 79000, time: 1127.577) G: 0.284 G_GAN: 0.040 G_L1_hole: 0.019 G_L1_valid: 0.020 G_prc: 0.002 G_style: 0.070 G_msr: 0.083 G_mask: 0.050 D_real: 1.355 D_fake: 0.699 D: 2.055 
+(epoch: 3 iter 20999) psnr:  21.039; 21.128; 20.704; 20.745;
+Sep-21-18:22:22 (epoch: 3, iters: 79200, time: 1093.070) G: 0.412 G_GAN: -0.020 G_L1_hole: 0.031 G_L1_valid: 0.020 G_prc: 0.003 G_style: 0.102 G_msr: 0.125 G_mask: 0.150 D_real: 0.744 D_fake: 1.216 D: 1.960 
+(epoch: 3 iter 21199) psnr:  20.447; 20.400; 20.276; 20.179;
+Sep-21-18:40:30 (epoch: 3, iters: 79400, time: 1087.785) G: 0.435 G_GAN: 0.037 G_L1_hole: 0.071 G_L1_valid: 0.014 G_prc: 0.003 G_style: 0.082 G_msr: 0.181 G_mask: 0.046 D_real: 1.154 D_fake: 0.694 D: 1.847 
+(epoch: 3 iter 21399) psnr:  21.640; 21.517; 21.051; 21.065;
+Sep-21-18:58:43 (epoch: 3, iters: 79600, time: 1093.220) G: 0.417 G_GAN: 0.017 G_L1_hole: 0.034 G_L1_valid: 0.034 G_prc: 0.003 G_style: 0.071 G_msr: 0.147 G_mask: 0.112 D_real: 1.052 D_fake: 0.879 D: 1.930 
+(epoch: 3 iter 21599) psnr:  21.060; 20.941; 20.767; 20.676;
+Sep-21-19:16:49 (epoch: 3, iters: 79800, time: 1086.580) G: 0.524 G_GAN: 0.048 G_L1_hole: 0.102 G_L1_valid: 0.012 G_prc: 0.005 G_style: 0.091 G_msr: 0.227 G_mask: 0.038 D_real: 1.655 D_fake: 0.447 D: 2.102 
+(epoch: 3 iter 21799) psnr:  21.522; 21.593; 20.939; 20.908;
+Sep-21-19:35:01 (epoch: 3, iters: 80000, time: 1091.177) G: 0.262 G_GAN: 0.005 G_L1_hole: 0.000 G_L1_valid: 0.015 G_prc: 0.002 G_style: 0.067 G_msr: 0.057 G_mask: 0.117 D_real: 1.040 D_fake: 0.962 D: 2.001 
+(epoch: 3 iter 21999) psnr:  20.499; 20.395; 20.280; 20.154;
+Sep-21-19:53:03 (epoch: 3, iters: 80200, time: 1082.836) G: 0.479 G_GAN: 0.041 G_L1_hole: 0.027 G_L1_valid: 0.010 G_prc: 0.003 G_style: 0.089 G_msr: 0.134 G_mask: 0.175 D_real: 1.285 D_fake: 0.525 D: 1.810 
+(epoch: 3 iter 22199) psnr:  21.321; 20.830; 21.000; 20.595;
+Sep-21-20:11:27 (epoch: 3, iters: 80400, time: 1103.461) G: 0.443 G_GAN: 0.036 G_L1_hole: 0.007 G_L1_valid: 0.023 G_prc: 0.002 G_style: 0.085 G_msr: 0.074 G_mask: 0.216 D_real: 1.367 D_fake: 0.638 D: 2.004 
+(epoch: 3 iter 22399) psnr:  21.314; 21.056; 20.995; 20.745;
+Sep-21-20:30:08 (epoch: 3, iters: 80600, time: 1121.526) G: 0.713 G_GAN: -0.017 G_L1_hole: 0.136 G_L1_valid: 0.020 G_prc: 0.008 G_style: 0.242 G_msr: 0.283 G_mask: 0.041 D_real: 0.939 D_fake: 0.910 D: 1.849 
+(epoch: 3 iter 22599) psnr:  20.970; 20.842; 20.711; 20.508;
+Sep-21-20:48:55 (epoch: 3, iters: 80800, time: 1126.466) G: 0.237 G_GAN: -0.024 G_L1_hole: 0.000 G_L1_valid: 0.022 G_prc: 0.001 G_style: 0.028 G_msr: 0.062 G_mask: 0.148 D_real: 0.874 D_fake: 1.256 D: 2.130 
+(epoch: 3 iter 22799) psnr:  20.622; 20.635; 20.418; 20.321;
+Sep-21-21:07:39 (epoch: 3, iters: 81000, time: 1124.416) G: 0.497 G_GAN: 0.031 G_L1_hole: 0.065 G_L1_valid: 0.017 G_prc: 0.005 G_style: 0.107 G_msr: 0.188 G_mask: 0.085 D_real: 1.205 D_fake: 0.671 D: 1.876 
+(epoch: 3 iter 22999) psnr:  22.013; 21.561; 21.397; 21.032;
+Sep-21-21:26:21 (epoch: 3, iters: 81200, time: 1121.730) G: 0.564 G_GAN: 0.042 G_L1_hole: 0.044 G_L1_valid: 0.031 G_prc: 0.004 G_style: 0.134 G_msr: 0.163 G_mask: 0.146 D_real: 1.210 D_fake: 0.631 D: 1.841 
+(epoch: 3 iter 23199) psnr:  20.824; 20.900; 20.662; 20.592;
+Sep-21-21:44:45 (epoch: 3, iters: 81400, time: 1103.664) G: 1.128 G_GAN: 0.155 G_L1_hole: 0.133 G_L1_valid: 0.018 G_prc: 0.009 G_style: 0.381 G_msr: 0.361 G_mask: 0.070 D_real: 0.000 D_fake: 1.521 D: 1.521 
+(epoch: 3 iter 23399) psnr:  19.891; 19.691; 19.776; 19.597;
+Sep-21-22:02:50 (epoch: 3, iters: 81600, time: 1085.774) G: 0.309 G_GAN: -0.054 G_L1_hole: 0.033 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.092 G_msr: 0.133 G_mask: 0.082 D_real: 0.512 D_fake: 1.515 D: 2.028 
+(epoch: 3 iter 23599) psnr:  21.777; 21.873; 21.334; 21.458;
+Sep-21-22:21:05 (epoch: 3, iters: 81800, time: 1094.498) G: 0.361 G_GAN: 0.069 G_L1_hole: 0.031 G_L1_valid: 0.033 G_prc: 0.002 G_style: 0.067 G_msr: 0.092 G_mask: 0.068 D_real: 1.586 D_fake: 0.705 D: 2.292 
+(epoch: 3 iter 23799) psnr:  20.630; 20.486; 20.396; 20.233;
+Sep-21-22:39:22 (epoch: 3, iters: 82000, time: 1097.422) G: 0.309 G_GAN: 0.019 G_L1_hole: 0.020 G_L1_valid: 0.013 G_prc: 0.002 G_style: 0.044 G_msr: 0.092 G_mask: 0.119 D_real: 1.080 D_fake: 0.798 D: 1.878 
+(epoch: 3 iter 23999) psnr:  21.261; 20.934; 20.811; 20.508;
+Sep-21-22:57:37 (epoch: 3, iters: 82200, time: 1094.505) G: 0.344 G_GAN: 0.035 G_L1_hole: 0.000 G_L1_valid: 0.024 G_prc: 0.002 G_style: 0.050 G_msr: 0.117 G_mask: 0.117 D_real: 1.384 D_fake: 0.631 D: 2.015 
+(epoch: 3 iter 24199) psnr:  20.949; 20.974; 20.620; 20.631;
+Sep-21-23:15:48 (epoch: 3, iters: 82400, time: 1091.433) G: 0.546 G_GAN: -0.013 G_L1_hole: 0.081 G_L1_valid: 0.018 G_prc: 0.007 G_style: 0.162 G_msr: 0.207 G_mask: 0.085 D_real: 0.000 D_fake: 2.867 D: 2.867 
+(epoch: 3 iter 24399) psnr:  19.814; 19.790; 19.707; 19.671;
+Sep-21-23:34:01 (epoch: 3, iters: 82600, time: 1092.912) G: 0.172 G_GAN: 0.019 G_L1_hole: 0.000 G_L1_valid: 0.011 G_prc: 0.001 G_style: 0.015 G_msr: 0.052 G_mask: 0.075 D_real: 1.238 D_fake: 0.821 D: 2.058 
+(epoch: 3 iter 24599) psnr:  19.999; 19.980; 19.841; 19.789;
+Sep-21-23:52:11 (epoch: 3, iters: 82800, time: 1089.717) G: 0.380 G_GAN: 0.034 G_L1_hole: 0.036 G_L1_valid: 0.022 G_prc: 0.003 G_style: 0.066 G_msr: 0.150 G_mask: 0.069 D_real: 1.403 D_fake: 0.672 D: 2.075 
+(epoch: 3 iter 24799) psnr:  20.699; 20.604; 20.474; 20.342;
+Sep-22-00:10:26 (epoch: 3, iters: 83000, time: 1094.862) G: 0.862 G_GAN: 0.051 G_L1_hole: 0.140 G_L1_valid: 0.017 G_prc: 0.008 G_style: 0.295 G_msr: 0.319 G_mask: 0.032 D_real: 1.487 D_fake: 0.413 D: 1.899 
+(epoch: 3 iter 24999) psnr:  20.982; 21.119; 20.694; 20.741;
+Sep-22-00:28:43 (epoch: 3, iters: 83200, time: 1096.964) G: 0.227 G_GAN: -0.016 G_L1_hole: 0.000 G_L1_valid: 0.027 G_prc: 0.002 G_style: 0.031 G_msr: 0.072 G_mask: 0.112 D_real: 0.872 D_fake: 1.145 D: 2.017 
+(epoch: 3 iter 25199) psnr:  20.386; 20.565; 20.220; 20.340;
+Sep-22-00:46:56 (epoch: 3, iters: 83400, time: 1093.220) G: 0.471 G_GAN: 0.019 G_L1_hole: 0.064 G_L1_valid: 0.018 G_prc: 0.006 G_style: 0.142 G_msr: 0.183 G_mask: 0.039 D_real: 0.986 D_fake: 0.914 D: 1.900 
+(epoch: 3 iter 25399) psnr:  20.811; 20.796; 20.555; 20.503;
+Sep-22-01:05:06 (epoch: 3, iters: 83600, time: 1089.693) G: 0.464 G_GAN: 0.005 G_L1_hole: 0.020 G_L1_valid: 0.009 G_prc: 0.002 G_style: 0.137 G_msr: 0.113 G_mask: 0.177 D_real: 1.221 D_fake: 0.974 D: 2.195 
+(epoch: 3 iter 25599) psnr:  20.606; 20.279; 20.269; 20.069;
+Sep-22-01:23:17 (epoch: 3, iters: 83800, time: 1090.972) G: 0.372 G_GAN: -0.033 G_L1_hole: 0.026 G_L1_valid: 0.009 G_prc: 0.002 G_style: 0.053 G_msr: 0.198 G_mask: 0.116 D_real: 0.555 D_fake: 1.377 D: 1.932 
+(epoch: 3 iter 25799) psnr:  20.296; 20.216; 20.105; 19.960;
+Sep-22-01:41:32 (epoch: 3, iters: 84000, time: 1095.136) G: 0.297 G_GAN: -0.008 G_L1_hole: 0.029 G_L1_valid: 0.012 G_prc: 0.002 G_style: 0.075 G_msr: 0.106 G_mask: 0.081 D_real: 0.660 D_fake: 1.209 D: 1.869 
+(epoch: 3 iter 25999) psnr:  20.393; 20.389; 20.210; 20.152;
+Sep-22-01:59:45 (epoch: 3, iters: 84200, time: 1092.682) G: 0.393 G_GAN: 0.031 G_L1_hole: 0.000 G_L1_valid: 0.023 G_prc: 0.001 G_style: 0.032 G_msr: 0.072 G_mask: 0.234 D_real: 1.312 D_fake: 0.711 D: 2.024 
+(epoch: 3 iter 26199) psnr:  20.188; 20.123; 20.075; 19.971;
+Sep-22-02:18:03 (epoch: 3, iters: 84400, time: 1098.936) G: 0.399 G_GAN: 0.010 G_L1_hole: 0.037 G_L1_valid: 0.014 G_prc: 0.004 G_style: 0.105 G_msr: 0.130 G_mask: 0.100 D_real: 1.233 D_fake: 0.944 D: 2.177 
+(epoch: 3 iter 26399) psnr:  20.144; 20.172; 20.018; 19.944;
+Sep-22-02:36:52 (epoch: 3, iters: 84600, time: 1128.132) G: 0.646 G_GAN: 0.061 G_L1_hole: 0.054 G_L1_valid: 0.020 G_prc: 0.005 G_style: 0.198 G_msr: 0.184 G_mask: 0.124 D_real: 0.730 D_fake: 0.609 D: 1.339 
+(epoch: 3 iter 26599) psnr:  21.045; 20.673; 20.679; 20.398;
+Sep-22-02:55:37 (epoch: 3, iters: 84800, time: 1125.277) G: 0.272 G_GAN: -0.005 G_L1_hole: 0.027 G_L1_valid: 0.032 G_prc: 0.003 G_style: 0.077 G_msr: 0.090 G_mask: 0.048 D_real: 0.000 D_fake: 1.980 D: 1.980 
+(epoch: 3 iter 26799) psnr:  20.755; 20.537; 20.505; 20.369;
+Sep-22-03:14:24 (epoch: 3, iters: 85000, time: 1127.246) G: 0.747 G_GAN: 0.058 G_L1_hole: 0.000 G_L1_valid: 0.017 G_prc: 0.001 G_style: 0.037 G_msr: 0.056 G_mask: 0.578 D_real: 1.456 D_fake: 0.577 D: 2.033 
+(epoch: 3 iter 26999) psnr:  20.039; 19.959; 19.955; 19.827;
+Sep-22-03:33:13 (epoch: 3, iters: 85200, time: 1128.808) G: 0.584 G_GAN: 0.017 G_L1_hole: 0.035 G_L1_valid: 0.026 G_prc: 0.003 G_style: 0.158 G_msr: 0.124 G_mask: 0.220 D_real: 1.042 D_fake: 0.852 D: 1.895 
+(epoch: 3 iter 27199) psnr:  20.079; 19.990; 19.941; 19.843;
+Sep-22-03:52:00 (epoch: 3, iters: 85400, time: 1127.259) G: 0.331 G_GAN: 0.056 G_L1_hole: 0.028 G_L1_valid: 0.018 G_prc: 0.003 G_style: 0.059 G_msr: 0.110 G_mask: 0.058 D_real: 1.486 D_fake: 0.469 D: 1.955 
+(epoch: 3 iter 27399) psnr:  20.072; 20.018; 19.942; 19.887;
+Sep-22-04:10:49 (epoch: 3, iters: 85600, time: 1129.223) G: 0.257 G_GAN: -0.005 G_L1_hole: 0.017 G_L1_valid: 0.020 G_prc: 0.002 G_style: 0.057 G_msr: 0.081 G_mask: 0.085 D_real: 0.902 D_fake: 1.074 D: 1.976 
+(epoch: 3 iter 27599) psnr:  20.163; 20.011; 20.016; 19.864;
+Sep-22-04:29:08 (epoch: 3, iters: 85800, time: 1099.075) G: 0.246 G_GAN: -0.030 G_L1_hole: 0.023 G_L1_valid: 0.017 G_prc: 0.002 G_style: 0.068 G_msr: 0.124 G_mask: 0.041 D_real: 0.336 D_fake: 1.304 D: 1.640 
+(epoch: 3 iter 27799) psnr:  20.349; 20.310; 20.119; 20.090;
+Sep-22-04:47:22 (epoch: 3, iters: 86000, time: 1093.532) G: 0.754 G_GAN: 0.118 G_L1_hole: 0.096 G_L1_valid: 0.022 G_prc: 0.006 G_style: 0.180 G_msr: 0.272 G_mask: 0.059 D_real: 0.000 D_fake: 2.157 D: 2.157 
+(epoch: 3 iter 27999) psnr:  20.604; 20.721; 20.382; 20.491;
+Sep-22-05:05:35 (epoch: 3, iters: 86200, time: 1093.204) G: 0.734 G_GAN: -0.018 G_L1_hole: 0.098 G_L1_valid: 0.025 G_prc: 0.008 G_style: 0.252 G_msr: 0.291 G_mask: 0.078 D_real: 0.606 D_fake: 1.038 D: 1.644 
+(epoch: 3 iter 28199) psnr:  21.246; 21.192; 20.964; 20.939;
+Sep-22-05:23:51 (epoch: 3, iters: 86400, time: 1096.125) G: 0.319 G_GAN: -0.015 G_L1_hole: 0.021 G_L1_valid: 0.026 G_prc: 0.002 G_style: 0.066 G_msr: 0.111 G_mask: 0.108 D_real: 0.718 D_fake: 1.254 D: 1.973 
+(epoch: 3 iter 28399) psnr:  21.128; 21.109; 20.735; 20.742;
+Sep-22-05:42:08 (epoch: 3, iters: 86600, time: 1096.517) G: 0.382 G_GAN: 0.043 G_L1_hole: 0.023 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.090 G_msr: 0.128 G_mask: 0.074 D_real: 1.393 D_fake: 0.654 D: 2.047 
+(epoch: 3 iter 28599) psnr:  20.575; 20.428; 20.344; 20.170;
+Sep-22-06:00:21 (epoch: 3, iters: 86800, time: 1093.583) G: 0.401 G_GAN: 0.061 G_L1_hole: 0.013 G_L1_valid: 0.025 G_prc: 0.002 G_style: 0.073 G_msr: 0.100 G_mask: 0.127 D_real: 2.021 D_fake: 0.503 D: 2.525 
+(epoch: 3 iter 28799) psnr:  20.770; 20.624; 20.462; 20.327;
+Sep-22-06:18:35 (epoch: 3, iters: 87000, time: 1093.759) G: 0.889 G_GAN: 0.043 G_L1_hole: 0.120 G_L1_valid: 0.025 G_prc: 0.006 G_style: 0.196 G_msr: 0.277 G_mask: 0.222 D_real: 1.408 D_fake: 0.918 D: 2.327 
+(epoch: 3 iter 28999) psnr:  19.962; 19.881; 19.843; 19.725;
+(epoch: 3) psnr:  20.083; 19.996; 19.908; 19.797;
+Sep-22-06:37:08 (epoch: 4, iters: 87200, time: 163.591) G: 0.461 G_GAN: -0.000 G_L1_hole: 0.057 G_L1_valid: 0.027 G_prc: 0.004 G_style: 0.114 G_msr: 0.155 G_mask: 0.104 D_real: 0.876 D_fake: 1.128 D: 2.004 
+(epoch: 4 iter 199) psnr:  20.140; 19.977; 19.959; 19.837;
+Sep-22-06:55:15 (epoch: 4, iters: 87400, time: 1087.582) G: 0.498 G_GAN: 0.034 G_L1_hole: 0.056 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.072 G_msr: 0.167 G_mask: 0.144 D_real: 1.197 D_fake: 0.632 D: 1.829 
+(epoch: 4 iter 399) psnr:  21.106; 20.813; 20.758; 20.492;
+Sep-22-07:13:27 (epoch: 4, iters: 87600, time: 1091.867) G: 0.428 G_GAN: 0.004 G_L1_hole: 0.047 G_L1_valid: 0.023 G_prc: 0.004 G_style: 0.099 G_msr: 0.176 G_mask: 0.075 D_real: 1.056 D_fake: 0.838 D: 1.894 
+(epoch: 4 iter 599) psnr:  20.501; 20.508; 20.277; 20.289;
+Sep-22-07:31:39 (epoch: 4, iters: 87800, time: 1092.012) G: 0.275 G_GAN: 0.017 G_L1_hole: 0.000 G_L1_valid: 0.026 G_prc: 0.001 G_style: 0.034 G_msr: 0.069 G_mask: 0.127 D_real: 1.228 D_fake: 0.753 D: 1.981 
+(epoch: 4 iter 799) psnr:  20.923; 20.627; 20.583; 20.387;
+Sep-22-07:49:49 (epoch: 4, iters: 88000, time: 1089.647) G: 0.408 G_GAN: 0.017 G_L1_hole: 0.057 G_L1_valid: 0.024 G_prc: 0.004 G_style: 0.108 G_msr: 0.139 G_mask: 0.058 D_real: 1.822 D_fake: 0.756 D: 2.578 
+(epoch: 4 iter 999) psnr:  20.597; 20.544; 20.213; 20.123;
+Sep-22-08:07:59 (epoch: 4, iters: 88200, time: 1090.044) G: 0.160 G_GAN: -0.066 G_L1_hole: 0.017 G_L1_valid: 0.009 G_prc: 0.002 G_style: 0.045 G_msr: 0.097 G_mask: 0.057 D_real: 0.622 D_fake: 0.894 D: 1.516 
+(epoch: 4 iter 1199) psnr:  21.266; 21.106; 20.844; 20.795;
+Sep-22-08:26:13 (epoch: 4, iters: 88400, time: 1094.513) G: 0.286 G_GAN: 0.003 G_L1_hole: 0.035 G_L1_valid: 0.017 G_prc: 0.004 G_style: 0.070 G_msr: 0.095 G_mask: 0.062 D_real: 1.062 D_fake: 1.087 D: 2.150 
+(epoch: 4 iter 1399) psnr:  21.107; 20.848; 20.764; 20.596;
+Sep-22-08:44:23 (epoch: 4, iters: 88600, time: 1089.716) G: 0.218 G_GAN: 0.040 G_L1_hole: 0.000 G_L1_valid: 0.024 G_prc: 0.001 G_style: 0.022 G_msr: 0.047 G_mask: 0.083 D_real: 1.409 D_fake: 0.601 D: 2.010 
+(epoch: 4 iter 1599) psnr:  20.663; 20.413; 20.446; 20.228;
+Sep-22-09:02:36 (epoch: 4, iters: 88800, time: 1092.962) G: 0.269 G_GAN: 0.045 G_L1_hole: 0.000 G_L1_valid: 0.018 G_prc: 0.002 G_style: 0.046 G_msr: 0.070 G_mask: 0.088 D_real: 1.453 D_fake: 0.554 D: 2.007 
+(epoch: 4 iter 1799) psnr:  20.257; 20.061; 20.014; 19.826;
+Sep-22-09:20:50 (epoch: 4, iters: 89000, time: 1093.776) G: 0.735 G_GAN: 0.129 G_L1_hole: 0.079 G_L1_valid: 0.014 G_prc: 0.006 G_style: 0.129 G_msr: 0.261 G_mask: 0.118 D_real: 0.000 D_fake: 2.618 D: 2.618 
+(epoch: 4 iter 1999) psnr:  20.687; 20.533; 20.329; 20.187;
+Sep-22-09:39:03 (epoch: 4, iters: 89200, time: 1093.588) G: 0.432 G_GAN: 0.053 G_L1_hole: 0.045 G_L1_valid: 0.012 G_prc: 0.003 G_style: 0.071 G_msr: 0.163 G_mask: 0.085 D_real: 1.413 D_fake: 0.504 D: 1.917 
+(epoch: 4 iter 2199) psnr:  20.642; 20.409; 20.362; 20.165;
+Sep-22-09:57:09 (epoch: 4, iters: 89400, time: 1085.769) G: 0.597 G_GAN: 0.058 G_L1_hole: 0.061 G_L1_valid: 0.017 G_prc: 0.005 G_style: 0.171 G_msr: 0.195 G_mask: 0.090 D_real: 1.665 D_fake: 0.453 D: 2.119 
+(epoch: 4 iter 2399) psnr:  20.411; 20.159; 20.237; 19.973;
+Sep-22-10:15:35 (epoch: 4, iters: 89600, time: 1106.012) G: 0.251 G_GAN: 0.029 G_L1_hole: 0.000 G_L1_valid: 0.022 G_prc: 0.001 G_style: 0.040 G_msr: 0.062 G_mask: 0.097 D_real: 1.256 D_fake: 0.728 D: 1.984 
+(epoch: 4 iter 2599) psnr:  20.899; 20.690; 20.609; 20.450;
+Sep-22-10:34:07 (epoch: 4, iters: 89800, time: 1112.212) G: 0.641 G_GAN: 0.084 G_L1_hole: 0.072 G_L1_valid: 0.028 G_prc: 0.005 G_style: 0.112 G_msr: 0.177 G_mask: 0.163 D_real: 1.768 D_fake: 0.118 D: 1.886 
+(epoch: 4 iter 2799) psnr:  20.294; 20.301; 20.028; 19.988;
+Sep-22-10:52:58 (epoch: 4, iters: 90000, time: 1130.919) G: 0.342 G_GAN: 0.094 G_L1_hole: 0.027 G_L1_valid: 0.016 G_prc: 0.002 G_style: 0.048 G_msr: 0.110 G_mask: 0.044 D_real: 2.504 D_fake: 0.000 D: 2.504 
+(epoch: 4 iter 2999) psnr:  20.318; 20.169; 20.075; 19.956;
+Sep-22-11:11:46 (epoch: 4, iters: 90200, time: 1127.787) G: 0.462 G_GAN: 0.090 G_L1_hole: 0.052 G_L1_valid: 0.018 G_prc: 0.004 G_style: 0.121 G_msr: 0.137 G_mask: 0.040 D_real: 1.895 D_fake: 0.079 D: 1.974 
+(epoch: 4 iter 3199) psnr:  21.053; 20.833; 20.721; 20.548;
+Sep-22-11:30:34 (epoch: 4, iters: 90400, time: 1127.968) G: 0.315 G_GAN: 0.034 G_L1_hole: 0.028 G_L1_valid: 0.018 G_prc: 0.003 G_style: 0.060 G_msr: 0.107 G_mask: 0.065 D_real: 1.347 D_fake: 0.644 D: 1.991 
+(epoch: 4 iter 3399) psnr:  20.119; 20.017; 19.990; 19.881;
+Sep-22-11:49:21 (epoch: 4, iters: 90600, time: 1126.850) G: 0.298 G_GAN: 0.072 G_L1_hole: 0.016 G_L1_valid: 0.022 G_prc: 0.002 G_style: 0.047 G_msr: 0.089 G_mask: 0.050 D_real: 1.194 D_fake: 0.333 D: 1.527 
+(epoch: 4 iter 3599) psnr:  20.356; 20.300; 20.118; 20.057;
+Sep-22-12:08:01 (epoch: 4, iters: 90800, time: 1119.935) G: 0.832 G_GAN: 0.126 G_L1_hole: 0.104 G_L1_valid: 0.035 G_prc: 0.006 G_style: 0.190 G_msr: 0.253 G_mask: 0.118 D_real: 0.000 D_fake: 1.058 D: 1.058 
+(epoch: 4 iter 3799) psnr:  20.343; 20.240; 20.054; 19.924;
+Sep-22-12:26:22 (epoch: 4, iters: 91000, time: 1100.607) G: 0.288 G_GAN: 0.069 G_L1_hole: 0.000 G_L1_valid: 0.018 G_prc: 0.001 G_style: 0.042 G_msr: 0.091 G_mask: 0.066 D_real: 1.584 D_fake: 0.382 D: 1.966 
+(epoch: 4 iter 3999) psnr:  20.374; 20.217; 20.133; 20.018;
+Sep-22-12:44:46 (epoch: 4, iters: 91200, time: 1104.646) G: 0.812 G_GAN: 0.023 G_L1_hole: 0.091 G_L1_valid: 0.033 G_prc: 0.005 G_style: 0.243 G_msr: 0.268 G_mask: 0.149 D_real: 0.622 D_fake: 0.694 D: 1.317 
+(epoch: 4 iter 4199) psnr:  19.832; 19.719; 19.722; 19.599;
+Sep-22-13:03:16 (epoch: 4, iters: 91400, time: 1110.070) G: 0.261 G_GAN: -0.006 G_L1_hole: 0.023 G_L1_valid: 0.025 G_prc: 0.003 G_style: 0.052 G_msr: 0.120 G_mask: 0.044 D_real: 0.960 D_fake: 1.100 D: 2.060 
+(epoch: 4 iter 4399) psnr:  20.529; 20.273; 20.216; 20.005;
+Sep-22-13:21:42 (epoch: 4, iters: 91600, time: 1105.756) G: 0.258 G_GAN: 0.014 G_L1_hole: 0.025 G_L1_valid: 0.019 G_prc: 0.002 G_style: 0.054 G_msr: 0.110 G_mask: 0.034 D_real: 1.220 D_fake: 0.845 D: 2.065 
+(epoch: 4 iter 4599) psnr:  21.108; 20.625; 20.749; 20.415;
+Sep-22-13:40:10 (epoch: 4, iters: 91800, time: 1107.987) G: 0.654 G_GAN: 0.013 G_L1_hole: 0.000 G_L1_valid: 0.019 G_prc: 0.001 G_style: 0.026 G_msr: 0.055 G_mask: 0.540 D_real: 1.111 D_fake: 0.845 D: 1.955 
+(epoch: 4 iter 4799) psnr:  20.262; 19.998; 20.066; 19.840;
+Sep-22-13:58:35 (epoch: 4, iters: 92000, time: 1105.066) G: 0.314 G_GAN: 0.035 G_L1_hole: 0.023 G_L1_valid: 0.015 G_prc: 0.002 G_style: 0.060 G_msr: 0.108 G_mask: 0.070 D_real: 1.158 D_fake: 0.826 D: 1.984 
+(epoch: 4 iter 4999) psnr:  20.271; 20.213; 20.096; 20.046;
+Sep-22-14:16:56 (epoch: 4, iters: 92200, time: 1100.952) G: 0.341 G_GAN: 0.049 G_L1_hole: 0.022 G_L1_valid: 0.018 G_prc: 0.003 G_style: 0.077 G_msr: 0.123 G_mask: 0.049 D_real: 1.382 D_fake: 0.502 D: 1.884 
+(epoch: 4 iter 5199) psnr:  20.114; 20.088; 19.966; 19.880;
+Sep-22-14:36:14 (epoch: 4, iters: 92400, time: 1157.538) G: 0.153 G_GAN: 0.006 G_L1_hole: 0.000 G_L1_valid: 0.015 G_prc: 0.001 G_style: 0.024 G_msr: 0.051 G_mask: 0.056 D_real: 1.057 D_fake: 1.017 D: 2.074 
+(epoch: 4 iter 5399) psnr:  21.043; 20.806; 20.549; 20.438;
+Sep-22-14:55:22 (epoch: 4, iters: 92600, time: 1148.790) G: 0.235 G_GAN: -0.007 G_L1_hole: 0.011 G_L1_valid: 0.019 G_prc: 0.002 G_style: 0.040 G_msr: 0.064 G_mask: 0.107 D_real: 1.052 D_fake: 0.771 D: 1.823 
+(epoch: 4 iter 5599) psnr:  20.967; 20.963; 20.620; 20.592;
+Sep-22-15:14:35 (epoch: 4, iters: 92800, time: 1152.157) G: 0.805 G_GAN: -0.018 G_L1_hole: 0.103 G_L1_valid: 0.027 G_prc: 0.007 G_style: 0.248 G_msr: 0.237 G_mask: 0.202 D_real: 0.854 D_fake: 1.526 D: 2.379 
+(epoch: 4 iter 5799) psnr:  19.947; 19.762; 19.851; 19.672;
+Sep-22-15:33:41 (epoch: 4, iters: 93000, time: 1146.263) G: 0.424 G_GAN: 0.039 G_L1_hole: 0.028 G_L1_valid: 0.018 G_prc: 0.004 G_style: 0.122 G_msr: 0.118 G_mask: 0.096 D_real: 1.302 D_fake: 0.707 D: 2.009 
+(epoch: 4 iter 5999) psnr:  21.013; 20.872; 20.647; 20.526;
+Sep-22-15:52:48 (epoch: 4, iters: 93200, time: 1147.313) G: 0.921 G_GAN: 0.011 G_L1_hole: 0.033 G_L1_valid: 0.023 G_prc: 0.004 G_style: 0.147 G_msr: 0.137 G_mask: 0.566 D_real: 1.036 D_fake: 0.879 D: 1.914 
+(epoch: 4 iter 6199) psnr:  20.624; 20.387; 20.331; 20.125;
+Sep-22-16:12:00 (epoch: 4, iters: 93400, time: 1151.475) G: 0.472 G_GAN: 0.079 G_L1_hole: 0.049 G_L1_valid: 0.013 G_prc: 0.004 G_style: 0.097 G_msr: 0.138 G_mask: 0.091 D_real: 1.557 D_fake: 0.236 D: 1.793 
+(epoch: 4 iter 6399) psnr:  20.464; 20.377; 20.235; 20.164;
+Sep-22-16:30:18 (epoch: 4, iters: 93600, time: 1098.301) G: 0.704 G_GAN: 0.130 G_L1_hole: 0.089 G_L1_valid: 0.019 G_prc: 0.007 G_style: 0.134 G_msr: 0.230 G_mask: 0.095 D_real: 0.000 D_fake: 1.875 D: 1.875 
+(epoch: 4 iter 6599) psnr:  20.230; 20.146; 19.965; 19.964;
+Sep-22-16:48:42 (epoch: 4, iters: 93800, time: 1104.630) G: 0.649 G_GAN: 0.160 G_L1_hole: 0.069 G_L1_valid: 0.019 G_prc: 0.005 G_style: 0.119 G_msr: 0.218 G_mask: 0.059 D_real: 0.000 D_fake: 1.817 D: 1.817 
+(epoch: 4 iter 6799) psnr:  20.018; 19.983; 19.837; 19.835;
+Sep-22-17:07:07 (epoch: 4, iters: 94000, time: 1104.716) G: 0.477 G_GAN: 0.064 G_L1_hole: 0.053 G_L1_valid: 0.018 G_prc: 0.005 G_style: 0.115 G_msr: 0.178 G_mask: 0.043 D_real: 1.602 D_fake: 0.345 D: 1.947 
+(epoch: 4 iter 6999) psnr:  20.510; 20.134; 20.282; 20.011;
+Sep-22-17:25:34 (epoch: 4, iters: 94200, time: 1106.675) G: 0.324 G_GAN: 0.095 G_L1_hole: 0.000 G_L1_valid: 0.019 G_prc: 0.002 G_style: 0.038 G_msr: 0.069 G_mask: 0.101 D_real: 2.091 D_fake: 0.051 D: 2.142 
+(epoch: 4 iter 7199) psnr:  20.252; 19.971; 20.006; 19.801;
+Sep-22-17:44:07 (epoch: 4, iters: 94400, time: 1113.574) G: 0.401 G_GAN: 0.047 G_L1_hole: 0.029 G_L1_valid: 0.016 G_prc: 0.003 G_style: 0.109 G_msr: 0.105 G_mask: 0.094 D_real: 1.188 D_fake: 0.571 D: 1.759 
+(epoch: 4 iter 7399) psnr:  20.796; 20.759; 20.507; 20.468;
+Sep-22-18:02:27 (epoch: 4, iters: 94600, time: 1099.340) G: 0.365 G_GAN: 0.054 G_L1_hole: 0.024 G_L1_valid: 0.014 G_prc: 0.002 G_style: 0.065 G_msr: 0.105 G_mask: 0.102 D_real: 1.433 D_fake: 0.537 D: 1.969 
+(epoch: 4 iter 7599) psnr:  20.685; 20.651; 20.276; 20.149;
+Sep-22-18:20:42 (epoch: 4, iters: 94800, time: 1094.822) G: 0.340 G_GAN: -0.070 G_L1_hole: 0.050 G_L1_valid: 0.020 G_prc: 0.003 G_style: 0.084 G_msr: 0.179 G_mask: 0.072 D_real: 0.327 D_fake: 1.667 D: 1.994 
+(epoch: 4 iter 7799) psnr:  20.425; 20.324; 20.129; 20.052;
+Sep-22-18:39:04 (epoch: 4, iters: 95000, time: 1102.516) G: 0.305 G_GAN: -0.020 G_L1_hole: 0.022 G_L1_valid: 0.023 G_prc: 0.002 G_style: 0.090 G_msr: 0.098 G_mask: 0.089 D_real: 0.832 D_fake: 1.177 D: 2.009 
+(epoch: 4 iter 7999) psnr:  20.561; 20.336; 20.290; 20.124;
+Sep-22-18:57:26 (epoch: 4, iters: 95200, time: 1101.662) G: 0.273 G_GAN: 0.021 G_L1_hole: 0.014 G_L1_valid: 0.015 G_prc: 0.001 G_style: 0.037 G_msr: 0.097 G_mask: 0.087 D_real: 1.252 D_fake: 0.851 D: 2.103 
+(epoch: 4 iter 8199) psnr:  19.914; 19.810; 19.779; 19.661;
+Sep-22-19:15:48 (epoch: 4, iters: 95400, time: 1102.635) G: 0.307 G_GAN: 0.014 G_L1_hole: 0.012 G_L1_valid: 0.038 G_prc: 0.002 G_style: 0.052 G_msr: 0.085 G_mask: 0.104 D_real: 0.948 D_fake: 0.770 D: 1.718 
+(epoch: 4 iter 8399) psnr:  20.351; 20.386; 20.107; 20.132;
+Sep-22-19:34:15 (epoch: 4, iters: 95600, time: 1106.391) G: 0.283 G_GAN: -0.006 G_L1_hole: 0.031 G_L1_valid: 0.025 G_prc: 0.003 G_style: 0.066 G_msr: 0.112 G_mask: 0.052 D_real: 0.784 D_fake: 1.245 D: 2.029 
+(epoch: 4 iter 8599) psnr:  20.098; 19.840; 19.894; 19.702;
+Sep-22-19:52:44 (epoch: 4, iters: 95800, time: 1108.991) G: 0.736 G_GAN: 0.021 G_L1_hole: 0.131 G_L1_valid: 0.012 G_prc: 0.008 G_style: 0.211 G_msr: 0.290 G_mask: 0.062 D_real: 0.951 D_fake: 1.138 D: 2.090 
+(epoch: 4 iter 8799) psnr:  20.264; 20.015; 20.072; 19.831;
+Sep-22-20:11:10 (epoch: 4, iters: 96000, time: 1106.178) G: 0.345 G_GAN: -0.053 G_L1_hole: 0.047 G_L1_valid: 0.017 G_prc: 0.004 G_style: 0.083 G_msr: 0.145 G_mask: 0.102 D_real: 0.591 D_fake: 1.383 D: 1.974 
+(epoch: 4 iter 8999) psnr:  19.787; 19.780; 19.669; 19.644;
+Sep-22-20:29:33 (epoch: 4, iters: 96200, time: 1102.781) G: 0.302 G_GAN: 0.045 G_L1_hole: 0.026 G_L1_valid: 0.011 G_prc: 0.002 G_style: 0.075 G_msr: 0.096 G_mask: 0.046 D_real: 1.512 D_fake: 0.678 D: 2.191 
+(epoch: 4 iter 9199) psnr:  20.876; 20.717; 20.510; 20.389;
+Sep-22-20:48:01 (epoch: 4, iters: 96400, time: 1108.278) G: 0.471 G_GAN: 0.098 G_L1_hole: 0.030 G_L1_valid: 0.014 G_prc: 0.003 G_style: 0.079 G_msr: 0.122 G_mask: 0.124 D_real: 2.144 D_fake: 0.034 D: 2.178 
+(epoch: 4 iter 9399) psnr:  20.261; 20.156; 20.082; 19.972;
+Sep-22-21:06:27 (epoch: 4, iters: 96600, time: 1105.793) G: 0.244 G_GAN: -0.083 G_L1_hole: 0.033 G_L1_valid: 0.016 G_prc: 0.003 G_style: 0.073 G_msr: 0.113 G_mask: 0.090 D_real: 0.116 D_fake: 1.897 D: 2.012 
+(epoch: 4 iter 9599) psnr:  20.103; 19.856; 19.926; 19.659;
+Sep-22-21:24:50 (epoch: 4, iters: 96800, time: 1102.969) G: 0.465 G_GAN: -0.012 G_L1_hole: 0.019 G_L1_valid: 0.017 G_prc: 0.003 G_style: 0.109 G_msr: 0.190 G_mask: 0.139 D_real: 0.870 D_fake: 1.148 D: 2.019 
+(epoch: 4 iter 9799) psnr:  20.780; 20.449; 20.541; 20.166;
+Sep-22-21:43:15 (epoch: 4, iters: 97000, time: 1105.532) G: 0.168 G_GAN: 0.021 G_L1_hole: 0.000 G_L1_valid: 0.014 G_prc: 0.001 G_style: 0.016 G_msr: 0.048 G_mask: 0.067 D_real: 1.182 D_fake: 0.821 D: 2.003 
+(epoch: 4 iter 9999) psnr:  20.300; 19.972; 20.102; 19.816;
+Sep-22-22:01:47 (epoch: 4, iters: 97200, time: 1111.245) G: 0.380 G_GAN: 0.028 G_L1_hole: 0.042 G_L1_valid: 0.017 G_prc: 0.003 G_style: 0.068 G_msr: 0.131 G_mask: 0.091 D_real: 1.153 D_fake: 0.698 D: 1.851 
+(epoch: 4 iter 10199) psnr:  20.534; 20.268; 20.262; 20.054;
+Sep-22-22:20:12 (epoch: 4, iters: 97400, time: 1105.727) G: 0.717 G_GAN: 0.065 G_L1_hole: 0.061 G_L1_valid: 0.010 G_prc: 0.004 G_style: 0.075 G_msr: 0.163 G_mask: 0.341 D_real: 1.603 D_fake: 0.413 D: 2.015 
+(epoch: 4 iter 10399) psnr:  20.698; 20.457; 20.393; 20.252;
+Sep-22-22:38:55 (epoch: 4, iters: 97600, time: 1122.360) G: 0.601 G_GAN: -0.001 G_L1_hole: 0.099 G_L1_valid: 0.029 G_prc: 0.006 G_style: 0.161 G_msr: 0.246 G_mask: 0.062 D_real: 0.814 D_fake: 0.666 D: 1.480 
+(epoch: 4 iter 10599) psnr:  20.178; 20.017; 19.986; 19.816;
+Sep-22-22:57:50 (epoch: 4, iters: 97800, time: 1135.394) G: 0.348 G_GAN: 0.033 G_L1_hole: 0.014 G_L1_valid: 0.020 G_prc: 0.002 G_style: 0.044 G_msr: 0.106 G_mask: 0.128 D_real: 1.376 D_fake: 0.644 D: 2.020 
+(epoch: 4 iter 10799) psnr:  20.516; 20.318; 20.307; 20.178;
+Sep-22-23:16:42 (epoch: 4, iters: 98000, time: 1131.449) G: 0.518 G_GAN: -0.069 G_L1_hole: 0.091 G_L1_valid: 0.011 G_prc: 0.005 G_style: 0.182 G_msr: 0.238 G_mask: 0.060 D_real: 0.434 D_fake: 1.288 D: 1.722 
+(epoch: 4 iter 10999) psnr:  21.501; 21.312; 21.062; 20.902;
+Sep-22-23:35:30 (epoch: 4, iters: 98200, time: 1128.154) G: 0.416 G_GAN: -0.014 G_L1_hole: 0.034 G_L1_valid: 0.012 G_prc: 0.003 G_style: 0.077 G_msr: 0.126 G_mask: 0.177 D_real: 0.933 D_fake: 1.153 D: 2.086 
+(epoch: 4 iter 11199) psnr:  20.432; 20.342; 20.231; 20.150;
+Sep-22-23:54:26 (epoch: 4, iters: 98400, time: 1136.439) G: 0.431 G_GAN: -0.025 G_L1_hole: 0.066 G_L1_valid: 0.020 G_prc: 0.004 G_style: 0.094 G_msr: 0.237 G_mask: 0.036 D_real: 0.733 D_fake: 1.318 D: 2.052 
+(epoch: 4 iter 11399) psnr:  20.247; 19.912; 20.059; 19.770;
+Sep-23-00:13:03 (epoch: 4, iters: 98600, time: 1116.732) G: 0.217 G_GAN: 0.004 G_L1_hole: 0.000 G_L1_valid: 0.025 G_prc: 0.002 G_style: 0.043 G_msr: 0.084 G_mask: 0.059 D_real: 1.058 D_fake: 0.980 D: 2.038 
+(epoch: 4 iter 11599) psnr:  21.052; 20.953; 20.655; 20.623;
+Sep-23-00:31:30 (epoch: 4, iters: 98800, time: 1106.776) G: 0.493 G_GAN: -0.017 G_L1_hole: 0.066 G_L1_valid: 0.011 G_prc: 0.005 G_style: 0.143 G_msr: 0.187 G_mask: 0.098 D_real: 0.404 D_fake: 1.176 D: 1.580 
+(epoch: 4 iter 11799) psnr:  20.370; 20.162; 20.160; 19.912;
+Sep-23-00:49:46 (epoch: 4, iters: 99000, time: 1096.878) G: 0.331 G_GAN: 0.029 G_L1_hole: 0.036 G_L1_valid: 0.015 G_prc: 0.003 G_style: 0.058 G_msr: 0.137 G_mask: 0.053 D_real: 0.000 D_fake: 1.789 D: 1.789 
+(epoch: 4 iter 11999) psnr:  20.067; 19.865; 19.895; 19.739;
+Sep-23-01:08:13 (epoch: 4, iters: 99200, time: 1106.904) G: 0.299 G_GAN: 0.078 G_L1_hole: 0.015 G_L1_valid: 0.014 G_prc: 0.002 G_style: 0.044 G_msr: 0.088 G_mask: 0.058 D_real: 1.676 D_fake: 0.183 D: 1.859 
+(epoch: 4 iter 12199) psnr:  20.622; 20.358; 20.337; 20.144;
+Sep-23-01:26:40 (epoch: 4, iters: 99400, time: 1107.014) G: 0.385 G_GAN: 0.062 G_L1_hole: 0.044 G_L1_valid: 0.014 G_prc: 0.004 G_style: 0.078 G_msr: 0.136 G_mask: 0.046 D_real: 1.148 D_fake: 0.387 D: 1.535 
+(epoch: 4 iter 12399) psnr:  20.437; 20.094; 20.230; 19.898;
+Sep-23-01:45:07 (epoch: 4, iters: 99600, time: 1106.412) G: 0.558 G_GAN: 0.097 G_L1_hole: 0.039 G_L1_valid: 0.028 G_prc: 0.004 G_style: 0.139 G_msr: 0.130 G_mask: 0.121 D_real: 1.573 D_fake: 0.199 D: 1.772 
+(epoch: 4 iter 12599) psnr:  21.055; 20.815; 20.791; 20.628;
+Sep-23-02:03:34 (epoch: 4, iters: 99800, time: 1106.965) G: 0.211 G_GAN: -0.018 G_L1_hole: 0.012 G_L1_valid: 0.018 G_prc: 0.002 G_style: 0.043 G_msr: 0.083 G_mask: 0.071 D_real: 0.806 D_fake: 1.232 D: 2.037 
+(epoch: 4 iter 12799) psnr:  21.079; 20.596; 20.691; 20.360;
+Sep-23-02:22:18 (epoch: 4, iters: 100000, time: 1123.889) G: 0.430 G_GAN: 0.051 G_L1_hole: 0.037 G_L1_valid: 0.029 G_prc: 0.004 G_style: 0.111 G_msr: 0.145 G_mask: 0.053 D_real: 1.460 D_fake: 0.469 D: 1.928 
+(epoch: 4 iter 12999) psnr:  20.060; 19.724; 19.844; 19.543;
+Sep-23-02:41:22 (epoch: 4, iters: 100200, time: 1144.130) G: 0.336 G_GAN: 0.082 G_L1_hole: 0.024 G_L1_valid: 0.011 G_prc: 0.002 G_style: 0.060 G_msr: 0.094 G_mask: 0.062 D_real: 1.772 D_fake: 0.203 D: 1.974 
+(epoch: 4 iter 13199) psnr:  21.478; 21.119; 21.047; 20.766;
+Sep-23-03:00:34 (epoch: 4, iters: 100400, time: 1152.661) G: 0.300 G_GAN: 0.031 G_L1_hole: 0.019 G_L1_valid: 0.015 G_prc: 0.002 G_style: 0.042 G_msr: 0.117 G_mask: 0.074 D_real: 1.242 D_fake: 0.731 D: 1.973 
+(epoch: 4 iter 13399) psnr:  20.571; 20.185; 20.312; 20.014;
+Sep-23-03:19:46 (epoch: 4, iters: 100600, time: 1151.043) G: 0.636 G_GAN: -0.015 G_L1_hole: 0.061 G_L1_valid: 0.014 G_prc: 0.005 G_style: 0.318 G_msr: 0.141 G_mask: 0.113 D_real: 1.005 D_fake: 1.408 D: 2.413 
+(epoch: 4 iter 13599) psnr:  20.107; 19.847; 19.957; 19.742;
+Sep-23-03:38:51 (epoch: 4, iters: 100800, time: 1145.817) G: 0.284 G_GAN: 0.001 G_L1_hole: 0.020 G_L1_valid: 0.015 G_prc: 0.003 G_style: 0.073 G_msr: 0.110 G_mask: 0.062 D_real: 0.540 D_fake: 1.403 D: 1.943 
+(epoch: 4 iter 13799) psnr:  21.133; 21.028; 20.759; 20.694;
+Sep-23-03:58:07 (epoch: 4, iters: 101000, time: 1156.149) G: 0.417 G_GAN: 0.008 G_L1_hole: 0.056 G_L1_valid: 0.021 G_prc: 0.004 G_style: 0.083 G_msr: 0.174 G_mask: 0.070 D_real: 0.945 D_fake: 0.899 D: 1.844 
+(epoch: 4 iter 13999) psnr:  19.971; 19.902; 19.802; 19.731;
+Sep-23-04:17:06 (epoch: 4, iters: 101200, time: 1138.711) G: 0.793 G_GAN: 0.048 G_L1_hole: 0.023 G_L1_valid: 0.049 G_prc: 0.004 G_style: 0.155 G_msr: 0.109 G_mask: 0.405 D_real: 1.013 D_fake: 1.289 D: 2.302 
+(epoch: 4 iter 14199) psnr:  20.461; 20.378; 20.196; 20.094;
+Sep-23-04:35:28 (epoch: 4, iters: 101400, time: 1101.684) G: 0.265 G_GAN: -0.007 G_L1_hole: 0.023 G_L1_valid: 0.021 G_prc: 0.003 G_style: 0.070 G_msr: 0.091 G_mask: 0.064 D_real: 0.964 D_fake: 1.136 D: 2.100 
+(epoch: 4 iter 14399) psnr:  19.917; 19.791; 19.773; 19.627;
+Sep-23-04:53:52 (epoch: 4, iters: 101600, time: 1103.643) G: 0.315 G_GAN: 0.058 G_L1_hole: 0.009 G_L1_valid: 0.024 G_prc: 0.002 G_style: 0.058 G_msr: 0.079 G_mask: 0.086 D_real: 1.791 D_fake: 0.000 D: 1.791 
+(epoch: 4 iter 14599) psnr:  20.910; 20.628; 20.512; 20.407;
+Sep-23-05:12:21 (epoch: 4, iters: 101800, time: 1109.067) G: 0.437 G_GAN: -0.001 G_L1_hole: 0.011 G_L1_valid: 0.019 G_prc: 0.004 G_style: 0.201 G_msr: 0.078 G_mask: 0.126 D_real: 1.018 D_fake: 1.034 D: 2.052 
+(epoch: 4 iter 14799) psnr:  20.114; 19.990; 19.960; 19.823;
+Sep-23-05:30:49 (epoch: 4, iters: 102000, time: 1108.070) G: 0.438 G_GAN: 0.041 G_L1_hole: 0.025 G_L1_valid: 0.081 G_prc: 0.003 G_style: 0.118 G_msr: 0.130 G_mask: 0.041 D_real: 1.335 D_fake: 0.961 D: 2.296 
+(epoch: 4 iter 14999) psnr:  20.301; 20.095; 20.083; 19.925;
+Sep-23-05:49:12 (epoch: 4, iters: 102200, time: 1103.102) G: 0.437 G_GAN: 0.013 G_L1_hole: 0.056 G_L1_valid: 0.015 G_prc: 0.004 G_style: 0.115 G_msr: 0.172 G_mask: 0.061 D_real: 0.610 D_fake: 1.403 D: 2.013 
+(epoch: 4 iter 15199) psnr:  22.805; 22.134; 21.931; 21.580;
+Sep-23-06:07:44 (epoch: 4, iters: 102400, time: 1112.673) G: 0.249 G_GAN: 0.054 G_L1_hole: 0.000 G_L1_valid: 0.023 G_prc: 0.001 G_style: 0.028 G_msr: 0.062 G_mask: 0.081 D_real: 1.569 D_fake: 0.461 D: 2.030 
+(epoch: 4 iter 15399) psnr:  20.071; 19.753; 19.959; 19.651;
+Sep-23-06:26:18 (epoch: 4, iters: 102600, time: 1113.542) G: 0.709 G_GAN: 0.011 G_L1_hole: 0.000 G_L1_valid: 0.020 G_prc: 0.002 G_style: 0.053 G_msr: 0.072 G_mask: 0.551 D_real: 1.151 D_fake: 0.881 D: 2.032 
+(epoch: 4 iter 15599) psnr:  19.884; 19.631; 19.742; 19.550;
+Sep-23-06:44:39 (epoch: 4, iters: 102800, time: 1101.427) G: 0.466 G_GAN: 0.043 G_L1_hole: 0.042 G_L1_valid: 0.018 G_prc: 0.004 G_style: 0.097 G_msr: 0.140 G_mask: 0.121 D_real: 1.380 D_fake: 0.598 D: 1.978 
+(epoch: 4 iter 15799) psnr:  19.815; 19.626; 19.752; 19.539;
+Sep-23-07:03:05 (epoch: 4, iters: 103000, time: 1105.454) G: 0.507 G_GAN: 0.050 G_L1_hole: 0.000 G_L1_valid: 0.040 G_prc: 0.002 G_style: 0.048 G_msr: 0.080 G_mask: 0.288 D_real: 1.543 D_fake: 0.500 D: 2.043 
+(epoch: 4 iter 15999) psnr:  20.278; 20.280; 19.975; 19.855;
+Sep-23-07:21:26 (epoch: 4, iters: 103200, time: 1101.492) G: 0.229 G_GAN: 0.021 G_L1_hole: 0.000 G_L1_valid: 0.035 G_prc: 0.001 G_style: 0.030 G_msr: 0.073 G_mask: 0.070 D_real: 1.176 D_fake: 0.827 D: 2.003 
+(epoch: 4 iter 16199) psnr:  19.979; 19.844; 19.844; 19.706;
+Sep-23-07:39:42 (epoch: 4, iters: 103400, time: 1095.217) G: 0.240 G_GAN: -0.020 G_L1_hole: 0.026 G_L1_valid: 0.011 G_prc: 0.002 G_style: 0.046 G_msr: 0.093 G_mask: 0.082 D_real: 1.302 D_fake: 0.636 D: 1.938 
+(epoch: 4 iter 16399) psnr:  20.138; 19.976; 19.937; 19.817;
+Sep-23-07:58:04 (epoch: 4, iters: 103600, time: 1101.972) G: 0.184 G_GAN: -0.086 G_L1_hole: 0.016 G_L1_valid: 0.021 G_prc: 0.002 G_style: 0.088 G_msr: 0.085 G_mask: 0.058 D_real: 0.278 D_fake: 1.831 D: 2.109 
+(epoch: 4 iter 16599) psnr:  19.977; 19.852; 19.811; 19.693;
+Sep-23-08:16:26 (epoch: 4, iters: 103800, time: 1102.676) G: 0.429 G_GAN: 0.082 G_L1_hole: 0.039 G_L1_valid: 0.012 G_prc: 0.003 G_style: 0.082 G_msr: 0.134 G_mask: 0.078 D_real: 1.971 D_fake: 0.150 D: 2.120 
+(epoch: 4 iter 16799) psnr:  20.540; 20.248; 20.275; 20.079;
+Sep-23-08:34:53 (epoch: 4, iters: 104000, time: 1106.514) G: 0.371 G_GAN: -0.004 G_L1_hole: 0.021 G_L1_valid: 0.011 G_prc: 0.002 G_style: 0.120 G_msr: 0.089 G_mask: 0.131 D_real: 0.973 D_fake: 1.008 D: 1.982 
+(epoch: 4 iter 16999) psnr:  19.989; 19.786; 19.828; 19.682;
+Sep-23-08:53:13 (epoch: 4, iters: 104200, time: 1100.679) G: 0.489 G_GAN: 0.033 G_L1_hole: 0.075 G_L1_valid: 0.012 G_prc: 0.006 G_style: 0.101 G_msr: 0.200 G_mask: 0.062 D_real: 1.291 D_fake: 0.638 D: 1.929 
+(epoch: 4 iter 17199) psnr:  20.291; 20.062; 20.059; 19.880;
+Sep-23-09:11:29 (epoch: 4, iters: 104400, time: 1095.990) G: 0.341 G_GAN: 0.012 G_L1_hole: 0.023 G_L1_valid: 0.022 G_prc: 0.003 G_style: 0.091 G_msr: 0.123 G_mask: 0.067 D_real: 1.298 D_fake: 0.706 D: 2.004 
